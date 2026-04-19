@@ -6,7 +6,7 @@ export async function generateMetadata({ params }) {
   return {
     title: 'Contact Us | Ulcinj Car Rental',
     description: 'Get in touch with Ulcinj Car Rental.',
-    alternates: buildAlternates('contact'),
+    alternates: buildAlternates('contact', lang),
   };
 }
 

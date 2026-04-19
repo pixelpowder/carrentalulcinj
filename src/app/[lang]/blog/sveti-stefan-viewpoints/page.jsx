@@ -6,7 +6,7 @@ export async function generateMetadata({ params }) {
   return {
     title: t(lang, 'blogStefan.title') + ' | Ulcinj Car Rental',
     description: t(lang, 'blogStefan.description'),
-    alternates: buildAlternates('blog/sveti-stefan-viewpoints'),
+    alternates: buildAlternates('blog/sveti-stefan-viewpoints', lang),
   };
 }
 
