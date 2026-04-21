@@ -4,7 +4,7 @@ const siteConfig = {
   domain: "carrentalulcinj.com",
   phone: "",
   email: "info@carrentalulcinj.com",
-  address: "Ulcinj, Montenegro",
+  address: "Tabacina BB, Kotor, 85330",
 
   hero: {
     headline: "Ulcinj Car Rental — Montenegro's Southern Coast",
