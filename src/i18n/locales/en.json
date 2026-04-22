@@ -1418,21 +1418,21 @@
     "countriesPermitted": "Countries Permitted"
   },
   "insiderTips": {
-    "label": "Insider Tips",
-    "title": "Three Things Every Ulcinj Driver Should Know",
+    "label": "Southern Coast Tips",
+    "title": "Local Wisdom for Montenegro’s South",
     "items": {
       "0": {
-        "tag": "Booking",
+        "tag": "Book ahead",
         "title": "Kitesurf Season Clears the Fleet",
         "text": "Velika Plaža fills with kitesurfers from May to September — and the rental fleet thins with them. Lock in your car a couple of weeks before a July or August pickup."
       },
       "1": {
-        "tag": "Driving",
+        "tag": "Off the tarmac",
         "title": "Ada Bojana Sand Needs Four Wheels",
         "text": "Tarmac ends at the Ada Bojana bridge. The sand tracks to the fish restaurants and the river mouth chew tyres on two-wheel-drive cars — book a Jeep or Stonic if this is on your list."
       },
       "2": {
-        "tag": "Borders",
+        "tag": "Albanian border",
         "title": "Sukobin Is the Quiet Border",
         "text": "The Sukobin-Muriqan crossing to Albania sits 20 minutes south of town and rarely has more than two cars ahead of you. Albanian Green Card included at booking when you mention the Shkodër trip."
       }
