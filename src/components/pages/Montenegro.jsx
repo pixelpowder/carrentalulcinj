@@ -6,48 +6,47 @@ export default function Montenegro() {
   const { localePath } = useTranslation();
   return (
     <ContentPage
-      title="Driving the Adriatic Coast — A Montenegro Overview"
-      subtitle="The country is small, the coast is dense. What you can reasonably cover by car with Budva as a base."
-      description="A practical overview of Montenegro for Budva-based self-drive visitors: coastal towns, inland detours, typical drive times, and border crossings."
-      image="/img/blog-budva-oldtown.webp"
+      title="Driving Montenegro from the Southern Tip"
+      subtitle="What the country looks like with Ulcinj as a base — coast south of Bar, Lake Skadar interior, and two-country access to Albania."
+      description="A practical overview of Montenegro for Ulcinj-based self-drive visitors: southern coast, lake country, typical drive times, and the Albanian border."
+      image="/img/blog-ulcinj-oldtown.webp"
     >
-      <h2>Montenegro in rough numbers</h2>
-      <p>Montenegro is under 14,000 square kilometres — roughly the size of Northern Ireland. Population 620,000. About 290 km of Adriatic coastline, of which the most concentrated resort strip — the Budva Riviera — is 25 km. The interior is dominated by limestone mountains rising to over 2,500 metres within 30 km of the sea.</p>
-      <p>For a Budva-based visitor, that means an hour's drive brings you to dramatically different terrain: coastal towns, high mountain passes, lake country, or into Albania.</p>
+      <h2>Ulcinj as a base — the southernmost angle</h2>
+      <p>Ulcinj is the last town on Montenegro's coast before Albania. That single geographic fact defines what the country looks like from here: the long sand beaches start here and stretch south, Lake Skadar sits directly inland, and the Albanian border is 20 minutes away. North of Ulcinj, the mountainous Bar-to-Budva coast takes over — reachable in under an hour, but a different landscape entirely.</p>
 
-      <h2>The Budva Riviera (your home strip)</h2>
-      <p>Jaz Beach, Budva Old Town, Slovenska Plaza, Bečići, Rafailovići, Pržno, Miločer, Sveti Stefan, Petrovac. 25 km end-to-end, covered by the coastal E65. See our <a href={localePath('/blog/budva-to-sveti-stefan-drive')}>coastal stop-by-stop guide</a>.</p>
+      <h2>The southern coast (your home strip)</h2>
+      <p>Mala Plaža in town, then Velika Plaža beginning east of the Bojana river — twelve kilometres of flat sand ending at the Albanian border. Ada Bojana river island sits at the southern end. <a href={localePath('/blog/velika-plaza-long-beach')}>Long Beach</a> and <a href={localePath('/blog/ada-bojana-river-island')}>Ada Bojana</a> are the defining landmarks — nothing like them exists anywhere else on Montenegro's coast.</p>
 
       <h2>Within 60 minutes by car</h2>
       <ul>
-        <li><a href={localePath('/blog/tivat-airport-to-budva')}>Tivat Airport</a> — 25 min (main gateway)</li>
-        <li>Kotor Bay and Old Town — 30 min</li>
-        <li><a href={localePath('/blog/pastrovici-highlands-drive')}>Paštrovići highlands</a> — 30 min inland</li>
-        <li>Cetinje royal capital — 45 min via Lovćen</li>
-        <li>Herceg Novi — 50 min to the west</li>
-        <li>Bar port — 45 min south</li>
+        <li>Bar port — 25 min north (Bari ferry arrival)</li>
+        <li>Valdanos Bay olive groves — 10 min</li>
+        <li><a href={localePath('/blog/ada-bojana-river-island')}>Ada Bojana</a> — 20 min south</li>
+        <li>Sukobin border (Albania) — 20 min</li>
+        <li><a href={localePath('/blog/skadar-lake-from-ulcinj')}>Lake Skadar (Virpazar)</a> — 45 min inland</li>
+        <li><a href={localePath('/blog/shkoder-albania-day-trip')}>Shkodër, Albania</a> — 45 min across the border</li>
       </ul>
 
-      <h2>Longer trips from Budva</h2>
+      <h2>Longer trips from Ulcinj</h2>
       <ul>
-        <li>Podgorica (capital) — 65 min</li>
-        <li>Lake Skadar (Virpazar) — 75 min</li>
-        <li>Ulcinj (southernmost coast) — 75 min</li>
+        <li>Podgorica (capital / airport) — 1 hr</li>
+        <li>Budva Riviera — 1 hr 15 min</li>
+        <li>Kotor Bay — 1 hr 40 min</li>
+        <li>Tivat Airport — 1 hr 50 min</li>
+        <li>Tirana, Albania — 2 hr 30 min (via Shkodër)</li>
         <li>Ostrog Monastery — 2 hr</li>
-        <li>Shkodër, Albania — 2 hr (border at Božaj)</li>
-        <li>Dubrovnik, Croatia — 2 hr (border at Debeli Brijeg)</li>
-        <li>Tara Canyon / Žabljak — 3.5 hr</li>
+        <li>Žabljak / Tara Canyon — 4 hr</li>
       </ul>
 
       <h2>Borders and cross-country driving</h2>
-      <p>Montenegro borders Albania, Kosovo, Serbia, Bosnia and Herzegovina, and Croatia. All five are reachable by car from Budva. Most EU/UK/US/Australian passports enter visa-free. Rental cars need a Green Card for cross-border — we include it by default when you tell us your plans at booking.</p>
-      <p>The two most-used crossings from Budva: <strong>Debeli Brijeg</strong> for Croatia (Dubrovnik 2 hr), <strong>Božaj</strong> for Albania (Shkodër 2 hr).</p>
+      <p>Ulcinj's most-used crossing by far is <strong>Sukobin-Muriqan</strong> into Albania — 20 minutes south, usually quiet, and a fast run on to Shkodër. The old crossing at Hani i Hotit near Božaj is another option if you're heading to Lake Shkodër's southern shore. Most rentals include Albanian Green Card insurance when you tell us at booking.</p>
+      <p>Going north, the coast road runs through Bar, Petrovac, Budva and onto the Bay of Kotor. Kosovo, Serbia and Bosnia are reachable in a long day via Podgorica.</p>
 
       <h2>When to visit</h2>
-      <p><strong>May-June:</strong> mild coast, warm sea by late May, thin coastal crowds, wildflower interior. Best overall.</p>
-      <p><strong>July-August:</strong> hot, crowded, festival season at Jaz Beach. The classic Riviera experience, at peak prices.</p>
-      <p><strong>September:</strong> the sweet spot. Warm water, calmer beaches, wine harvest inland.</p>
-      <p><strong>October-April:</strong> coast quiet and cheap. Most beach bars closed. Interior can get serious winter snow from December.</p>
+      <p><strong>May-June:</strong> warm sea by mid-May (Ulcinj is the country's warmest coast), thin crowds, olive blossom at Valdanos. The best time for Long Beach before the summer heat.</p>
+      <p><strong>July-August:</strong> very hot (35°C+ common), the beach bars in full swing, kitesurfing season, festival weekends at Ada Bojana.</p>
+      <p><strong>September-October:</strong> warm water lasts into mid-October here — the longest swimming season in Montenegro. Wine harvest at Lake Skadar.</p>
+      <p><strong>November-April:</strong> coast quiet, most beach businesses closed, but Stari Grad and Valdanos are atmospheric year-round.</p>
     </ContentPage>
   );
 }

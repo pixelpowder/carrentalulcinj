@@ -12,16 +12,16 @@ const cardExcerptStyle = { fontSize: '15px', color: 'var(--gray-600, #6c757d)', 
 const cardLinkStyle = { fontSize: '14px', fontWeight: 700, color: '#E31937', textDecoration: 'none', display: 'inline-flex', alignItems: 'center', gap: '4px' };
 
 const articles = [
-  { title: 'Sveti Stefan — The Best Photo Spots (And How to Reach Them)', excerpt: "Every angle on Montenegro's most-photographed island: the St Sava lookout, the coastal pull-offs, kayak hire, and the aerial shot from Đenaši village.", image: '/img/blog-sveti-stefan.webp', href: '/blog/sveti-stefan-photo-spots' },
-  { title: 'Budva Old Town Walls — A 2,500-Year Fortress on the Adriatic', excerpt: "Venetian walls, the Citadel, the Illyrian helmets in the town museum, and the Roman villa the 1979 earthquake uncovered.", image: '/img/blog-budva-oldtown.webp', href: '/blog/budva-old-town-walls' },
-  { title: 'Bečići & Rafailovići — The Seafront Promenade Walk from Budva', excerpt: "Two kilometres of sand, a cliffside promenade with two tunnels, and the seafood restaurants at the far end (Tri Ribara, Porat).", image: '/img/blog-becici.webp', href: '/blog/becici-rafailovici-promenade' },
-  { title: 'Sveti Nikola (Hawaii) — The Island Off Budva Old Town', excerpt: "Montenegro's largest island, 15 minutes by boat from Slovenska Plaza. Three beaches, deer in pine forest, water so clear they call it Hawaii.", image: '/img/blog-sveti-nikola.webp', href: '/blog/sveti-nikola-hawaii' },
-  { title: 'Jaz Beach — The Rolling Stones Beach and Festival Logistics', excerpt: "The beach that hosted the Stones in 2007, Madonna in 2008, and Sea Dance 2014-2017. Swimming the other 11 months of the year.", image: '/img/blog-jaz.webp', href: '/blog/jaz-beach-festivals' },
-  { title: 'The Paštrovići Highlands Drive — Inland from Budva', excerpt: "Praskvica Monastery (founded c.1050), Kosmač Fortress at 800m, and the empty hill villages of the old Paštrovići clan.", image: '/img/blog-pastrovici.webp', href: '/blog/pastrovici-highlands-drive' },
-  { title: 'Petrovac — The Quiet Alternative to Budva', excerpt: "Twenty minutes south: a 600m beach, a 16th-century Venetian fortress, and no coach-tour crowds.", image: '/img/blog-petrovac.webp', href: '/blog/petrovac-quiet-alternative' },
-  { title: 'Tivat Airport to Budva — The 25-Minute Drive and Route Options', excerpt: "20 km direct, 25-30 minutes. Plus the Kotor detour and the Lovćen serpentine scenic route.", image: '/img/blog-tivat-arrival.webp', href: '/blog/tivat-airport-to-budva' },
-  { title: 'Budva to Sveti Stefan — The Short Coastal Drive with All the Stops', excerpt: "Ten minutes on paper, half a day in practice. Stop-by-stop guide to Bečići, Kamenovo, Pržno and Miločer.", image: '/img/blog-budva-svetistefan.webp', href: '/blog/budva-to-sveti-stefan-drive' },
-  { title: "Budva Nightlife — The Riviera's Club Strip and Where to Park", excerpt: "Top Hill club, the Slovenska Plaza strip, Old Town lounges, drink-drive law and overnight parking strategy.", image: '/img/blog-budva-nightlife.webp', href: '/blog/budva-nightlife' },
+  { title: 'Ulcinj Old Town — The Pirate Fortress of the Adriatic', excerpt: "A medieval citadel on a rocky promontory that spent the 17th century as the Adriatic's most notorious pirate base, selling a young Cervantes into slavery along the way.", image: '/img/blog-ulcinj-oldtown.webp', href: '/blog/ulcinj-old-town-fortress' },
+  { title: 'Velika Plaža — Europe\'s Longest Sand Beach Outside the Baltic', excerpt: "Twelve kilometres of flat, shallow sand on Montenegro's southern tip — the kitesurf capital of the Adriatic and the country's quietest stretch of coast.", image: '/img/blog-velika-plaza.webp', href: '/blog/velika-plaza-long-beach' },
+  { title: 'Ada Bojana — The Triangular River Island at the Albanian Border', excerpt: "A sand island where the Bojana river meets the sea. Fish restaurants on stilts over the water, wild horses on the sand, and a nudist tradition going back to the 1970s.", image: '/img/blog-ada-bojana.webp', href: '/blog/ada-bojana-river-island' },
+  { title: "Valdanos Bay — 80,000 Ancient Olive Trees Wrapping a Hidden Cove", excerpt: "A sheltered pebble bay four kilometres north of town, set inside one of the largest old-growth olive groves in the Mediterranean.", image: '/img/blog-valdanos.webp', href: '/blog/valdanos-olive-groves' },
+  { title: 'Mala Plaža — The In-Town Beach Beneath the Stari Grad Walls', excerpt: "The sandy crescent right beneath Ulcinj Old Town — swim before breakfast, café-lined boardwalk, sunset over the fortress.", image: '/img/blog-mala-plaza.webp', href: '/blog/mala-plaza-in-town' },
+  { title: 'Shkodër Day Trip — Crossing to Albania from Ulcinj', excerpt: "Forty-five minutes to Albania's northern cultural capital via the Sukobin-Muriqan border. Rozafa Castle, Lake Shkodër, and the bazaar — back in Ulcinj for dinner.", image: '/img/blog-shkoder.webp', href: '/blog/shkoder-albania-day-trip' },
+  { title: 'Lake Skadar from Ulcinj — The Pelican Lake Just Inland', excerpt: "Forty-five minutes inland to the Balkans' largest lake. Pelican colonies at Pančeva Oka, Crnojević wineries, and the ruined Žabljak fortress on the water.", image: '/img/blog-skadar.webp', href: '/blog/skadar-lake-from-ulcinj' },
+  { title: 'Podgorica Airport to Ulcinj — The 70 km Drive and Route Choices', excerpt: "Podgorica Airport is the closer arrival gateway — 70 km, around an hour via the new highway to Sukobin. Plus the scenic Lake Skadar route for the return leg.", image: '/img/blog-podgorica-arrival.webp', href: '/blog/podgorica-airport-to-ulcinj' },
+  { title: 'Ulcinj to Shkodër and Back — A Day Drive Across the Border', excerpt: "The practical details: border paperwork, Albanian car insurance, lek vs. euro, and the scenic River Bojana loop on the way back.", image: '/img/blog-ulcinj-shkoder-drive.webp', href: '/blog/ulcinj-to-shkoder-drive' },
+  { title: 'Kitesurfing on Long Beach — Why Velika Plaža Is the Adriatic Hub', excerpt: "Flat shallow water, steady cross-shore wind, two kitesurf schools at the Copacabana end. When to come, where to park, and how to rent.", image: '/img/blog-kitesurfing.webp', href: '/blog/velika-plaza-kitesurfing' },
 ];
 
 export default function BlogIndex() {
@@ -29,7 +29,7 @@ export default function BlogIndex() {
   return (
     <div className="content-page">
       <Nav />
-      <div className="content-hero" style={{ backgroundImage: 'url(/img/blog-budva-oldtown.webp)' }}>
+      <div className="content-hero" style={{ backgroundImage: 'url(/img/blog-ulcinj-oldtown.webp)' }}>
         <div className="content-hero__overlay" />
         <div className="content-hero__text">
           <nav className="breadcrumbs">
@@ -37,8 +37,8 @@ export default function BlogIndex() {
             <span className="breadcrumbs__sep">/</span>
             <span>Blog</span>
           </nav>
-          <h1 className="content-hero__title">Driving the Budva Riviera</h1>
-          <p className="content-hero__subtitle">Researched guides to the beaches, old towns, coastal drives and hidden inland corners of the Budva Riviera.</p>
+          <h1 className="content-hero__title">Driving Ulcinj and the Southern Coast</h1>
+          <p className="content-hero__subtitle">Researched guides to Long Beach, Ada Bojana, the Stari Grad fortress, and the cross-border drives into Albania from Montenegro's southernmost town.</p>
         </div>
       </div>
       <div style={{ maxWidth: '1220px', margin: '0 auto', padding: '48px 24px 80px', width: '100%' }}>
