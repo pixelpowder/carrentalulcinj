@@ -15,13 +15,13 @@ export default function Montenegro() {
       <p>Ulcinj is the last town on Montenegro's coast before Albania. That single geographic fact defines what the country looks like from here: the long sand beaches start here and stretch south, Lake Skadar sits directly inland, and the Albanian border is 20 minutes away. North of Ulcinj, the mountainous Bar-to-Budva coast takes over — reachable in under an hour, but a different landscape entirely.</p>
 
       <h2>The southern coast (your home strip)</h2>
-      <p>Mala Plaža in town, then Velika Plaža beginning east of the Bojana river — twelve kilometres of flat sand ending at the Albanian border. Ada Bojana river island sits at the southern end. <a href={localePath('/blog/velika-plaza-long-beach')}>Long Beach</a> and <a href={localePath('/blog/ada-bojana-river-island')}>Ada Bojana</a> are the defining landmarks — nothing like them exists anywhere else on Montenegro's coast.</p>
+      <p>Mala Plaža in town, then Velika Plaža beginning east of the Bojana river — twelve kilometres of flat sand ending at the Albanian border. Ada Bojana river island sits at the southern end. <a href={localePath('/blog/velika-plaza-long-beach')}>Long Beach</a> and <a href={localePath('/blog/ada-bojana-fish-stilts-and-fkk')}>Ada Bojana</a> are the defining landmarks — nothing like them exists anywhere else on Montenegro's coast.</p>
 
       <h2>Within 60 minutes by car</h2>
       <ul>
         <li>Bar port — 25 min north (Bari ferry arrival)</li>
         <li>Valdanos Bay olive groves — 10 min</li>
-        <li><a href={localePath('/blog/ada-bojana-river-island')}>Ada Bojana</a> — 20 min south</li>
+        <li><a href={localePath('/blog/ada-bojana-fish-stilts-and-fkk')}>Ada Bojana</a> — 20 min south</li>
         <li>Sukobin border (Albania) — 20 min</li>
         <li><a href={localePath('/blog/skadar-lake-from-ulcinj')}>Lake Skadar (Virpazar)</a> — 45 min inland</li>
         <li><a href={localePath('/blog/shkoder-albania-day-trip')}>Shkodër, Albania</a> — 45 min across the border</li>

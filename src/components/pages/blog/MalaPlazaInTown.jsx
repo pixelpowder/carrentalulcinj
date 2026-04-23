@@ -40,7 +40,7 @@ export default function MalaPlazaInTown() {
       <p>The short version: Mala Plaža is for convenience, atmosphere, and the view; <a href={localePath('/blog/velika-plaza-long-beach')}>Velika Plaža</a> is for space, shallow water, and escape. Most people staying a week do both. The 10-15 minute drive out to the long beach is worth doing at least once.</p>
 
       <h2>Pair with</h2>
-      <p>Climb straight up from the beach into <a href={localePath('/blog/ulcinj-old-town-fortress')}>Stari Grad</a> before dinner, or take an evening drink on the boardwalk and then a taxi out to <a href={localePath('/blog/ada-bojana-river-island')}>Ada Bojana</a> for a late fish dinner over the river.</p>
+      <p>Climb straight up from the beach into <a href={localePath('/blog/ulcinj-old-town-fortress')}>Stari Grad</a> before dinner, or take an evening drink on the boardwalk and then a taxi out to <a href={localePath('/blog/ada-bojana-fish-stilts-and-fkk')}>Ada Bojana</a> for a late fish dinner over the river.</p>
 
       <div className="route-info">
         <h3>At a glance</h3>

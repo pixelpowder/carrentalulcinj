@@ -5,7 +5,7 @@ export async function generateMetadata() {
   return {
     title: "Kitesurfing on Long Beach — Why Velika Plaža Is the Adriatic Hub" + ' | Car Rental Ulcinj',
     description: "A guide to kitesurfing on Velika Plaža — the wind, the water, the schools at Copacabana, gear rental, best season, and where to park and stay.",
-    alternates: buildAlternates('blog/velika-plaza-kitesurfing'),
+    alternates: buildAlternates('blog/velika-plaza-kite-schools'),
     openGraph: { title: "Kitesurfing on Long Beach — Why Velika Plaža Is the Adriatic Hub", description: "A guide to kitesurfing on Velika Plaža — the wind, the water, the schools at Copacabana, gear rental, best season, and where to park and stay.", type: 'website' },
   };
 }

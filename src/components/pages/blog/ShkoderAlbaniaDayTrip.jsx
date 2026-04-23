@@ -45,7 +45,7 @@ export default function ShkoderAlbaniaDayTrip() {
       <p>The language barrier is real — English is not as widely spoken as in Montenegro, especially off the main street. A translation app and the universal point-and-smile method cover most situations.</p>
 
       <h2>Pair with</h2>
-      <p>If you have two days, combine Shkodër with a stop at <a href={localePath('/blog/ada-bojana-river-island')}>Ada Bojana</a> on the way back — the island is right next to the border road.</p>
+      <p>If you have two days, combine Shkodër with a stop at <a href={localePath('/blog/ada-bojana-fish-stilts-and-fkk')}>Ada Bojana</a> on the way back — the island is right next to the border road.</p>
 
       <div className="route-info">
         <h3>At a glance</h3>

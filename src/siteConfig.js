@@ -65,7 +65,7 @@ const siteConfig = {
   destinations: [
     { name: "Ulcinj Old Town", slug: "blog/ulcinj-old-town-fortress", tag: "Pirate fortress", desc: "A medieval promontory citadel — once the Adriatic's most notorious pirate base.", image: "/img/blog-ulcinj-oldtown.webp" },
     { name: "Velika Plaža", slug: "blog/velika-plaza-long-beach", tag: "12 km of sand", desc: "Europe's longest sand beach outside the Baltic — flat, shallow, kitesurf capital of Montenegro.", image: "/img/blog-velika-plaza.webp" },
-    { name: "Ada Bojana", slug: "blog/ada-bojana-river-island", tag: "River island", desc: "Triangular island where the Bojana river meets the Adriatic — fish restaurants on stilts, horses on the sand.", image: "/img/blog-ada-bojana.webp" },
+    { name: "Ada Bojana", slug: "blog/ada-bojana-fish-stilts-and-fkk", tag: "River island", desc: "Triangular island where the Bojana river meets the Adriatic — fish restaurants on stilts, horses on the sand.", image: "/img/blog-ada-bojana.webp" },
     { name: "Valdanos Bay", slug: "blog/valdanos-olive-groves", tag: "Hidden cove", desc: "Tens of thousands of ancient olive trees wrap a sheltered bay 4 km north of town.", image: "/img/blog-valdanos.webp" },
     { name: "Mala Plaža", slug: "blog/mala-plaza-in-town", tag: "In-town beach", desc: "The sandy crescent right beneath the Stari Grad walls — swim before breakfast.", image: "/img/blog-mala-plaza.webp" },
     { name: "Shkodër Day Trip", slug: "blog/shkoder-albania-day-trip", tag: "Cross-border", desc: "Albania's northern cultural capital — 45 minutes across the Sukobin border.", image: "/img/blog-shkoder.webp" },

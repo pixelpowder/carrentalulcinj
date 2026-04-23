@@ -43,7 +43,7 @@ export default function UlcinjToShkoderDrive() {
       <p>Paid surface parking exists near the pedestrian street and around the castle. A couple of euros in lek per hour. There is also unregulated street parking on the residential streets one block back. Do not leave visible valuables; it is not a high-crime city but opportunistic break-ins happen.</p>
 
       <h2>The River Bojana loop on the way back</h2>
-      <p>If you have time on the return, take the minor road that follows the Albanian (south) bank of the Bojana river west from Shkodër toward the sea. It is a lovely, slow drive through small villages, fish farms, and reed-bed. You rejoin the main road before the border, but it adds maybe 40 minutes of drive time for a genuinely different look at the same river you see from <a href={localePath('/blog/ada-bojana-river-island')}>Ada Bojana</a>.</p>
+      <p>If you have time on the return, take the minor road that follows the Albanian (south) bank of the Bojana river west from Shkodër toward the sea. It is a lovely, slow drive through small villages, fish farms, and reed-bed. You rejoin the main road before the border, but it adds maybe 40 minutes of drive time for a genuinely different look at the same river you see from <a href={localePath('/blog/ada-bojana-fish-stilts-and-fkk')}>Ada Bojana</a>.</p>
       <p>Once back through Sukobin, a sunset stop at Ada Bojana for dinner on a stilt-restaurant is the textbook ending to the day.</p>
 
       <h2>Common pitfalls</h2>
@@ -55,7 +55,7 @@ export default function UlcinjToShkoderDrive() {
       </ul>
 
       <h2>Pair with</h2>
-      <p>Combine the drive with the sights covered in our <a href={localePath('/blog/shkoder-albania-day-trip')}>Shkodër day-trip guide</a>. On the return, loop past <a href={localePath('/blog/ada-bojana-river-island')}>Ada Bojana</a> for dinner or back into town for an evening on the <a href={localePath('/blog/mala-plaza-in-town')}>Mala Plaža</a> boardwalk.</p>
+      <p>Combine the drive with the sights covered in our <a href={localePath('/blog/shkoder-albania-day-trip')}>Shkodër day-trip guide</a>. On the return, loop past <a href={localePath('/blog/ada-bojana-fish-stilts-and-fkk')}>Ada Bojana</a> for dinner or back into town for an evening on the <a href={localePath('/blog/mala-plaza-in-town')}>Mala Plaža</a> boardwalk.</p>
 
       <div className="route-info">
         <h3>At a glance</h3>

@@ -5,7 +5,7 @@ export async function generateMetadata() {
   return {
     title: "Ada Bojana — The Triangular River Island at the Albanian Border" + ' | Car Rental Ulcinj',
     description: "A guide to Ada Bojana — how the triangular island formed, the FKK tradition, the riverside restaurants, the back-channel beach, and driving directions from Ulcinj.",
-    alternates: buildAlternates('blog/ada-bojana-river-island'),
+    alternates: buildAlternates('blog/ada-bojana-fish-stilts-and-fkk'),
     openGraph: { title: "Ada Bojana — The Triangular River Island at the Albanian Border", description: "A guide to Ada Bojana — how the triangular island formed, the FKK tradition, the riverside restaurants, the back-channel beach, and driving directions from Ulcinj.", type: 'website' },
   };
 }
