@@ -9,7 +9,7 @@ export default function Montenegro() {
       title="Driving Montenegro from the Southern Tip"
       subtitle="What the country looks like with Ulcinj as a base — coast south of Bar, Lake Skadar interior, and two-country access to Albania."
       description="A practical overview of Montenegro for Ulcinj-based self-drive visitors: southern coast, lake country, typical drive times, and the Albanian border."
-      image="/img/blog-ulcinj-oldtown.webp"
+      image="/img/blog-ulcinj-old-town-fortress.webp"
     >
       <h2>Ulcinj as a base — the southernmost angle</h2>
       <p>Ulcinj is the last town on Montenegro's coast before Albania. That single geographic fact defines what the country looks like from here: the long sand beaches start here and stretch south, Lake Skadar sits directly inland, and the Albanian border is 20 minutes away. North of Ulcinj, the mountainous Bar-to-Budva coast takes over — reachable in under an hour, but a different landscape entirely.</p>

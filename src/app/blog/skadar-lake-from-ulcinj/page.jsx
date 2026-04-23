@@ -16,7 +16,7 @@ export default function SkadarLakeFromUlcinjRoute() {
     "@type": "Article",
     "headline": "Lake Skadar from Ulcinj — The Pelican Lake Just Inland",
     "description": "A guide to Lake Skadar from Ulcinj — the best viewpoints, pelican watching at Pančeva Oka, the Crnojević river wineries, and Žabljak Crnojevića fortress.",
-    "image": "https://www.carrentalulcinj.com/img/blog-skadar.webp",
+    "image": "https://www.carrentalulcinj.com/img/blog-skadar-lake-from-ulcinj.webp",
     "datePublished": "2026-04-22",
     "dateModified": "2026-04-22",
     "author": { "@type": "Organization", "name": "Car Rental Ulcinj", "url": "https://www.carrentalulcinj.com" },

@@ -45,7 +45,7 @@ const RELATED = {
   ],
   'skoda-octavia': [
     { href: '/blog/velika-plaza-long-beach', img: '/img/blog-velika-plaza-long-beach.webp', title: 'Velika Plaža — Long Beach' },
-    { href: '/blog/ada-bojana-fish-stilts-and-fkk', img: '/img/blog-ada-bojana-fish-stilts-and-fkk.webp', title: 'Ada Bojana river island' },
+    { href: '/blog/ada-bojana-fish-stilts-and-fkk', img: '/img/blog-ada-bojana-river-island.webp', title: 'Ada Bojana river island' },
     { href: '/blog/shkoder-albania-day-trip', img: '/img/blog-shkoder-albania-day-trip.webp', title: 'Shkodër (Albania) day trip' },
   ],
   'toyota-corolla': [
@@ -60,12 +60,12 @@ const RELATED = {
   ],
   'fiat-500c': [
     { href: '/blog/mala-plaza-in-town', img: '/img/blog-mala-plaza-in-town.webp', title: 'Mala Plaža — in-town beach' },
-    { href: '/blog/velika-plaza-kite-schools', img: '/img/blog-velika-plaza-kite-schools.webp', title: 'Kitesurfing Velika Plaža' },
+    { href: '/blog/velika-plaza-kite-schools', img: '/img/blog-velika-plaza-kitesurfing.webp', title: 'Kitesurfing Velika Plaža' },
     { href: '/blog/valdanos-olive-groves', img: '/img/blog-valdanos-olive-groves.webp', title: 'Valdanos olive groves' },
   ],
   'fiat-500': [
     { href: '/blog/mala-plaza-in-town', img: '/img/blog-mala-plaza-in-town.webp', title: 'Mala Plaža — in-town beach' },
-    { href: '/blog/velika-plaza-kite-schools', img: '/img/blog-velika-plaza-kite-schools.webp', title: 'Kitesurfing Velika Plaža' },
+    { href: '/blog/velika-plaza-kite-schools', img: '/img/blog-velika-plaza-kitesurfing.webp', title: 'Kitesurfing Velika Plaža' },
     { href: '/blog/valdanos-olive-groves', img: '/img/blog-valdanos-olive-groves.webp', title: 'Valdanos olive groves' },
   ],
   'bmw-x3': [
@@ -74,7 +74,7 @@ const RELATED = {
     { href: '/blog/ulcinj-to-shkoder-drive', img: '/img/blog-ulcinj-to-shkoder-drive.webp', title: 'Ulcinj to Shkodër drive' },
   ],
   'jeep-renegade': [
-    { href: '/blog/ada-bojana-fish-stilts-and-fkk', img: '/img/blog-ada-bojana-fish-stilts-and-fkk.webp', title: 'Ada Bojana river island' },
+    { href: '/blog/ada-bojana-fish-stilts-and-fkk', img: '/img/blog-ada-bojana-river-island.webp', title: 'Ada Bojana river island' },
     { href: '/blog/valdanos-olive-groves', img: '/img/blog-valdanos-olive-groves.webp', title: 'Valdanos olive groves' },
     { href: '/blog/skadar-lake-from-ulcinj', img: '/img/blog-skadar-lake-from-ulcinj.webp', title: 'Lake Skadar from Ulcinj' },
   ],

@@ -16,7 +16,7 @@ export default function ShkoderAlbaniaDayTripRoute() {
     "@type": "Article",
     "headline": "Shkodër Day Trip — Crossing to Albania from Ulcinj",
     "description": "A day-trip guide from Ulcinj to Shkodër: the Sukobin-Muriqan border, Rozafa Castle, the old pedestrian street, Lake Shkodër, and how to handle lek vs. euro.",
-    "image": "https://www.carrentalulcinj.com/img/blog-shkoder.webp",
+    "image": "https://www.carrentalulcinj.com/img/blog-shkoder-albania-day-trip.webp",
     "datePublished": "2026-04-22",
     "dateModified": "2026-04-22",
     "author": { "@type": "Organization", "name": "Car Rental Ulcinj", "url": "https://www.carrentalulcinj.com" },

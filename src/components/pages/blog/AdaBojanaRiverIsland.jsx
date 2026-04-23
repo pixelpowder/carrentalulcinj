@@ -9,7 +9,7 @@ export default function AdaBojanaRiverIsland() {
       title="Ada Bojana — The Triangular River Island at the Albanian Border"
       subtitle="Fish restaurants on stilts, a sand island at the mouth of the Bojana river, and a nudist tradition that goes back to the 1970s"
       description="A guide to Ada Bojana — how the triangular island formed, the FKK (nudist) tradition, the riverside restaurants, the back-channel beach, and driving directions from Ulcinj."
-      image="/img/blog-ada-bojana.webp"
+      image="/img/blog-ada-bojana-river-island.webp"
     >
       <h2>How the island got there</h2>
       <p>Ada Bojana is a near-perfect triangle of sand and reed-bed at the point where the Bojana river — which drains Lake Skadar — meets the Adriatic. One side faces the sea, one faces the main river, and one faces a narrow back-channel of the river. The island is only about a century and a half old. Local history says a cargo ship ran aground on a shoal here in 1858, silt built up around the wreck, and within a few decades there was an island where there had been open water.</p>
@@ -19,7 +19,7 @@ export default function AdaBojanaRiverIsland() {
       <p>The seaward side of the island is a continuation of <a href={localePath('/blog/velika-plaza-long-beach')}>Velika Plaža</a> — the same fine dark sand, the same shallow water. It is about three kilometres long. In the middle section it is organised — loungers, umbrellas, a string of beach bars. The ends are wilder. The north end of the beach runs up to the tip where the island splits the river mouth, which has a slightly cooler freshwater-mixed sea and a collection of driftwood sculptures piled up by successive winters.</p>
       <p>The middle section of the beach has historically been designated FKK (clothing-optional). The tradition dates from the Yugoslav period — Ada Bojana was one of a handful of officially recognised naturist resorts on the whole Adriatic from the early 1970s onward. The FKK area is still active but smaller than it used to be, and the rest of the beach is conventional.</p>
 
-      <img src="/img/blog-ada-bojana.webp" alt="Ada Bojana river island Ulcinj" loading="lazy" />
+      <img src="/img/blog-ada-bojana-river-island.webp" alt="Ada Bojana river island Ulcinj" loading="lazy" />
 
       <h2>The river side</h2>
       <p>The second reason to come — arguably the main reason — is the line of fish restaurants built on wooden stilts over the river. There are a dozen or so along the inner bank, each with its own terrace hanging out over the Bojana. The menu is consistent between them: fresh river and sea fish, mussels farmed in the Bojana, local white wine, and usually grilled meats as an alternative. The fish is either local catch or farmed just upriver in floating pens you can see from the terrace.</p>

@@ -63,14 +63,14 @@ const siteConfig = {
   ],
 
   destinations: [
-    { name: "Ulcinj Old Town", slug: "blog/ulcinj-old-town-fortress", tag: "Pirate fortress", desc: "A medieval promontory citadel — once the Adriatic's most notorious pirate base.", image: "/img/blog-ulcinj-oldtown.webp" },
-    { name: "Velika Plaža", slug: "blog/velika-plaza-long-beach", tag: "12 km of sand", desc: "Europe's longest sand beach outside the Baltic — flat, shallow, kitesurf capital of Montenegro.", image: "/img/blog-velika-plaza.webp" },
-    { name: "Ada Bojana", slug: "blog/ada-bojana-fish-stilts-and-fkk", tag: "River island", desc: "Triangular island where the Bojana river meets the Adriatic — fish restaurants on stilts, horses on the sand.", image: "/img/blog-ada-bojana.webp" },
-    { name: "Valdanos Bay", slug: "blog/valdanos-olive-groves", tag: "Hidden cove", desc: "Tens of thousands of ancient olive trees wrap a sheltered bay 4 km north of town.", image: "/img/blog-valdanos.webp" },
-    { name: "Mala Plaža", slug: "blog/mala-plaza-in-town", tag: "In-town beach", desc: "The sandy crescent right beneath the Stari Grad walls — swim before breakfast.", image: "/img/blog-mala-plaza.webp" },
-    { name: "Shkodër Day Trip", slug: "blog/shkoder-albania-day-trip", tag: "Cross-border", desc: "Albania's northern cultural capital — 45 minutes across the Sukobin border.", image: "/img/blog-shkoder.webp" },
-    { name: "Lake Skadar", slug: "blog/skadar-lake-from-ulcinj", tag: "45 min inland", desc: "The Balkans' largest lake — pelicans, wineries, and a mountain-ringed interior just inland.", image: "/img/blog-skadar.webp" },
-    { name: "Podgorica Airport", slug: "blog/podgorica-airport-to-ulcinj", tag: "Arrival Hub", desc: "70 km north of Ulcinj — the preferred arrival point for Long Beach guests.", image: "/img/blog-podgorica-arrival.webp" },
+    { name: "Ulcinj Old Town", slug: "blog/ulcinj-old-town-fortress", tag: "Pirate fortress", desc: "A medieval promontory citadel — once the Adriatic's most notorious pirate base.", image: "/img/blog-ulcinj-old-town-fortress.webp" },
+    { name: "Velika Plaža", slug: "blog/velika-plaza-long-beach", tag: "12 km of sand", desc: "Europe's longest sand beach outside the Baltic — flat, shallow, kitesurf capital of Montenegro.", image: "/img/blog-velika-plaza-long-beach.webp" },
+    { name: "Ada Bojana", slug: "blog/ada-bojana-fish-stilts-and-fkk", tag: "River island", desc: "Triangular island where the Bojana river meets the Adriatic — fish restaurants on stilts, horses on the sand.", image: "/img/blog-ada-bojana-river-island.webp" },
+    { name: "Valdanos Bay", slug: "blog/valdanos-olive-groves", tag: "Hidden cove", desc: "Tens of thousands of ancient olive trees wrap a sheltered bay 4 km north of town.", image: "/img/blog-valdanos-olive-groves.webp" },
+    { name: "Mala Plaža", slug: "blog/mala-plaza-in-town", tag: "In-town beach", desc: "The sandy crescent right beneath the Stari Grad walls — swim before breakfast.", image: "/img/blog-mala-plaza-in-town.webp" },
+    { name: "Shkodër Day Trip", slug: "blog/shkoder-albania-day-trip", tag: "Cross-border", desc: "Albania's northern cultural capital — 45 minutes across the Sukobin border.", image: "/img/blog-shkoder-albania-day-trip.webp" },
+    { name: "Lake Skadar", slug: "blog/skadar-lake-from-ulcinj", tag: "45 min inland", desc: "The Balkans' largest lake — pelicans, wineries, and a mountain-ringed interior just inland.", image: "/img/blog-skadar-lake-from-ulcinj.webp" },
+    { name: "Podgorica Airport", slug: "blog/podgorica-airport-to-ulcinj", tag: "Arrival Hub", desc: "70 km north of Ulcinj — the preferred arrival point for Long Beach guests.", image: "/img/blog-podgorica-airport-to-ulcinj.webp" },
   ],
 };
 

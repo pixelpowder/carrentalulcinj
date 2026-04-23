@@ -9,7 +9,7 @@ export default function VelikaPlazaLongBeach() {
       title="Velika Plaža — Europe's Longest Sand Beach Outside the Baltic"
       subtitle="Twelve kilometres of flat sand, shallow warm water, and the kitesurf capital of the Adriatic on Montenegro's far southern edge"
       description="A complete guide to Velika Plaža — the access roads, the best swimming sections, the kitesurf end, parking, and how the beach changes from Copacabana to the Bojana river mouth."
-      image="/img/blog-velika-plaza.webp"
+      image="/img/blog-velika-plaza-long-beach.webp"
     >
       <h2>The long beach</h2>
       <p>Velika Plaža — the name simply means "Long Beach" in Montenegrin — runs from the eastern edge of Ulcinj all the way to the mouth of the Bojana river at the Albanian border. Depending on which survey you trust, it is between 12 and 13 kilometres of continuous sand. That makes it by some distance the longest beach in Montenegro, and one of the longest unbroken stretches of sand on the whole Mediterranean. It is also flat, shallow, and dark grey, and those three facts shape everything about how the beach works.</p>
@@ -26,7 +26,7 @@ export default function VelikaPlazaLongBeach() {
       </ul>
       <p>Between and behind the named beaches there are long stretches of completely empty sand. The further east you drive, the emptier it gets.</p>
 
-      <img src="/img/blog-velika-plaza.webp" alt="Velika Plaža long beach Ulcinj" loading="lazy" />
+      <img src="/img/blog-velika-plaza-long-beach.webp" alt="Velika Plaža long beach Ulcinj" loading="lazy" />
 
       <h2>The water</h2>
       <p>The single most unusual thing about Velika Plaža is how shallow it is. You can walk out a hundred metres or more in chest-deep water. For small children this is the best swimming beach on the entire Adriatic coast — there are no sudden drops and no stones underfoot. For anyone used to diving off Budva's pebbles it can feel strange. Proper swimming depth is a long walk from the shore.</p>

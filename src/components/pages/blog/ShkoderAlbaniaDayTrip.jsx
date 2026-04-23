@@ -9,7 +9,7 @@ export default function ShkoderAlbaniaDayTrip() {
       title="Shkodër Day Trip — Crossing to Albania from Ulcinj"
       subtitle="Forty-five minutes across the Sukobin border to Rozafa Castle, the bazaar, and the pedestrian old town of northern Albania's cultural capital"
       description="A day-trip guide from Ulcinj to Shkodër: the Sukobin-Muriqan border, Rozafa Castle, the old pedestrian street, Lake Shkodër, and how to handle lek vs. euro."
-      image="/img/blog-shkoder.webp"
+      image="/img/blog-shkoder-albania-day-trip.webp"
     >
       <h2>Why Shkodër</h2>
       <p>Shkodër is the largest city in northern Albania and one of the oldest continuously inhabited settlements in the Balkans. It sits at the south-eastern corner of Lake Shkodër (the same lake Montenegrins call Skadar), about 30 kilometres beyond the border from Ulcinj. It has a Venetian-era fortress, an Ottoman bazaar, a long pedestrian main street, and a surprisingly good café culture for what is still an off-the-map city by Western European standards.</p>
@@ -24,7 +24,7 @@ export default function ShkoderAlbaniaDayTrip() {
       <p>The defining landmark of Shkodër is Rozafa — a massive Illyrian-Venetian-Ottoman fortress built on a steep hill at the confluence of three rivers, just south-west of the city. The views from the upper walls are extraordinary: the city spread below, Lake Shkodër stretching away into the haze, and the Albanian Alps behind. Entry is a few euros in local currency. Allow a couple of hours — the site is bigger than it looks.</p>
       <p>Rozafa is also attached to one of the great Balkan foundation legends, the story of three brothers building a wall that keeps collapsing until one of their wives is sealed into the foundations. Versions of the tale circulate across the region; the one told at Rozafa places it explicitly here.</p>
 
-      <img src="/img/blog-shkoder.webp" alt="Shkodër Albania day trip from Ulcinj" loading="lazy" />
+      <img src="/img/blog-shkoder-albania-day-trip.webp" alt="Shkodër Albania day trip from Ulcinj" loading="lazy" />
 
       <h2>The old pedestrian street</h2>
       <p>Rruga Kolë Idromeno runs through the heart of the old town as a long, partly cobbled pedestrian street lined with restored 19th-century Italianate buildings. Cafés, bookshops, a few small museums, and the Marubi National Photography Museum (one of the best small museums in the Balkans, worth an hour) all sit along or just off this street.</p>

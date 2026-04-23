@@ -9,7 +9,7 @@ export default function About() {
       title="About Car Rental Ulcinj"
       subtitle="A local booking partner for Ulcinj, Velika Plaža and the Montenegro-Albania border corridor"
       description="Car Rental Ulcinj is an independent booking platform for rental cars on Montenegro's southern coast, covering Ulcinj, Long Beach, Ada Bojana and the Sukobin border to Albania."
-      image="/img/blog-ulcinj-oldtown.webp"
+      image="/img/blog-ulcinj-old-town-fortress.webp"
     >
       <h2>Who we are</h2>
       <p>Car Rental Ulcinj is a booking platform partnered with small Montenegrin rental operators working the southern coast — from Bar port south through Ulcinj town and down to the Albanian border. We're a local team, not a franchised airport desk. The operators we work with keep modern, insured fleets and enough cars to cover peak summer on Velika Plaža.</p>

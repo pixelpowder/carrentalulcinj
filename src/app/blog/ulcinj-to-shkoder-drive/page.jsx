@@ -16,7 +16,7 @@ export default function UlcinjToShkoderDriveRoute() {
     "@type": "Article",
     "headline": "Ulcinj to Shkodër and Back — A Day Drive Across the Border",
     "description": "A driving-first guide to crossing from Ulcinj into Albania for Shkodër — border documents, Albanian car insurance, fuel, lek vs. euro, and the Bojana river loop.",
-    "image": "https://www.carrentalulcinj.com/img/blog-ulcinj-shkoder-drive.webp",
+    "image": "https://www.carrentalulcinj.com/img/blog-ulcinj-to-shkoder-drive.webp",
     "datePublished": "2026-04-22",
     "dateModified": "2026-04-22",
     "author": { "@type": "Organization", "name": "Car Rental Ulcinj", "url": "https://www.carrentalulcinj.com" },

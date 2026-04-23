@@ -16,7 +16,7 @@ export default function PodgoricaAirportToUlcinjRoute() {
     "@type": "Article",
     "headline": "Podgorica Airport to Ulcinj — The 70 km Drive and Route Choices",
     "description": "A driving guide from Podgorica Airport (TGD) to Ulcinj — the fast Sozina tunnel route via Bar, the scenic Lake Skadar alternative, tolls, and pickup notes.",
-    "image": "https://www.carrentalulcinj.com/img/blog-podgorica-arrival.webp",
+    "image": "https://www.carrentalulcinj.com/img/blog-podgorica-airport-to-ulcinj.webp",
     "datePublished": "2026-04-22",
     "dateModified": "2026-04-22",
     "author": { "@type": "Organization", "name": "Car Rental Ulcinj", "url": "https://www.carrentalulcinj.com" },

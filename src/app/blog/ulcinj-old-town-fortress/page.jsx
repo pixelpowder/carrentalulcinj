@@ -16,7 +16,7 @@ export default function UlcinjOldTownFortressRoute() {
     "@type": "Article",
     "headline": "Ulcinj Old Town — The Pirate Fortress of the Adriatic",
     "description": "A walking guide to Ulcinj's Stari Grad: the Ottoman-era fortifications, the pirate history, the Balšić Tower, and practical parking notes.",
-    "image": "https://www.carrentalulcinj.com/img/blog-ulcinj-oldtown.webp",
+    "image": "https://www.carrentalulcinj.com/img/blog-ulcinj-old-town-fortress.webp",
     "datePublished": "2026-04-22",
     "dateModified": "2026-04-22",
     "author": { "@type": "Organization", "name": "Car Rental Ulcinj", "url": "https://www.carrentalulcinj.com" },

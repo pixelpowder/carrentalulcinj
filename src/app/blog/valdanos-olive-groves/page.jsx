@@ -16,7 +16,7 @@ export default function ValdanosOliveGrovesRoute() {
     "@type": "Article",
     "headline": "Valdanos Bay — Ancient Olive Groves Wrapping a Hidden Cove",
     "description": "A guide to Valdanos: the sheltered pebble beach, the tens of thousands of old-growth olive trees, the abandoned Yugoslav hotel, and how to get there from Ulcinj.",
-    "image": "https://www.carrentalulcinj.com/img/blog-valdanos.webp",
+    "image": "https://www.carrentalulcinj.com/img/blog-valdanos-olive-groves.webp",
     "datePublished": "2026-04-22",
     "dateModified": "2026-04-22",
     "author": { "@type": "Organization", "name": "Car Rental Ulcinj", "url": "https://www.carrentalulcinj.com" },

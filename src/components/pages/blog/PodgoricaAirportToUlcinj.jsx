@@ -9,7 +9,7 @@ export default function PodgoricaAirportToUlcinj() {
       title="Podgorica Airport to Ulcinj — The 70 km Drive and Route Choices"
       subtitle="The quickest arrival gateway to Ulcinj, with two usable routes, the Sozina tunnel toll, and what to expect on a late-night pickup"
       description="A driving guide from Podgorica Airport (TGD) to Ulcinj — the fast Sozina tunnel route via Bar, the scenic Lake Skadar alternative, tolls, petrol stops, and rental pickup notes."
-      image="/img/blog-podgorica-arrival.webp"
+      image="/img/blog-podgorica-airport-to-ulcinj.webp"
     >
       <h2>Podgorica versus Tivat</h2>
       <p>Ulcinj is the southernmost town on the Montenegrin coast and sits much closer to Podgorica Airport (TGD) than to Tivat Airport (TIV). The numbers: Podgorica to Ulcinj is about 70 kilometres and takes roughly an hour by the fast route. Tivat to Ulcinj is more like 90 kilometres and is at least a 90-minute drive, often longer because it has to follow the coastal road around every bay from Budva south.</p>
@@ -25,7 +25,7 @@ export default function PodgoricaAirportToUlcinj() {
       </ul>
       <p>The Sozina tunnel is a 4 km road tunnel that punches straight through the coastal mountains. Before it opened in 2005 the only way to the coast from Podgorica was over a mountain pass — the tunnel saves around half an hour and avoids some genuinely hairy driving in bad weather.</p>
 
-      <img src="/img/blog-podgorica-arrival.webp" alt="Podgorica Airport to Ulcinj drive Montenegro" loading="lazy" />
+      <img src="/img/blog-podgorica-airport-to-ulcinj.webp" alt="Podgorica Airport to Ulcinj drive Montenegro" loading="lazy" />
 
       <h2>The scenic route: via Lake Skadar</h2>
       <p>The alternative approaches Ulcinj from the north-east via Virpazar and the lake road, then either down through Ostros and Murići or joining the coastal road at Bar. It is longer (around 90 km depending on exactly which variant you take) and slower, but it is one of the most beautiful drives in Montenegro. For a return to the airport with time in hand — especially in spring — it is worth doing.</p>

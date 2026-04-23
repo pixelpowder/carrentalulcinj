@@ -9,7 +9,7 @@ export default function SkadarLakeFromUlcinj() {
       title="Lake Skadar from Ulcinj — The Pelican Lake Just Inland"
       subtitle="The Balkans' largest lake, shared with Albania, with pelican colonies, island monasteries, and winery villages — all under an hour from the coast"
       description="A guide to Lake Skadar from Ulcinj — the best viewpoints, pelican watching at Pančeva Oka, the Crnojević river wineries, and Žabljak Crnojevića fortress."
-      image="/img/blog-skadar.webp"
+      image="/img/blog-skadar-lake-from-ulcinj.webp"
     >
       <h2>A lake the size of a small country</h2>
       <p>Lake Skadar — Shkodër in Albanian — is the largest lake in the Balkans by surface area. Roughly two-thirds of it belongs to Montenegro and one-third to Albania. The Montenegrin side is a designated national park and one of the most important bird habitats in Europe, with breeding populations of Dalmatian pelicans, pygmy cormorants, glossy ibis, and dozens of heron and egret species.</p>
@@ -23,7 +23,7 @@ export default function SkadarLakeFromUlcinj() {
         <li><strong>Rijeka Crnojevića.</strong> A small stone village where the Crnojevića river meets the lake, famous for the horseshoe bend photographed from the ridge above. Roughly 1 hour 10 from Ulcinj.</li>
       </ul>
 
-      <img src="/img/blog-skadar.webp" alt="Lake Skadar from Ulcinj Montenegro" loading="lazy" />
+      <img src="/img/blog-skadar-lake-from-ulcinj.webp" alt="Lake Skadar from Ulcinj Montenegro" loading="lazy" />
 
       <h2>The pelicans</h2>
       <p>The Dalmatian pelican is the reason many birders come to Skadar. It is one of the largest flying birds in the world, with a wingspan that can exceed three metres. The main breeding colony in the region is at Pančeva Oka, a shallow water zone in the north-western part of the lake. Boat trips from Virpazar can be arranged specifically for pelican watching, generally early morning or late afternoon when the birds are most active. A licensed national park boat with a proper guide is the right way to see them — do not expect to get close unaccompanied.</p>

@@ -9,7 +9,7 @@ export default function UlcinjOldTownFortress() {
       title="Ulcinj Old Town — The Pirate Fortress of the Adriatic"
       subtitle="A medieval promontory citadel, 17th-century pirate republic, and the limestone walls that still curve over Mala Plaža"
       description="A walking guide to Ulcinj's Stari Grad: the Ottoman-era fortifications, the pirate history, the Balšić Tower, and practical parking notes for the old town."
-      image="/img/blog-ulcinj-oldtown.webp"
+      image="/img/blog-ulcinj-old-town-fortress.webp"
     >
       <h2>A fortress before a town</h2>
       <p>Ulcinj's Stari Grad sits on a rocky peninsula that juts south into the Adriatic. The layout is simple once you're inside — a single ridge of stone houses, two churches turned museums, a couple of squares, and a ring of walls that drop straight into the sea on three sides. It is smaller than Kotor's old town and less manicured than Budva's, and that is most of the appeal.</p>
@@ -23,7 +23,7 @@ export default function UlcinjOldTownFortress() {
       <p>The 17th century is the period the guidebooks talk about. After the Ottoman conquest a population of North African and Maltese corsairs settled in Ulcinj, tolerated and at times encouraged by the Ottoman administration. They operated a slave market on the quay below the walls and raided Venetian shipping up and down the Adriatic. At its peak the town was said to host four hundred active pirates. Nothing about Ulcinj's modest size today quite prepares you for that number.</p>
       <p>The most famous prisoner associated with Ulcinj is Miguel de Cervantes, who was captured by Barbary corsairs in 1575 and spent five years in captivity before being ransomed. Local tradition places part of that captivity here, and the figure of Sulejman the Moor in <em>Don Quixote</em> is sometimes tied to an Ulcinj owner. Historians disagree — most of Cervantes' documented captivity was in Algiers — so treat the Ulcinj connection as folklore rather than settled fact.</p>
 
-      <img src="/img/blog-ulcinj-oldtown.webp" alt="Ulcinj Old Town fortress on the Adriatic" loading="lazy" />
+      <img src="/img/blog-ulcinj-old-town-fortress.webp" alt="Ulcinj Old Town fortress on the Adriatic" loading="lazy" />
 
       <h2>What you can walk through</h2>
       <p><strong>The main gate.</strong> There are two entrances. The lower gate opens off the harbour road near Mala Plaža; the upper gate (Gornja Kapija) is the one most visitors use, reached by a short climb from the car park on the landward side.</p>

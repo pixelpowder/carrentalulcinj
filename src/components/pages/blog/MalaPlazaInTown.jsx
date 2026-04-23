@@ -9,7 +9,7 @@ export default function MalaPlazaInTown() {
       title="Mala Plaža — The In-Town Beach Beneath the Stari Grad Walls"
       subtitle="A sandy crescent right under the Ulcinj fortress, with a pedestrian boardwalk, old-town views, and a swim-before-breakfast pace"
       description="A guide to Mala Plaža — the in-town beach in Ulcinj, the Stari Grad view, the boardwalk cafés, parking, and how it differs from the long-beach at Velika Plaža."
-      image="/img/blog-mala-plaza.webp"
+      image="/img/blog-mala-plaza-in-town.webp"
     >
       <h2>The beach in the middle of town</h2>
       <p>Mala Plaža — "Little Beach" — is the sandy crescent tucked directly under the southern walls of <a href={localePath('/blog/ulcinj-old-town-fortress')}>Stari Grad</a>. It is the beach for people who want to walk out of their apartment in a swimsuit and be in the sea in five minutes. It is short — roughly 350-400 metres of sand — but it is the only properly sandy beach in Ulcinj town itself, and the setting, with the limestone fortress rising straight behind it, is unique on the Montenegrin coast.</p>
@@ -18,7 +18,7 @@ export default function MalaPlazaInTown() {
       <h2>The boardwalk</h2>
       <p>A wooden and concrete boardwalk runs along the back of the beach, lined with cafés, bars, small restaurants, ice-cream places, and a handful of shops selling inflatable rings and beach towels. It continues east around the harbour for several hundred metres. In the evenings this is where the town walks — locals and visitors mixed, most of them in no hurry. The whole thing rolls gently until well past midnight in July and August.</p>
 
-      <img src="/img/blog-mala-plaza.webp" alt="Mala Plaža in-town beach Ulcinj" loading="lazy" />
+      <img src="/img/blog-mala-plaza-in-town.webp" alt="Mala Plaža in-town beach Ulcinj" loading="lazy" />
 
       <h2>Swim times</h2>
       <p>Mala Plaža is at its best very early and very late. Before eight in the morning, the water is flat, the boardwalk is empty, and the sun is still climbing over the fortress. At sunset, the walls of Stari Grad catch the low light and the bay turns bronze. Middle of the day in August, it is packed and a little bit chaotic — loungers wall-to-wall, the water churned up, and the boardwalk running elbow to elbow.</p>

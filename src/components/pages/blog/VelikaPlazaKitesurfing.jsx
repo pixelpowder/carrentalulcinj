@@ -9,7 +9,7 @@ export default function VelikaPlazaKitesurfing() {
       title="Kitesurfing on Long Beach — Why Velika Plaža Is the Adriatic Hub"
       subtitle="Flat shallow water, steady thermal wind, two kitesurf schools at the Copacabana end — how the beach became the kite capital of the southern Adriatic"
       description="A guide to kitesurfing on Velika Plaža — the wind, the water, the schools at Copacabana, gear rental, best season, and where to park and stay."
-      image="/img/blog-kitesurfing.webp"
+      image="/img/blog-velika-plaza-kitesurfing.webp"
     >
       <h2>Why it works as a kite spot</h2>
       <p>Three things make Velika Plaža one of the best kitesurfing beaches on the whole Adriatic, and comfortably the best in Montenegro. First, the water is extremely shallow — you can walk out a hundred metres and still be waist-deep. For a beginner this means you can set up, relaunch, body-drag, and fail safely without being in over your head. Second, the bottom is flat sand with no rocks, no sea-grass patches, no sudden drop-offs. You can put the kite down anywhere. Third, the beach itself is so long and so wide that you never run out of safe downwind distance.</p>
@@ -20,7 +20,7 @@ export default function VelikaPlazaKitesurfing() {
       <p>In spring (March-May) and autumn (September-November) you also pick up more system-driven winds — harder, gustier, but longer-lasting. Shoulder seasons are when the more experienced crowd comes; the flat-water level still makes it forgiving.</p>
       <p>The wind does go off. Expect a quarter of summer afternoons, especially in July and August, to be below teachable strength. This is the one real downside versus tradewind spots in Egypt or Brazil. If you are coming specifically for wind, build in flexibility to your trip.</p>
 
-      <img src="/img/blog-kitesurfing.webp" alt="Kitesurfing on Velika Plaža Ulcinj" loading="lazy" />
+      <img src="/img/blog-velika-plaza-kitesurfing.webp" alt="Kitesurfing on Velika Plaža Ulcinj" loading="lazy" />
 
       <h2>Where the action is: the Copacabana end</h2>
       <p>The main kitesurfing zone is at the western end of <a href={localePath('/blog/velika-plaza-long-beach')}>Velika Plaža</a>, around the Copacabana beach section. That end of the beach is closest to Ulcinj town (10-15 minutes by car), has the most infrastructure, and is where the two established kite schools operate.</p>

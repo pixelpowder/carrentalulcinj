@@ -56,17 +56,17 @@ export default function ContentPage({ title, subtitle, image, description, child
         <div className="related-guides__inner">
           <h2 className="related-guides__title">You might also like</h2>
           <div className="related-guides__cards">
-            <a href={localePath('/blog/pastrovici-highlands-drive')} className="related-card">
-              <img src="/img/blog-pastrovici.webp" alt="Paštrovići highlands drive" loading="lazy" />
-              <span>Paštrovići Highlands Drive</span>
+            <a href={localePath('/blog/ulcinj-old-town-fortress')} className="related-card">
+              <img src="/img/blog-ulcinj-old-town-fortress.webp" alt="Ulcinj Old Town — the pirate fortress" loading="lazy" />
+              <span>Ulcinj Old Town Fortress</span>
             </a>
-            <a href={localePath('/blog/budva-to-sveti-stefan-drive')} className="related-card">
-              <img src="/img/blog-budva-svetistefan.webp" alt="Budva to Sveti Stefan coast drive" loading="lazy" />
-              <span>Budva to Sveti Stefan Drive</span>
+            <a href={localePath('/blog/ada-bojana-fish-stilts-and-fkk')} className="related-card">
+              <img src="/img/blog-ada-bojana-river-island.webp" alt="Ada Bojana — fish restaurants on stilts" loading="lazy" />
+              <span>Ada Bojana — Fish Stilts & FKK</span>
             </a>
-            <a href={localePath('/blog/tivat-airport-to-budva')} className="related-card">
-              <img src="/img/blog-tivat-arrival.webp" alt="Tivat Airport to Budva" loading="lazy" />
-              <span>Tivat Airport to Budva</span>
+            <a href={localePath('/blog/velika-plaza-long-beach')} className="related-card">
+              <img src="/img/blog-velika-plaza-long-beach.webp" alt="Velika Plaža — Europe's longest sand beach" loading="lazy" />
+              <span>Velika Plaža — Long Beach</span>
             </a>
           </div>
         </div>

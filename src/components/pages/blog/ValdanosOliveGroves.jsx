@@ -9,7 +9,7 @@ export default function ValdanosOliveGroves() {
       title="Valdanos Bay — Ancient Olive Groves Wrapping a Hidden Cove"
       subtitle="A horseshoe pebble bay north of Ulcinj set inside one of the largest and oldest old-growth olive groves on the Mediterranean"
       description="A guide to Valdanos: the sheltered pebble beach, the tens of thousands of old-growth olive trees, the abandoned Yugoslav-era hotel complex, and how to get there from Ulcinj."
-      image="/img/blog-valdanos.webp"
+      image="/img/blog-valdanos-olive-groves.webp"
     >
       <h2>A cove inside an olive forest</h2>
       <p>Valdanos is a tight horseshoe bay about 4 kilometres north of Ulcinj, wedged into a stretch of coast that otherwise runs straight and cliffy. The approach road drops through a dense, shaggy forest of old olive trees, most of them hundreds of years old, some genuinely ancient. You park on a terrace above the water and walk down to a small pebble and shingle beach that curves almost all the way around. The whole cove faces west, and it is protected from the prevailing coastal wind by the headlands on either side.</p>
@@ -19,7 +19,7 @@ export default function ValdanosOliveGroves() {
       <p>The beach is pebble and coarse shingle, with patches of coarse sand near the centre. The water drops off quickly — this is not a Velika Plaža shallow paddle — and it is clear and cool because the cove is sheltered from big swell. There is a single beach bar and a modest restaurant at the back of the beach, open in the summer season, and that is all. No loungers rented by the dozen, no thumping DJ set-up, no buzz. Bring your own towel and a book.</p>
       <p>Because the cove is tight, it fills up on hot August Saturdays. Even then it rarely feels crowded by Montenegrin coast standards.</p>
 
-      <img src="/img/blog-valdanos.webp" alt="Valdanos Bay olive groves Ulcinj" loading="lazy" />
+      <img src="/img/blog-valdanos-olive-groves.webp" alt="Valdanos Bay olive groves Ulcinj" loading="lazy" />
 
       <h2>The abandoned hotel</h2>
       <p>The first thing most people notice at Valdanos is the long, low, sun-bleached hotel complex on the terrace above the beach. It was built in the 1970s as a Yugoslav-era workers' resort — rows of identical rooms, a central dining hall, a small marina. It was closed after the wars of the 1990s and never reopened. Development plans have come and gone. For now it is a slightly eerie presence, half-reclaimed by the olives. Do not wander inside — it is unsafe.</p>

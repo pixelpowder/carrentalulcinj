@@ -9,7 +9,7 @@ export default function UlcinjToShkoderDrive() {
       title="Ulcinj to Shkodër and Back — A Day Drive Across the Border"
       subtitle="The practical details: Sukobin border paperwork, Albanian insurance, lek vs. euro, and the River Bojana loop on the way back"
       description="A driving-first guide to crossing from Ulcinj into Albania for Shkodër — border documents, Albanian car insurance, fuel, tolls, lek vs. euro, and the scenic Bojana river return loop."
-      image="/img/blog-ulcinj-shkoder-drive.webp"
+      image="/img/blog-ulcinj-to-shkoder-drive.webp"
     >
       <h2>The route at a glance</h2>
       <p>From Ulcinj to central Shkodër is about 55-60 kilometres by the most direct road and takes 45-60 minutes, including the border. You leave Ulcinj heading east on the coastal road, take the inland turn-off toward Sukobin, clear the Sukobin-Muriqan crossing into Albania, and follow the main road south-east to Shkodër. The whole drive is on paved two-lane roads, no tunnels, no tolls.</p>
@@ -24,7 +24,7 @@ export default function UlcinjToShkoderDrive() {
         <li><strong>Insurance green card showing Albania (AL) covered, OR a short-term border policy.</strong> If AL is not ticked on your green card, you buy a policy in a small hut on the Albanian side of the crossing. It takes five minutes and costs roughly 15-25 euros for up to two weeks, cash preferred.</li>
       </ul>
 
-      <img src="/img/blog-ulcinj-shkoder-drive.webp" alt="Ulcinj to Shkodër drive via Sukobin border" loading="lazy" />
+      <img src="/img/blog-ulcinj-to-shkoder-drive.webp" alt="Ulcinj to Shkodër drive via Sukobin border" loading="lazy" />
 
       <h2>The border in practice</h2>
       <p>Sukobin (Montenegrin side) / Muriqan (Albanian side) is a medium-sized crossing over the Bojana river. On weekdays outside August, you'll often clear both sides in under ten minutes. On summer weekends the queue can build to 30-45 minutes in the afternoon. The trick is to cross into Albania in the morning and back into Montenegro in the early evening, both before the big tidal movements of Albanian day-trippers and weekend-returners.</p>
