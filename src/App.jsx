@@ -574,10 +574,10 @@ function Destinations() {
    ═══════════════════════════════════════════════════════════ */
 // Images + hrefs stay in code; title/desc/time/distance come from translations.
 const ROUTE_IMAGES = [
-  { image: '/img/blog-sveti-nikola.webp', href: '/blog/sveti-nikola-hawaii' },
-  { image: '/img/blog-budva-svetistefan.webp', href: '/budva' },
-  { image: '/img/blog-pastrovici.webp', href: '/blog/budva-to-sveti-stefan-drive' },
-  { image: '/img/blog-tivat-arrival.webp', href: '/blog/tivat-airport-to-budva' },
+  { image: '/img/blog-velika-plaza-long-beach.webp', href: '/blog/velika-plaza-long-beach' },
+  { image: '/img/blog-ada-bojana-river-island.webp', href: '/blog/ada-bojana-fish-stilts-and-fkk' },
+  { image: '/img/blog-shkoder-albania-day-trip.webp', href: '/blog/shkoder-albania-day-trip' },
+  { image: '/img/blog-podgorica-airport-to-ulcinj.webp', href: '/blog/podgorica-airport-to-ulcinj' },
 ];
 
 function PopularRoutes() {
@@ -698,7 +698,7 @@ function Stats() {
    SECTION: INSIDER TIPS — photo cards with travel advice
    ═══════════════════════════════════════════════════════════ */
 // Images stay in code; tag/title/text come from translations.
-const TIP_IMAGES = ['/img/blog-tivat-arrival.webp', '/img/blog-pastrovici.webp', '/img/blog-tivat-arrival.webp'];
+const TIP_IMAGES = ['/img/blog-ulcinj-old-town-fortress.webp', '/img/blog-velika-plaza-long-beach.webp', '/img/blog-valdanos-olive-groves.webp'];
 
 function InsiderTips() {
   const { t } = useTranslation();
@@ -731,9 +731,24 @@ function InsiderTips() {
    SECTION 8: BLOG CARDS
    ═══════════════════════════════════════════════════════════ */
 const blogPosts = [
-  { key: 'churches', image: '/img/blog-budva-oldtown.webp', href: '/blog/pastrovici-highlands-drive' },
-  { key: 'vrmac', image: '/img/blog-budva-svetistefan.webp', href: '/blog/jaz-beach-festivals' },
-  { key: 'swimming', image: '/img/blog-sveti-nikola.webp', href: '/blog/sveti-nikola-hawaii' },
+  {
+    image: '/img/blog-ulcinj-old-town-fortress.webp',
+    href: '/blog/ulcinj-old-town-fortress',
+    title: 'Ulcinj Old Town — The Pirate Fortress of the Adriatic',
+    excerpt: "A medieval promontory citadel, 17th-century pirate republic, and the limestone walls that still curve over Mala Plaža.",
+  },
+  {
+    image: '/img/blog-ada-bojana-river-island.webp',
+    href: '/blog/ada-bojana-fish-stilts-and-fkk',
+    title: 'Ada Bojana — Fish Restaurants on Stilts at the River Mouth',
+    excerpt: "A triangular sand island where the Bojana river meets the Adriatic, with a line of fish restaurants built out over the water.",
+  },
+  {
+    image: '/img/blog-velika-plaza-kitesurfing.webp',
+    href: '/blog/velika-plaza-kite-schools',
+    title: 'Kitesurfing on Long Beach — Why Velika Plaža Is the Adriatic Hub',
+    excerpt: "Flat shallow water, steady thermal wind, two kitesurf schools at the Copacabana end. How the beach became the kite capital of the southern Adriatic.",
+  },
 ];
 
 function BlogCards() {
@@ -749,10 +764,10 @@ function BlogCards() {
         <div className="blog-grid">
           {blogPosts.map((post) => (
             <a key={post.href} href={localePath(post.href)} className="blog-card">
-              <img src={post.image} alt={t(`blogIndex.card_${post.key}_title`)} className="blog-card__img" loading="lazy" />
+              <img src={post.image} alt={post.title} className="blog-card__img" loading="lazy" />
               <div className="blog-card__body">
-                <h3 className="blog-card__title">{t(`blogIndex.card_${post.key}_title`)}</h3>
-                <p className="blog-card__excerpt">{t(`blogIndex.card_${post.key}_excerpt`)}</p>
+                <h3 className="blog-card__title">{post.title}</h3>
+                <p className="blog-card__excerpt">{post.excerpt}</p>
               </div>
             </a>
           ))}
@@ -770,10 +785,10 @@ function BlogCards() {
    ═══════════════════════════════════════════════════════════ */
 // Images + hrefs stay in code; title/location come from translations.
 const EXPERIENCE_SLOTS = [
-  { image: '/img/blog-sveti-nikola.webp', href: '/blog/sveti-nikola-hawaii' },
-  { image: '/img/blog-pastrovici.webp', href: '/blog/budva-to-sveti-stefan-drive' },
-  { image: '/img/blog-budva-svetistefan.webp', href: '/budva' },
-  { image: '/img/blog-tivat-arrival.webp', href: '/blog/tivat-airport-to-budva' },
+  { image: '/img/blog-mala-plaza-in-town.webp', href: '/blog/mala-plaza-in-town' },
+  { image: '/img/blog-valdanos-olive-groves.webp', href: '/blog/valdanos-olive-groves' },
+  { image: '/img/blog-skadar-lake-from-ulcinj.webp', href: '/blog/skadar-lake-from-ulcinj' },
+  { image: '/img/blog-ulcinj-to-shkoder-drive.webp', href: '/blog/ulcinj-to-shkoder-drive' },
 ];
 
 function Experiences() {
@@ -819,11 +834,11 @@ function RoadTripPromo() {
             <p className="affiliate-promo__desc">{t('roadTripPlanner.desc') || 'Scenic routes, hidden viewpoints, fuel stops, parking tips, and border crossing advice, written by drivers who know every hairpin on these roads.'}</p>
             <div style={{ display: 'flex', gap: 12, flexWrap: 'wrap' }}>
               <a href={localePath('/blog')} className="affiliate-promo__btn">{t('roadTripPlanner.browseAll')}</a>
-              <a href={localePath('/blog/budva-to-sveti-stefan-drive')} className="aff-outline-btn">{t('roadTripPlanner.lovcenGuide')}</a>
+              <a href={localePath('/blog/ulcinj-to-shkoder-drive')} className="aff-outline-btn">{t('roadTripPlanner.lovcenGuide')}</a>
             </div>
           </div>
           <div className="affiliate-promo__image">
-            <img src="/img/blog-pastrovici.webp" alt="Winding mountain road in Montenegro" loading="lazy" />
+            <img src="/img/blog-ulcinj-to-shkoder-drive.webp" alt="Ulcinj to Shkodër border drive" loading="lazy" />
           </div>
         </div>
       </div>
@@ -940,7 +955,7 @@ function PricingComparison() {
    ═══════════════════════════════════════════════════════════ */
 function DriveTimesMap() {
   const { t, localePath } = useTranslation();
-  const hrefs = ['/blog/tivat-airport-to-budva', '/blog/budva-old-town-walls', '/blog/sveti-stefan-photo-spots', '/blog/petrovac-quiet-alternative', '/blog/pastrovici-highlands-drive'];
+  const hrefs = ['/blog/podgorica-airport-to-ulcinj', '/blog/ulcinj-old-town-fortress', '/blog/mala-plaza-in-town', '/blog/valdanos-olive-groves', '/blog/skadar-lake-from-ulcinj'];
   return (
     <section className="section" id="drive-times">
       <div className="container">
