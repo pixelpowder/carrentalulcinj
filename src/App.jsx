@@ -46,12 +46,10 @@ const FEATURE_ICONS = {
 };
 
 const LOCATIONS = [
-  'Budva', 'Bečići', 'Rafailovići', 'Sveti Stefan', 'Petrovac',
-  'Tivat Airport', 'Pržno', 'Miločer', 'Jaz Beach', 'Kamenovo',
-  'Bečići', 'Rafailovići', 'Pržno', 'Sutomore', 'Luštica Bay',
-  'Žabljak', 'Kolašin', 'Nikšić', 'Igalo', 'Risan',
-  'Orahovac', 'Prčanj', 'Bijela', 'Rose', 'Reževići',
-  'Dobre Vode', 'Djenovici', 'Krasici', 'Radovici', 'Buljarica',
+  'Ulcinj', 'Mala Plaža', 'Velika Plaža', 'Ada Bojana', 'Valdanos',
+  'Bar', 'Podgorica Airport', 'Sutomore', 'Stari Bar', 'Šas',
+  'Reževići', 'Petrovac', 'Buljarica', 'Sveti Stefan', 'Pržno',
+  'Podgorica', 'Virpazar', 'Tuzi', 'Dobre Vode', 'Kruče',
 ];
 
 const CITY_ID_MAP = {
@@ -153,7 +151,7 @@ function LocationField({ value, onChange }) {
 function Hero() {
   const { t, localePath } = useTranslation();
   const router = useRouter();
-  const [pickup, setPickup] = useState('Budva');
+  const [pickup, setPickup] = useState('Ulcinj');
   const [startDate, setStartDate] = useState(null);
   const [endDate, setEndDate] = useState(null);
   const [pickupTime, setPickupTime] = useState('10:00');
@@ -996,8 +994,8 @@ function CTABanner() {
           <a href={localePath("/book")} className="cta-white-btn">
             {t('cta.browseFleet')} <ArrowRight size={16} />
           </a>
-          <a href="mailto:info@carrentalbudva.com" className="cta-btn--outline">
-            <Mail size={15} /> info@carrentalbudva.com
+          <a href="mailto:info@carrentalulcinj.com" className="cta-btn--outline">
+            <Mail size={15} /> info@carrentalulcinj.com
           </a>
         </div>
       </div>

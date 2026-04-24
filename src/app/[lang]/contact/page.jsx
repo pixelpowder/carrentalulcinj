@@ -4,7 +4,7 @@ import { t, buildAlternates } from '@/src/app/metadata';
 export async function generateMetadata({ params }) {
   const { lang } = await params;
   return {
-    title: t(lang, 'contact.title') + ' | Car Rental Budva',
+    title: t(lang, 'contact.title') + ' | Car Rental Ulcinj',
     description: t(lang, 'contact.seoDesc'),
     alternates: buildAlternates('contact', lang),
   };

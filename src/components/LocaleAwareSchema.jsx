@@ -25,9 +25,9 @@ const BASE_AUTO_RENTAL = {
   "image": `${SITE_URL}/img/schema-car.jpg`,
   "address": {
     "@type": "PostalAddress",
-    "streetAddress": "Tabacina BB",
-    "addressLocality": "Kotor",
-    "postalCode": "85330",
+    "streetAddress": "Mala Plaža",
+    "addressLocality": "Ulcinj",
+    "postalCode": "85360",
     "addressCountry": "ME"
   },
   "areaServed": [

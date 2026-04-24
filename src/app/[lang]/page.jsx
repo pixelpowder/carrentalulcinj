@@ -3,7 +3,7 @@ import HomeClient from '@/src/HomeClient';
 
 export async function generateMetadata({ params }) {
   const { lang } = await params;
-  const title = t(lang, 'home.title') + ' | Car Rental Budva';
+  const title = t(lang, 'home.title') + ' | Car Rental Ulcinj';
   const description = t(lang, 'home.seoDesc');
   return {
     title,

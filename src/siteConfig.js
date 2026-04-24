@@ -4,7 +4,7 @@ const siteConfig = {
   domain: "carrentalulcinj.com",
   phone: "",
   email: "info@carrentalulcinj.com",
-  address: "Tabacina BB, Kotor, 85330",
+  address: "Mala Plaža, Ulcinj, 85360",
 
   hero: {
     headline: "Rent a Car in Ulcinj",

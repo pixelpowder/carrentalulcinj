@@ -4,7 +4,7 @@ import Affiliate from '@/src/components/pages/Affiliate';
 export async function generateMetadata({ params }) {
   const { lang } = await params;
   return {
-    title: t(lang, 'affiliate.title') + ' | Car Rental Budva',
+    title: t(lang, 'affiliate.title') + ' | Car Rental Ulcinj',
     description: t(lang, 'affiliate.seoDesc'),
     alternates: buildAlternates('affiliate', lang),
   };

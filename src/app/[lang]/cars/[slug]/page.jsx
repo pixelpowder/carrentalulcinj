@@ -23,9 +23,9 @@ export async function generateMetadata({ params }) {
   if (!car) return {};
 
   const meta = carMetas[slug]?.[lang] || carMetas[slug]?.en;
-  const title = meta?.title || `${car.name} | Car Rental Budva`;
+  const title = meta?.title || `${car.name} | Car Rental Ulcinj`;
   const description = meta?.desc || `${car.name} rental guide for multi-day Budva trips.`;
-  const SITE = 'https://www.carrentalbudva.com';
+  const SITE = 'https://www.carrentalulcinj.com';
   return {
     title,
     description,

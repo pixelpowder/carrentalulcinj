@@ -1,7 +1,7 @@
 import { t, buildAlternates, OG_LOCALE } from '../../metadata';
 import FleetIndex from '@/src/components/pages/FleetIndex';
 
-const SITE = 'https://www.carrentalbudva.com';
+const SITE = 'https://www.carrentalulcinj.com';
 
 export async function generateMetadata({ params }) {
   const { lang } = await params;
@@ -12,7 +12,7 @@ export async function generateMetadata({ params }) {
     : 'Seven multi-day rental cars for Budva — mid-size wagons, diesel cruisers and a city Fiat. Specs, fuel range, and which car suits day-trips along the Riviera.';
   const titleTranslated = t(lang, 'fleetIndex.title');
   const baseTitle = titleTranslated !== 'fleetIndex.title' ? titleTranslated : 'Our Fleet';
-  const title = `${baseTitle} | Car Rental Budva`;
+  const title = `${baseTitle} | Car Rental Ulcinj`;
   return {
     title,
     description,

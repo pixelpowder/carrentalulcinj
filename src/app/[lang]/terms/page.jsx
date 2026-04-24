@@ -4,7 +4,7 @@ import Terms from '@/src/components/pages/Terms';
 export async function generateMetadata({ params }) {
   const { lang } = await params;
   return {
-    title: t(lang, 'terms.title') + ' | Car Rental Budva',
+    title: t(lang, 'terms.title') + ' | Car Rental Ulcinj',
     description: t(lang, 'terms.seoDesc'),
     alternates: buildAlternates('terms', lang),
   };

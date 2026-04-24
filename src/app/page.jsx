@@ -1,8 +1,8 @@
 import { t, buildAlternates, OG_LOCALE } from './metadata';
 import HomeClient from '@/src/HomeClient';
 
-const SITE_URL = 'https://www.carrentalbudva.com';
-const SITE_NAME = 'Car Rental Budva';
+const SITE_URL = 'https://www.carrentalulcinj.com';
+const SITE_NAME = 'Car Rental Ulcinj';
 
 export async function generateMetadata() {
   const title = t('en', 'home.title') + ' | Budva Car Rental';

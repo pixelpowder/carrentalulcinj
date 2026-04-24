@@ -19,8 +19,8 @@ export function t(lang, key) {
   return fallback || key;
 }
 
-const SITE_NAME = 'Car Rental Budva';
-const BASE_URL = 'https://www.carrentalbudva.com';
+const SITE_NAME = 'Car Rental Ulcinj';
+const BASE_URL = 'https://www.carrentalulcinj.com';
 
 export const OG_LOCALE = {
   en: 'en_US',
@@ -69,6 +69,11 @@ export function buildMetadata(lang, titleKey, descKey, slug) {
       description: resolvedDesc,
       locale: OG_LOCALE[resolvedLang] || 'en_US',
       type: 'website',
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: displayTitle,
+      description: desc,
     },
   };
 }

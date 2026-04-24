@@ -2,7 +2,7 @@ import { t, buildAlternates } from '../metadata';
 import CookiePolicy from '@/src/components/pages/CookiePolicy';
 
 export async function generateMetadata() {
-  const title = t('en', 'cookie-policy.title') + ' | Car Rental Budva';
+  const title = t('en', 'cookie-policy.title') + ' | Car Rental Ulcinj';
   const description = t('en', 'cookie-policy.seoDesc');
   return {
     title: title,
