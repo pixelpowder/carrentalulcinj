@@ -41,7 +41,7 @@ export default function ShkoderAlbaniaDayTrip() {
       <p>{tf('shkoderBody.p_bazaar2', 'Cash is helpful. Many places accept euros but give change in Albanian lek at a worse rate than the ATM. A single ATM withdrawal of lek at the start of the day usually covers a day of meals and small purchases.')}</p>
 
       <h2>{tf('shkoderBody.h2_lake', 'Lake Shkodër')}</h2>
-      <p dangerouslySetInnerHTML={html('shkoderBody.p_lake', "The Albanian side of Lake Shkodër has a different character from the Montenegrin side, more agricultural, less set up for tourism, and with a handful of lakeside restaurants north of the city where you can have lunch with the water at your feet. Shiroka, on the lake about 10 minutes' drive from central Shkodër, is the main village. For the Montenegrin-side experience, see our <a href=\"/blog/skadar-lake-from-ulcinj\">Lake Skadar guide</a>.")} />
+      <p dangerouslySetInnerHTML={html('shkoderBody.p_lake', '')} />
 
       <h2>{tf('shkoderBody.h2_timing', 'A realistic timing')}</h2>
       <p>{tf('shkoderBody.p_timing', 'A good Shkodër day from Ulcinj looks like this: leave at 09:00, through the border by 09:45, park near the centre by 10:30, Rozafa until 12:30, lunch in the bazaar, pedestrian street and photography museum in the afternoon, coffee, back through the border and into Ulcinj by 19:00. You can do it faster if you skip the castle, but the castle is the headline sight.')}</p>

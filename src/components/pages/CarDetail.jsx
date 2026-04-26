@@ -26,62 +26,62 @@ import {
 
 // Kotor-rental inline photo per car ,  bay road, Lovćen, motorway, cross-border feel.
 const INLINE_PHOTOS = {
-  'renault-clio':   { src: '/img/fleet-inline/coastal-road.jpg',      alt: 'Bay of Kotor coastal road near Dobrota',       caption: 'The Dobrota–Prčanj stretch at a steady 50 km/h, the Clio\u2019s natural cruising pace on a multi-day bay stay.' },
-  'peugeot-308':    { src: '/img/fleet-inline/mountain-highway.jpg',  alt: 'Smokovac–Mateševo motorway inland from Kotor',  caption: 'The Smokovac motorway toward Podgorica, the 308\u2019s BlueHDi settles into a steady 1,800 rpm cruise here.' },
-  'renault-megane': { src: '/img/fleet-inline/sea-road.jpg',          alt: 'Old bay road from Kotor toward Risan',          caption: 'The patched tarmac out to Risan\u2019s Roman mosaics, where the Megane\u2019s soft damping actually earns its rental premium.' },
-  'kia-stonic':     { src: '/img/fleet-inline/rocky-road.jpg',        alt: 'Rutted spur road up to Njeguši above Kotor',    caption: 'The Njeguši approach above the bay, a little extra ground clearance keeps the Stonic composed where a Clio scrapes.' },
-  'vw-golf':        { src: '/img/fleet-inline/forest-road.jpg',       alt: 'Wooded Lovćen serpentine above Kotor',          caption: 'The Kotor–Cetinje climb in third gear, the DSG reads the hairpins, the cabin stays silent.' },
-  'fiat-500':       { src: '/img/fleet-inline/seaside-road.jpg',      alt: 'Narrow Muo waterfront lane in Kotor',           caption: 'The Muo waterfront past the ferry dock, the 500 slots into gaps the rest of the fleet drives past.' },
-  'citroen-c3':     { src: '/img/fleet-inline/village-trees.jpg',     alt: 'Back road through Gornja Lastva above Tivat',   caption: 'The Gornja Lastva spur above the bay, the C3\u2019s Advanced Comfort turns the patched bitumen into distant thumps.' },
-  _default:         { src: '/img/fleet-inline/kotor-bay.jpg',         alt: 'Aerial view of the Bay of Kotor',               caption: 'A week based in Kotor puts Cetinje, Njeguši, Risan, Skadar Lake and Dubrovnik all inside day-trip range.' },
+  'renault-clio':   { src: '/img/fleet-inline/coastal-road.jpg',      alt: '',       caption: '' },
+  'peugeot-308':    { src: '/img/fleet-inline/mountain-highway.jpg',  alt: '',  caption: '' },
+  'renault-megane': { src: '/img/fleet-inline/sea-road.jpg',          alt: '',          caption: '' },
+  'kia-stonic':     { src: '/img/fleet-inline/rocky-road.jpg',        alt: '',    caption: '' },
+  'vw-golf':        { src: '/img/fleet-inline/forest-road.jpg',       alt: '',          caption: '' },
+  'fiat-500':       { src: '/img/fleet-inline/seaside-road.jpg',      alt: '',           caption: '' },
+  'citroen-c3':     { src: '/img/fleet-inline/village-trees.jpg',     alt: '',   caption: '' },
+  _default:         { src: '/img/fleet-inline/kotor-bay.jpg',         alt: '',               caption: '' },
 };
 
 // Related cards per car ,  using the actual blog + destination pages that exist on kotorcarrental.
 const RELATED = {
   'vw-polo': [
-    { href: '/blog/ulcinj-old-town-fortress', img: '/img/blog-ulcinj-old-town-fortress.webp', title: 'Ulcinj Old Town fortress' },
-    { href: '/blog/mala-plaza-in-town', img: '/img/blog-mala-plaza-in-town.webp', title: 'Mala Plaža, in-town beach' },
-    { href: '/blog/valdanos-olive-groves', img: '/img/blog-valdanos-olive-groves.webp', title: 'Valdanos olive groves' },
+    { href: '/blog/ulcinj-old-town-fortress', img: '/img/blog-ulcinj-old-town-fortress.webp', title: '' },
+    { href: '/blog/mala-plaza-in-town', img: '/img/blog-mala-plaza-in-town.webp', title: '' },
+    { href: '/blog/valdanos-olive-groves', img: '/img/blog-valdanos-olive-groves.webp', title: '' },
   ],
   'skoda-octavia': [
-    { href: '/blog/velika-plaza-long-beach', img: '/img/blog-velika-plaza-long-beach.webp', title: 'Velika Plaža, Long Beach' },
-    { href: '/blog/ada-bojana-fish-stilts-and-fkk', img: '/img/blog-ada-bojana-river-island.webp', title: 'Ada Bojana river island' },
-    { href: '/blog/shkoder-albania-day-trip', img: '/img/blog-shkoder-albania-day-trip.webp', title: 'Shkodër (Albania) day trip' },
+    { href: '/blog/velika-plaza-long-beach', img: '/img/blog-velika-plaza-long-beach.webp', title: '' },
+    { href: '/blog/ada-bojana-fish-stilts-and-fkk', img: '/img/blog-ada-bojana-river-island.webp', title: '' },
+    { href: '/blog/shkoder-albania-day-trip', img: '/img/blog-shkoder-albania-day-trip.webp', title: '' },
   ],
   'toyota-corolla': [
-    { href: '/blog/ulcinj-old-town-fortress', img: '/img/blog-ulcinj-old-town-fortress.webp', title: 'Ulcinj Old Town fortress' },
-    { href: '/blog/velika-plaza-long-beach', img: '/img/blog-velika-plaza-long-beach.webp', title: 'Velika Plaža, Long Beach' },
-    { href: '/blog/skadar-lake-from-ulcinj', img: '/img/blog-skadar-lake-from-ulcinj.webp', title: 'Lake Skadar from Ulcinj' },
+    { href: '/blog/ulcinj-old-town-fortress', img: '/img/blog-ulcinj-old-town-fortress.webp', title: '' },
+    { href: '/blog/velika-plaza-long-beach', img: '/img/blog-velika-plaza-long-beach.webp', title: '' },
+    { href: '/blog/skadar-lake-from-ulcinj', img: '/img/blog-skadar-lake-from-ulcinj.webp', title: '' },
   ],
   'mercedes-c-class': [
-    { href: '/blog/skadar-lake-from-ulcinj', img: '/img/blog-skadar-lake-from-ulcinj.webp', title: 'Lake Skadar from Ulcinj' },
-    { href: '/blog/shkoder-albania-day-trip', img: '/img/blog-shkoder-albania-day-trip.webp', title: 'Shkodër (Albania) day trip' },
-    { href: '/blog/ulcinj-to-shkoder-drive', img: '/img/blog-ulcinj-to-shkoder-drive.webp', title: 'Ulcinj to Shkodër drive' },
+    { href: '/blog/skadar-lake-from-ulcinj', img: '/img/blog-skadar-lake-from-ulcinj.webp', title: '' },
+    { href: '/blog/shkoder-albania-day-trip', img: '/img/blog-shkoder-albania-day-trip.webp', title: '' },
+    { href: '/blog/ulcinj-to-shkoder-drive', img: '/img/blog-ulcinj-to-shkoder-drive.webp', title: '' },
   ],
   'fiat-500c': [
-    { href: '/blog/mala-plaza-in-town', img: '/img/blog-mala-plaza-in-town.webp', title: 'Mala Plaža, in-town beach' },
-    { href: '/blog/velika-plaza-kite-schools', img: '/img/blog-velika-plaza-kitesurfing.webp', title: 'Kitesurfing Velika Plaža' },
-    { href: '/blog/valdanos-olive-groves', img: '/img/blog-valdanos-olive-groves.webp', title: 'Valdanos olive groves' },
+    { href: '/blog/mala-plaza-in-town', img: '/img/blog-mala-plaza-in-town.webp', title: '' },
+    { href: '/blog/velika-plaza-kite-schools', img: '/img/blog-velika-plaza-kitesurfing.webp', title: '' },
+    { href: '/blog/valdanos-olive-groves', img: '/img/blog-valdanos-olive-groves.webp', title: '' },
   ],
   'fiat-500': [
-    { href: '/blog/mala-plaza-in-town', img: '/img/blog-mala-plaza-in-town.webp', title: 'Mala Plaža, in-town beach' },
-    { href: '/blog/velika-plaza-kite-schools', img: '/img/blog-velika-plaza-kitesurfing.webp', title: 'Kitesurfing Velika Plaža' },
-    { href: '/blog/valdanos-olive-groves', img: '/img/blog-valdanos-olive-groves.webp', title: 'Valdanos olive groves' },
+    { href: '/blog/mala-plaza-in-town', img: '/img/blog-mala-plaza-in-town.webp', title: '' },
+    { href: '/blog/velika-plaza-kite-schools', img: '/img/blog-velika-plaza-kitesurfing.webp', title: '' },
+    { href: '/blog/valdanos-olive-groves', img: '/img/blog-valdanos-olive-groves.webp', title: '' },
   ],
   'bmw-x3': [
-    { href: '/blog/shkoder-albania-day-trip', img: '/img/blog-shkoder-albania-day-trip.webp', title: 'Shkodër (Albania) day trip' },
-    { href: '/blog/skadar-lake-from-ulcinj', img: '/img/blog-skadar-lake-from-ulcinj.webp', title: 'Lake Skadar from Ulcinj' },
-    { href: '/blog/ulcinj-to-shkoder-drive', img: '/img/blog-ulcinj-to-shkoder-drive.webp', title: 'Ulcinj to Shkodër drive' },
+    { href: '/blog/shkoder-albania-day-trip', img: '/img/blog-shkoder-albania-day-trip.webp', title: '' },
+    { href: '/blog/skadar-lake-from-ulcinj', img: '/img/blog-skadar-lake-from-ulcinj.webp', title: '' },
+    { href: '/blog/ulcinj-to-shkoder-drive', img: '/img/blog-ulcinj-to-shkoder-drive.webp', title: '' },
   ],
   'jeep-renegade': [
-    { href: '/blog/ada-bojana-fish-stilts-and-fkk', img: '/img/blog-ada-bojana-river-island.webp', title: 'Ada Bojana river island' },
-    { href: '/blog/valdanos-olive-groves', img: '/img/blog-valdanos-olive-groves.webp', title: 'Valdanos olive groves' },
-    { href: '/blog/skadar-lake-from-ulcinj', img: '/img/blog-skadar-lake-from-ulcinj.webp', title: 'Lake Skadar from Ulcinj' },
+    { href: '/blog/ada-bojana-fish-stilts-and-fkk', img: '/img/blog-ada-bojana-river-island.webp', title: '' },
+    { href: '/blog/valdanos-olive-groves', img: '/img/blog-valdanos-olive-groves.webp', title: '' },
+    { href: '/blog/skadar-lake-from-ulcinj', img: '/img/blog-skadar-lake-from-ulcinj.webp', title: '' },
   ],
   'vw-transporter': [
-    { href: '/blog/velika-plaza-long-beach', img: '/img/blog-velika-plaza-long-beach.webp', title: 'Velika Plaža, Long Beach' },
-    { href: '/blog/mala-plaza-in-town', img: '/img/blog-mala-plaza-in-town.webp', title: 'Mala Plaža, in-town beach' },
-    { href: '/blog/podgorica-airport-to-ulcinj', img: '/img/blog-podgorica-airport-to-ulcinj.webp', title: 'Podgorica Airport to Ulcinj' },
+    { href: '/blog/velika-plaza-long-beach', img: '/img/blog-velika-plaza-long-beach.webp', title: '' },
+    { href: '/blog/mala-plaza-in-town', img: '/img/blog-mala-plaza-in-town.webp', title: '' },
+    { href: '/blog/podgorica-airport-to-ulcinj', img: '/img/blog-podgorica-airport-to-ulcinj.webp', title: '' },
   ],
 };
 

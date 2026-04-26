@@ -32,11 +32,11 @@ export default function UlcinjOldTownFortress() {
       <img src="/img/blog-ulcinj-old-town-fortress.webp" alt={tf('ulcinjFortressBody.imgAlt', 'Ulcinj Old Town fortress on the Adriatic')} loading="lazy" />
 
       <h2>{tf('ulcinjFortressBody.h2_walk', 'What you can walk through')}</h2>
-      <p dangerouslySetInnerHTML={html('ulcinjFortressBody.p_gate', '<strong>The main gate.</strong> There are two entrances. The lower gate opens off the harbour road near Mala Plaža; the upper gate (Gornja Kapija) is the one most visitors use, reached by a short climb from the car park on the landward side.')} />
-      <p dangerouslySetInnerHTML={html('ulcinjFortressBody.p_balsic', '<strong>The Balšić Tower.</strong> The square stone tower at the highest point of the citadel. Built by the Balšić dynasty in the late 14th century, reworked under the Venetians. Now hosts rotating exhibitions and has the best view on the peninsula, straight down the length of Velika Plaža on a clear day.')} />
-      <p dangerouslySetInnerHTML={html('ulcinjFortressBody.p_museum', '<strong>The Museum Square.</strong> Two small museums inside former Ottoman buildings. The archaeology holdings are modest: Illyrian pottery, Roman glass, Ottoman metalwork, a handful of pirate-era objects. Entry is a few euros. Not essential, but a cool refuge in August.')} />
-      <p dangerouslySetInnerHTML={html('ulcinjFortressBody.p_church', '<strong>The church-mosque.</strong> A small structure in the upper town that was built as a church in the 14th century, converted to a mosque under the Ottomans, and is now preserved as a monument. The minaret is gone; the basilica outline is clear.')} />
-      <p dangerouslySetInnerHTML={html('ulcinjFortressBody.p_slave', '<strong>The slave square.</strong> A small paved square with a plaque noting the 17th-century slave market that operated here. No reconstruction, no diorama, just the paving stones and the sea below.')} />
+      <p dangerouslySetInnerHTML={html('ulcinjFortressBody.p_gate', '')} />
+      <p dangerouslySetInnerHTML={html('ulcinjFortressBody.p_balsic', '')} />
+      <p dangerouslySetInnerHTML={html('ulcinjFortressBody.p_museum', '')} />
+      <p dangerouslySetInnerHTML={html('ulcinjFortressBody.p_church', '')} />
+      <p dangerouslySetInnerHTML={html('ulcinjFortressBody.p_slave', '')} />
 
       <h2>{tf('ulcinjFortressBody.h2_walls', 'The walls themselves')}</h2>
       <p>{tf('ulcinjFortressBody.p_walls', "Unlike Kotor's wall walk, you do not pay to climb Ulcinj's ramparts. The upper walls are integrated into the paths of the old town, you walk along them without really noticing you have started. The southern wall, the one that drops to the sea, has the best sunset angle. Bring shoes with grip; the limestone is polished smooth in places and treacherous when wet.")}</p>

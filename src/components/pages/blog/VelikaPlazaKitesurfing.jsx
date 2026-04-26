@@ -38,9 +38,9 @@ export default function VelikaPlazaKitesurfing() {
       <h2>{tf('kiteBody.h2_stay', 'Where to stay')}</h2>
       <p>{tf('kiteBody.p_stay', 'For kiters, the obvious base is anywhere within a short drive of Copacabana. Options include:')}</p>
       <ul>
-        <li dangerouslySetInnerHTML={html('kiteBody.li_stay1', "<strong>Apartments in Ulcinj town</strong>, 10-15 minutes' drive to the kite zone. Gives you a town in the evening, Mala Plaža for non-kite swimming, and restaurants. This is the most popular option.")} />
-        <li dangerouslySetInnerHTML={html('kiteBody.li_stay2', '<strong>Beach-behind accommodation on the Velika Plaža side road</strong>, some small family hotels and camps within walking distance of the beach. Convenient but less in the way of evening options.')} />
-        <li dangerouslySetInnerHTML={html('kiteBody.li_stay3', "<strong>Ada Bojana camps</strong>, for a more off-grid, long-stay kite vibe. Some of the island's campsites have been used by kite crowds for years.")} />
+        <li dangerouslySetInnerHTML={html('kiteBody.li_stay1', '')} />
+        <li dangerouslySetInnerHTML={html('kiteBody.li_stay2', '')} />
+        <li dangerouslySetInnerHTML={html('kiteBody.li_stay3', '')} />
       </ul>
 
       <h2>{tf('kiteBody.h2_parking', 'Parking and access')}</h2>
@@ -57,7 +57,7 @@ export default function VelikaPlazaKitesurfing() {
         <li>{tf('kiteBody.li_check1', 'Book accommodation with off-street parking, you will be driving back and forth to the beach daily.')}</li>
         <li>{tf('kiteBody.li_check2', "Bring sun cream and UV shirts. The beach has very little natural shade, the wind on the water cools you and you don't notice you're burning.")}</li>
         <li>{tf('kiteBody.li_check3', 'Keep a small Decathlon-style dry bag in the car for wet gear on the drive home.')}</li>
-        <li dangerouslySetInnerHTML={html('kiteBody.li_check4', 'If you are flying in, Podgorica Airport (TGD) is the closer gateway, see our <a href="/blog/podgorica-airport-to-ulcinj">airport-to-Ulcinj guide</a>.')} />
+        <li dangerouslySetInnerHTML={html('kiteBody.li_check4', '')} />
       </ul>
 
       <div className="route-info">

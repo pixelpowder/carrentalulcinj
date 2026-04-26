@@ -27,7 +27,7 @@ export default function PodgoricaAirportToUlcinj() {
         <li dangerouslySetInnerHTML={html('podgoricaBody.li_distance', '<strong>Distance</strong>, roughly 70-75 km depending on exact pickup point at TGD.')} />
         <li dangerouslySetInnerHTML={html('podgoricaBody.li_time', '<strong>Time</strong>, 60-75 minutes.')} />
         <li dangerouslySetInnerHTML={html('podgoricaBody.li_toll', '<strong>Toll</strong>, Sozina tunnel, around 2.50 euros for a standard car. Cash or card, both work. There is no other toll.')} />
-        <li dangerouslySetInnerHTML={html('podgoricaBody.li_petrol', '<strong>Petrol</strong>, a string of stations on the Podgorica outskirts and in Bar. Full up in Bar if the car is low.')} />
+        <li dangerouslySetInnerHTML={html('podgoricaBody.li_petrol', '')} />
       </ul>
       <p>{tf('podgoricaBody.p_fast2', 'The Sozina tunnel is a 4 km road tunnel that punches straight through the coastal mountains. Before it opened in 2005 the only way to the coast from Podgorica was over a mountain pass, the tunnel saves around half an hour and avoids some genuinely hairy driving in bad weather.')}</p>
 
@@ -35,7 +35,7 @@ export default function PodgoricaAirportToUlcinj() {
 
       <h2>{tf('podgoricaBody.h2_scenic', 'The scenic route: via Lake Skadar')}</h2>
       <p>{tf('podgoricaBody.p_scenic1', 'The alternative approaches Ulcinj from the north-east via Virpazar and the lake road, then either down through Ostros and Murići or joining the coastal road at Bar. It is longer (around 90 km depending on exactly which variant you take) and slower, but it is one of the most beautiful drives in Montenegro. For a return to the airport with time in hand, especially in spring, it is worth doing.')}</p>
-      <p dangerouslySetInnerHTML={html('podgoricaBody.p_scenic2', 'On arrival, with luggage in the car and possibly in the dark, take the Sozina route. Save the scenic drive for a daytime return leg, and see our <a href="/blog/skadar-lake-from-ulcinj">Lake Skadar guide</a> for the sights along the way.')} />
+      <p dangerouslySetInnerHTML={html('podgoricaBody.p_scenic2', '')} />
 
       <h2>{tf('podgoricaBody.h2_pickup', 'Rental pickup at TGD')}</h2>
       <p>{tf('podgoricaBody.p_pickup1', 'Podgorica Airport is small and the rental process is generally fast. Most rental companies have desks in the arrivals hall, with the actual cars parked in a signposted lot a short walk from the terminal. Inspection, paperwork, and key handover for a pre-booked car is typically 15-30 minutes after you reach the desk.')}</p>
@@ -58,7 +58,7 @@ export default function PodgoricaAirportToUlcinj() {
       <p>{tf('podgoricaBody.p_parking', 'If you are picking up someone else at the airport in your rental, short-term parking is right outside the terminal and costs a couple of euros for the first hour. Long-term parking is cheap and secure, less than 10 euros a day.')}</p>
 
       <h2>{tf('podgoricaBody.h2_pair', 'Pair with')}</h2>
-      <p dangerouslySetInnerHTML={html('podgoricaBody.p_pair', 'If you have time on the drive down, the medieval ruined town of Stari Bar is signposted from Bar and is a worthwhile one-hour detour. On the return, the Lake Skadar diversion is covered in our <a href="/blog/skadar-lake-from-ulcinj">Skadar from Ulcinj</a> guide.')} />
+      <p dangerouslySetInnerHTML={html('podgoricaBody.p_pair', '')} />
 
       <div className="route-info">
         <h3>{tf('podgoricaBody.glanceTitle', 'At a glance')}</h3>

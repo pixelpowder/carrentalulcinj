@@ -1,10 +1,9 @@
 // Generate a full-coverage sitemap.xml with one <url> entry per page per locale.
-// Each entry carries the full 7-locale hreflang alternate set.
-// 27 pages × 6 locales = 162 URL entries.
+// Each entry carries the full 6-locale hreflang alternate set + x-default.
 
 import fs from "node:fs";
 
-const BASE = "https://www.kotorcarrental.com";
+const BASE = "https://www.carrentalulcinj.com";
 const LOCALES = [
   { code: "en", prefix: "" },
   { code: "de", prefix: "/de" },
@@ -14,42 +13,47 @@ const LOCALES = [
   { code: "me", prefix: "/me", hreflang: "cnr" },
 ];
 
+// Cars in the fleet (kept for cars/<slug> sitemap entries)
+const CAR_SLUGS = [
+  "renault-clio",
+  "peugeot-308",
+  "renault-megane",
+  "kia-stonic",
+  "vw-golf",
+  "fiat-500",
+  "citroen-c3",
+];
+
 // Priority + changefreq per page type
 const PAGES = [
-  { slug: "",                              priority: "1.0", changefreq: "weekly" },
-  { slug: "/book",                         priority: "0.9", changefreq: "weekly" },
-  { slug: "/kotor",                        priority: "0.8", changefreq: "monthly" },
-  { slug: "/budva",                        priority: "0.8", changefreq: "monthly" },
-  { slug: "/tivat",                        priority: "0.8", changefreq: "monthly" },
-  { slug: "/perast",                       priority: "0.8", changefreq: "monthly" },
-  { slug: "/podgorica",                    priority: "0.7", changefreq: "monthly" },
-  { slug: "/montenegro",                   priority: "0.8", changefreq: "monthly" },
-  { slug: "/tivat-airport",                priority: "0.8", changefreq: "monthly" },
-  { slug: "/podgorica-airport",            priority: "0.7", changefreq: "monthly" },
-  { slug: "/dubrovnik-airport",            priority: "0.7", changefreq: "monthly" },
-  { slug: "/border-crossing-guide",        priority: "0.6", changefreq: "monthly" },
-  { slug: "/about",                        priority: "0.5", changefreq: "yearly" },
-  { slug: "/contact",                      priority: "0.5", changefreq: "yearly" },
-  { slug: "/affiliate",                    priority: "0.5", changefreq: "yearly" },
-  { slug: "/privacy",                      priority: "0.3", changefreq: "yearly" },
-  { slug: "/terms",                        priority: "0.3", changefreq: "yearly" },
-  { slug: "/cookie-policy",                priority: "0.3", changefreq: "yearly" },
-  { slug: "/blog",                         priority: "0.7", changefreq: "weekly" },
-  { slug: "/blog/bay-of-kotor-swimming",   priority: "0.6", changefreq: "monthly" },
-  { slug: "/blog/dobrota-waterfront-walk", priority: "0.6", changefreq: "monthly" },
-  { slug: "/blog/kotor-food-markets",      priority: "0.6", changefreq: "monthly" },
-  { slug: "/blog/kotor-hidden-churches",   priority: "0.6", changefreq: "monthly" },
-  { slug: "/blog/kotor-kayak-and-car",     priority: "0.6", changefreq: "monthly" },
-  { slug: "/blog/kotor-spring-wildflowers",priority: "0.6", changefreq: "monthly" },
-  { slug: "/blog/kotor-to-cetinje-drive",  priority: "0.6", changefreq: "monthly" },
-  { slug: "/blog/stoliv-abandoned-village",priority: "0.6", changefreq: "monthly" },
-  { slug: "/blog/vrmac-ridge-trail",       priority: "0.6", changefreq: "monthly" },
+  { slug: "",                                   priority: "1.0", changefreq: "weekly" },
+  { slug: "/book",                              priority: "0.9", changefreq: "weekly" },
+  { slug: "/cars",                              priority: "0.8", changefreq: "weekly" },
+  ...CAR_SLUGS.map(s => ({ slug: `/cars/${s}`,  priority: "0.7", changefreq: "monthly" })),
+  { slug: "/montenegro",                        priority: "0.8", changefreq: "monthly" },
+  { slug: "/about",                             priority: "0.5", changefreq: "yearly" },
+  { slug: "/contact",                           priority: "0.5", changefreq: "yearly" },
+  { slug: "/affiliate",                         priority: "0.5", changefreq: "yearly" },
+  { slug: "/privacy",                           priority: "0.3", changefreq: "yearly" },
+  { slug: "/terms",                             priority: "0.3", changefreq: "yearly" },
+  { slug: "/cookie-policy",                     priority: "0.3", changefreq: "yearly" },
+  { slug: "/blog",                              priority: "0.7", changefreq: "weekly" },
+  { slug: "/blog/ada-bojana-fish-stilts-and-fkk", priority: "0.6", changefreq: "monthly" },
+  { slug: "/blog/mala-plaza-in-town",           priority: "0.6", changefreq: "monthly" },
+  { slug: "/blog/podgorica-airport-to-ulcinj",  priority: "0.6", changefreq: "monthly" },
+  { slug: "/blog/shkoder-albania-day-trip",     priority: "0.6", changefreq: "monthly" },
+  { slug: "/blog/skadar-lake-from-ulcinj",      priority: "0.6", changefreq: "monthly" },
+  { slug: "/blog/ulcinj-old-town-fortress",     priority: "0.6", changefreq: "monthly" },
+  { slug: "/blog/ulcinj-to-shkoder-drive",      priority: "0.6", changefreq: "monthly" },
+  { slug: "/blog/valdanos-olive-groves",        priority: "0.6", changefreq: "monthly" },
+  { slug: "/blog/velika-plaza-kite-schools",    priority: "0.6", changefreq: "monthly" },
+  { slug: "/blog/velika-plaza-long-beach",      priority: "0.6", changefreq: "monthly" },
 ];
 
 function urlFor(locale, slug) {
   // Default-locale (EN) root keeps trailing slash (canonical apex form).
-  // Every other URL — including non-default locale roots like /de — has no trailing slash
-  // so the sitemap entry matches the served canonical (Next.js 308-redirects /de/ → /de).
+  // Every other URL, including non-default locale roots like /de, has no trailing slash
+  // so the sitemap entry matches the served canonical (Next.js 308-redirects /de/ to /de).
   if (!slug) {
     return locale.prefix ? `${BASE}${locale.prefix}` : `${BASE}/`;
   }
@@ -65,12 +69,15 @@ function altLinks(slug) {
   return links + "\n" + xDefault;
 }
 
+const today = new Date().toISOString().slice(0, 10);
+
 const entries = [];
 for (const page of PAGES) {
   for (const locale of LOCALES) {
     entries.push(`  <url>
     <loc>${urlFor(locale, page.slug)}</loc>
 ${altLinks(page.slug)}
+    <lastmod>${today}</lastmod>
     <changefreq>${page.changefreq}</changefreq>
     <priority>${page.priority}</priority>
   </url>`);

@@ -163,7 +163,8 @@
     "title": "Wrong Turn",
     "text": "This page doesn't exist, but Stari Grad, Velika Plaža, and Ada Bojana do. Let's get you back on the road.",
     "backHome": "Back to Home",
-    "searchCars": "Search Cars"
+    "searchCars": "Search Cars",
+    "metaTitle": "Page Not Found | Car Rental Ulcinj"
   },
   "home": {
     "seoDesc": "Ulcinj car rental with monthly rates and insurance included. Podgorica Airport (TGD) handover, Velika Plaža pickup, and Albanian border paperwork at booking.",
@@ -434,7 +435,8 @@
     "h2_contact": "Contact us",
     "p_contact_pre": "For bookings or questions, the ",
     "contactPageLink": "contact page",
-    "p_contact_end": " has the form, email and WhatsApp number. We reply within two hours during business hours."
+    "p_contact_end": " has the form, email and WhatsApp number. We reply within two hours during business hours.",
+    "podgoricaAirportLink": "Podgorica Airport (TGD)"
   },
   "montenegroBody": {
     "h1": "Driving Montenegro from an Ulcinj Base",

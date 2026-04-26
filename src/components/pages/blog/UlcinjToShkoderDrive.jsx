@@ -23,11 +23,11 @@ export default function UlcinjToShkoderDrive() {
 
       <h2>{tf('ulcinjShkoderBody.h2_docs', 'Documents you actually need')}</h2>
       <ul>
-        <li dangerouslySetInnerHTML={html('ulcinjShkoderBody.li_doc1', "<strong>Passport for every person in the car.</strong> EU/UK/US/AU/NZ passport holders generally enter Albania visa-free for short stays; check your own country's current status before you go.")} />
-        <li dangerouslySetInnerHTML={html('ulcinjShkoderBody.li_doc2', "<strong>Vehicle registration document.</strong> The original, not a copy. If it's a rental, the rental company should put this in the glovebox.")} />
-        <li dangerouslySetInnerHTML={html('ulcinjShkoderBody.li_doc3', '<strong>Rental contract with Albania permission.</strong> This is the critical one. Many Montenegrin rental contracts exclude cross-border travel by default. You need written permission, usually a line on the contract, sometimes a separate stamped letter, showing the car is allowed into Albania. Ask for this before you pick up the car, not on the day of the trip.')} />
+        <li dangerouslySetInnerHTML={html('ulcinjShkoderBody.li_doc1', '')} />
+        <li dangerouslySetInnerHTML={html('ulcinjShkoderBody.li_doc2', '')} />
+        <li dangerouslySetInnerHTML={html('ulcinjShkoderBody.li_doc3', '')} />
         <li dangerouslySetInnerHTML={html('ulcinjShkoderBody.li_doc4', '<strong>Driving licence.</strong> A standard home-country licence is fine for short visits for most nationalities. An International Driving Permit is not usually required but is cheap insurance if you already have one.')} />
-        <li dangerouslySetInnerHTML={html('ulcinjShkoderBody.li_doc5', '<strong>Insurance green card showing Albania (AL) covered, OR a short-term border policy.</strong> If AL is not ticked on your green card, you buy a policy in a small hut on the Albanian side of the crossing. It takes five minutes and costs roughly 15-25 euros for up to two weeks, cash preferred.')} />
+        <li dangerouslySetInnerHTML={html('ulcinjShkoderBody.li_doc5', '')} />
       </ul>
 
       <img src="/img/blog-ulcinj-to-shkoder-drive.webp" alt={tf('ulcinjShkoderBody.imgAlt', 'Ulcinj to Shkodër drive via Sukobin border')} loading="lazy" />

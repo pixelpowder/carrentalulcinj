@@ -39,7 +39,7 @@ export default function VelikaPlazaLongBeach() {
       <p>{tf('velikaPlazaBody.p_water2', 'The shallow water also means the sea warms up earlier in the season and stays warm later. June and September are both comfortable swimming months here, which is not quite true further north on the Montenegrin coast.')}</p>
 
       <h2>{tf('velikaPlazaBody.h2_kite', 'Kitesurfing at the Copacabana end')}</h2>
-      <p dangerouslySetInnerHTML={html('velikaPlazaBody.p_kite', 'The combination of shallow water, a flat sand bottom, and a steady onshore-cross breeze has made Velika Plaža the main kitesurfing destination on the Adriatic. Two established schools operate at the Copacabana end, running beginner courses (typically 3-day packages) and renting gear by the hour and the day. The prevailing wind in the main season is a thermal mistral-style breeze that picks up in the early afternoon. See our separate guide to <a href="/blog/velika-plaza-kite-schools">kitesurfing on Long Beach</a> for seasonal details.')} />
+      <p dangerouslySetInnerHTML={html('velikaPlazaBody.p_kite', '')} />
 
       <h2>{tf('velikaPlazaBody.h2_drive', 'Driving and parking')}</h2>
       <p>{tf('velikaPlazaBody.p_drive1', 'From central Ulcinj the drive to Copacabana is about 10-15 minutes. The coastal road runs behind a belt of pine forest, with signposted turn-offs for each beach section. Every named beach has its own car park, usually a flat sandy lot behind the beach bars. Parking is typically two to three euros for the day; the nearer-to-Ulcinj sections fill up faster.')}</p>
