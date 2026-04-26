@@ -13,7 +13,7 @@ import config from '@/src/siteConfig';
 
 const translations = { en, de, ru, it, fr, me };
 
-// Same company-level facts across locales — only the prose strings vary.
+// Same company-level facts across locales, only the prose strings vary.
 // Name, URL and email are pulled from siteConfig so each site has its own.
 const SITE_URL = `https://www.${config.domain}`;
 const BASE_AUTO_RENTAL = {
@@ -95,9 +95,9 @@ export default function LocaleAwareSchema({ lang = 'en', isHomepage = true }) {
     "mainEntity": faqItems,
   };
 
-  // Car rental fleet — "Car" subtype with per-day rental offer.
+  // Car rental fleet, "Car" subtype with per-day rental offer.
   // Fixes the "Product snippets missing offers" GSC issue without faking reviews
-  // (rental, not a sale — price is daily rate).
+  // (rental, not a sale, price is daily rate).
   const siteUrl = BASE_AUTO_RENTAL.url;
   const vehicleList = (config.cars || []).map((car, i) => ({
     "@type": "ListItem",
@@ -106,7 +106,11 @@ export default function LocaleAwareSchema({ lang = 'en', isHomepage = true }) {
       "@type": "Car",
       "name": car.name,
       "image": car.image && (car.image.startsWith('http') ? car.image : `${siteUrl}${car.image}`),
-      "description": `${car.category} rental — ${car.transmission}, ${car.fuel}, ${car.seats} seats`,
+      "description": (t.schema?.carDescription || `${car.category} rental, ${car.transmission}, ${car.fuel}, ${car.seats} seats`)
+        .replace('{category}', car.category)
+        .replace('{transmission}', car.transmission)
+        .replace('{fuel}', car.fuel)
+        .replace('{seats}', String(car.seats)),
       "brand": { "@type": "Brand", "name": car.name.split(' ')[0] },
       "vehicleTransmission": car.transmission,
       "fuelType": car.fuel,

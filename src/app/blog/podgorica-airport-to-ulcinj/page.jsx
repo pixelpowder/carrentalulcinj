@@ -1,12 +1,14 @@
-import { buildAlternates } from '../../metadata';
+import { buildAlternates, t } from '../../metadata';
 import PodgoricaAirportToUlcinj from '@/src/components/pages/blog/PodgoricaAirportToUlcinj';
 
 export async function generateMetadata() {
+  const title = t('en', 'podgoricaBody.title');
+  const description = t('en', 'podgoricaBody.description');
   return {
-    title: "Podgorica Airport to Ulcinj — The 70 km Drive and Route Choices" + ' | Car Rental Ulcinj',
-    description: "A driving guide from Podgorica Airport (TGD) to Ulcinj — the fast Sozina tunnel route via Bar, the scenic Lake Skadar alternative, tolls, and pickup notes.",
+    title: title + ' | Car Rental Ulcinj',
+    description,
     alternates: buildAlternates('blog/podgorica-airport-to-ulcinj'),
-    openGraph: { title: "Podgorica Airport to Ulcinj — The 70 km Drive and Route Choices", description: "A driving guide from Podgorica Airport (TGD) to Ulcinj — the fast Sozina tunnel route via Bar, the scenic Lake Skadar alternative, tolls, and pickup notes.", type: 'website' },
+    openGraph: { title, description, type: 'website' },
   };
 }
 
@@ -14,8 +16,8 @@ export default function PodgoricaAirportToUlcinjRoute() {
   const articleSchema = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "Podgorica Airport to Ulcinj — The 70 km Drive and Route Choices",
-    "description": "A driving guide from Podgorica Airport (TGD) to Ulcinj — the fast Sozina tunnel route via Bar, the scenic Lake Skadar alternative, tolls, and pickup notes.",
+    "headline": t('en', 'podgoricaBody.title'),
+    "description": t('en', 'podgoricaBody.description'),
     "image": "https://www.carrentalulcinj.com/img/blog-podgorica-airport-to-ulcinj.webp",
     "datePublished": "2026-04-22",
     "dateModified": "2026-04-22",

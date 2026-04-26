@@ -1,12 +1,14 @@
-import { buildAlternates } from '../../metadata';
+import { buildAlternates, t } from '../../metadata';
 import VelikaPlazaLongBeach from '@/src/components/pages/blog/VelikaPlazaLongBeach';
 
 export async function generateMetadata() {
+  const title = t('en', 'velikaPlazaBody.title');
+  const description = t('en', 'velikaPlazaBody.description');
   return {
-    title: "Velika Plaža — Europe's Longest Sand Beach Outside the Baltic" + ' | Car Rental Ulcinj',
-    description: "A complete guide to Velika Plaža — the access roads, the best swimming sections, the kitesurf end, parking, and how the beach changes from Copacabana to Ada Bojana.",
+    title: title + ' | Car Rental Ulcinj',
+    description,
     alternates: buildAlternates('blog/velika-plaza-long-beach'),
-    openGraph: { title: "Velika Plaža — Europe's Longest Sand Beach Outside the Baltic", description: "A complete guide to Velika Plaža — the access roads, the best swimming sections, the kitesurf end, parking, and how the beach changes from Copacabana to Ada Bojana.", type: 'website' },
+    openGraph: { title, description, type: 'website' },
   };
 }
 
@@ -14,8 +16,8 @@ export default function VelikaPlazaLongBeachRoute() {
   const articleSchema = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "Velika Plaža — Europe's Longest Sand Beach Outside the Baltic",
-    "description": "A complete guide to Velika Plaža — the access roads, the best swimming sections, the kitesurf end, parking, and how the beach changes from Copacabana to Ada Bojana.",
+    "headline": t('en', 'velikaPlazaBody.title'),
+    "description": t('en', 'velikaPlazaBody.description'),
     "image": "https://www.carrentalulcinj.com/img/blog-velika-plaza-long-beach.webp",
     "datePublished": "2026-04-22",
     "dateModified": "2026-04-22",

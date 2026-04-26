@@ -146,7 +146,7 @@ function LocationField({ value, onChange }) {
 }
 
 /* ═══════════════════════════════════════════════════════════
-   SECTION 1: HERO — headline + badges + image + search
+   SECTION 1: HERO ,  headline + badges + image + search
    ═══════════════════════════════════════════════════════════ */
 function Hero() {
   const { t, localePath } = useTranslation();
@@ -187,12 +187,12 @@ function Hero() {
       </div>
 
       {/* Image section with overlaid search form */}
-      <div className="hero__image-section">
+      <div className="hero__image-section" style={{ '--hero-image': `url(${config.heroImage})` }}>
         <div className="booking-card">
           <div className="booking-card__fields">
             <LocationField value={pickup} onChange={setPickup} />
             <div className="booking-field booking-field--dates">
-              <label>{t('hero.pickupDate')} — {t('hero.dropoffDate')}</label>
+              <label>{t('hero.pickupDate')} {t('hero.dropoffDate')}</label>
               <DatePicker
                 selectsRange startDate={startDate} endDate={endDate}
                 onChange={handleDateChange} minDate={new Date()}
@@ -232,7 +232,7 @@ function Hero() {
 }
 
 /* ═══════════════════════════════════════════════════════════
-   SECTION 2: REVIEWS — horizontal scrolling carousel
+   SECTION 2: REVIEWS ,  horizontal scrolling carousel
    ═══════════════════════════════════════════════════════════ */
 function Reviews() {
   const { t } = useTranslation();
@@ -280,7 +280,7 @@ function Reviews() {
 }
 
 /* ═══════════════════════════════════════════════════════════
-   SECTION 3: BROWSE BY CATEGORY — horizontal pill scroll
+   SECTION 3: BROWSE BY CATEGORY ,  horizontal pill scroll
    ═══════════════════════════════════════════════════════════ */
 const CATEGORIES = [
   { label: 'Economy', image: '/img/pexels-1035108.jpg' },
@@ -310,7 +310,7 @@ function BrowseByCategory() {
 }
 
 /* ═══════════════════════════════════════════════════════════
-   SECTION 4: BROWSE CARS CTA — search prompt
+   SECTION 4: BROWSE CARS CTA ,  search prompt
    ═══════════════════════════════════════════════════════════ */
 function BrowseCarsCTA() {
   const { t, localePath } = useTranslation();
@@ -332,7 +332,7 @@ function BrowseCarsCTA() {
 }
 
 /* ═══════════════════════════════════════════════════════════
-   SECTION 5: FLEET — LocalRent iframe (kept as-is)
+   SECTION 5: FLEET ,  LocalRent iframe (kept as-is)
    ═══════════════════════════════════════════════════════════ */
 function Fleet() {
   const { t, localePath } = useTranslation();
@@ -346,7 +346,7 @@ function Fleet() {
 
   useEffect(() => {
     function onMessage(e) {
-      // Ignore widget height messages — use fixed height instead
+      // Ignore widget height messages ,  use fixed height instead
       // if (e.data && e.data.type === 'iframeHeight') setIframeHeight(e.data.height);
     }
     window.addEventListener('message', onMessage);
@@ -387,7 +387,7 @@ function Fleet() {
 }
 
 /* ═══════════════════════════════════════════════════════════
-   FLEET SHOWCASE — per-car guide links (internal SEO, /cars routes)
+   FLEET SHOWCASE ,  per-car guide links (internal SEO, /cars routes)
    ═══════════════════════════════════════════════════════════ */
 const FLEET_TABS = [
   { key: 'all',     fallback: 'All' },
@@ -396,7 +396,7 @@ const FLEET_TABS = [
   { key: 'suv',     fallback: 'SUV' },
 ];
 
-// Homepage curates 6 of 7 — leave off citroen-c3 (very close in brief to Clio).
+// Homepage curates 6 of 7 ,  leave off citroen-c3 (very close in brief to Clio).
 const HOMEPAGE_FLEET_SLUGS = [
   'renault-megane', 'peugeot-308', 'vw-golf', 'kia-stonic', 'renault-clio', 'fiat-500', 'citroen-c3',
 ];
@@ -472,7 +472,7 @@ function FleetShowcase() {
 }
 
 /* ═══════════════════════════════════════════════════════════
-   SECTION 6: USP STRIP — horizontal feature icons
+   SECTION 6: USP STRIP ,  horizontal feature icons
    ═══════════════════════════════════════════════════════════ */
 function USPStrip() {
   const { t } = useTranslation();
@@ -502,7 +502,7 @@ function USPStrip() {
 }
 
 /* ═══════════════════════════════════════════════════════════
-   SECTION 7: DESTINATIONS — tabbed image cards (Cities / Airports)
+   SECTION 7: DESTINATIONS ,  tabbed image cards (Cities / Airports)
    ═══════════════════════════════════════════════════════════ */
 function Destinations() {
   const { t, localePath } = useTranslation();
@@ -567,7 +567,7 @@ function Destinations() {
 }
 
 /* ═══════════════════════════════════════════════════════════
-   SECTION: POPULAR ROUTES — scenic driving cards
+   SECTION: POPULAR ROUTES ,  scenic driving cards
    ═══════════════════════════════════════════════════════════ */
 // Images + hrefs stay in code; title/desc/time/distance come from translations.
 const ROUTE_IMAGES = [
@@ -606,7 +606,7 @@ function PopularRoutes() {
 }
 
 /* ═══════════════════════════════════════════════════════════
-   SECTION: HOW IT WORKS — 3 steps
+   SECTION: HOW IT WORKS ,  3 steps
    ═══════════════════════════════════════════════════════════ */
 function HowItWorks() {
   const { t } = useTranslation();
@@ -632,7 +632,7 @@ function HowItWorks() {
 }
 
 /* ═══════════════════════════════════════════════════════════
-   SECTION: STATS — counter strip
+   SECTION: STATS ,  counter strip
    ═══════════════════════════════════════════════════════════ */
 function AnimatedNumber({ target, suffix = '', decimals = 0 }) {
   const [count, setCount] = useState(0);
@@ -692,7 +692,7 @@ function Stats() {
 }
 
 /* ═══════════════════════════════════════════════════════════
-   SECTION: INSIDER TIPS — photo cards with travel advice
+   SECTION: INSIDER TIPS ,  photo cards with travel advice
    ═══════════════════════════════════════════════════════════ */
 // Images stay in code; tag/title/text come from translations.
 const TIP_IMAGES = ['/img/blog-ulcinj-old-town-fortress.webp', '/img/blog-velika-plaza-long-beach.webp', '/img/blog-valdanos-olive-groves.webp'];
@@ -731,20 +731,26 @@ const blogPosts = [
   {
     image: '/img/blog-ulcinj-old-town-fortress.webp',
     href: '/blog/ulcinj-old-town-fortress',
-    title: 'Ulcinj Old Town — The Pirate Fortress of the Adriatic',
-    excerpt: "A medieval promontory citadel, 17th-century pirate republic, and the limestone walls that still curve over Mala Plaža.",
+    titleKey: 'blogHome.posts.ulcinjFortress.title',
+    titleFallback: 'Ulcinj Old Town, The Pirate Fortress of the Adriatic',
+    excerptKey: 'blogHome.posts.ulcinjFortress.excerpt',
+    excerptFallback: "A medieval promontory citadel, 17th-century pirate republic, and the limestone walls that still curve over Mala Plaža.",
   },
   {
     image: '/img/blog-ada-bojana-river-island.webp',
     href: '/blog/ada-bojana-fish-stilts-and-fkk',
-    title: 'Ada Bojana — Fish Restaurants on Stilts at the River Mouth',
-    excerpt: "A triangular sand island where the Bojana river meets the Adriatic, with a line of fish restaurants built out over the water.",
+    titleKey: 'blogHome.posts.adaBojana.title',
+    titleFallback: 'Ada Bojana, Fish Restaurants on Stilts at the River Mouth',
+    excerptKey: 'blogHome.posts.adaBojana.excerpt',
+    excerptFallback: "A triangular sand island where the Bojana river meets the Adriatic, with a line of fish restaurants built out over the water.",
   },
   {
     image: '/img/blog-velika-plaza-kitesurfing.webp',
     href: '/blog/velika-plaza-kite-schools',
-    title: 'Kitesurfing on Long Beach — Why Velika Plaža Is the Adriatic Hub',
-    excerpt: "Flat shallow water, steady thermal wind, two kitesurf schools at the Copacabana end. How the beach became the kite capital of the southern Adriatic.",
+    titleKey: 'blogHome.posts.kitesurfing.title',
+    titleFallback: 'Kitesurfing on Long Beach, Why Velika Plaža Is the Adriatic Hub',
+    excerptKey: 'blogHome.posts.kitesurfing.excerpt',
+    excerptFallback: "Flat shallow water, steady thermal wind, two kitesurf schools at the Copacabana end. How the beach became the kite capital of the southern Adriatic.",
   },
 ];
 
@@ -759,15 +765,21 @@ function BlogCards() {
           <p className="section-subtitle">{t('blogHome.sectionSubtitle')}</p>
         </div>
         <div className="blog-grid">
-          {blogPosts.map((post) => (
-            <a key={post.href} href={localePath(post.href)} className="blog-card">
-              <img src={post.image} alt={post.title} className="blog-card__img" loading="lazy" />
-              <div className="blog-card__body">
-                <h3 className="blog-card__title">{post.title}</h3>
-                <p className="blog-card__excerpt">{post.excerpt}</p>
-              </div>
-            </a>
-          ))}
+          {blogPosts.map((post) => {
+            const tt = t(post.titleKey);
+            const title = tt && tt !== post.titleKey ? tt : post.titleFallback;
+            const tx = t(post.excerptKey);
+            const excerpt = tx && tx !== post.excerptKey ? tx : post.excerptFallback;
+            return (
+              <a key={post.href} href={localePath(post.href)} className="blog-card">
+                <img src={post.image} alt={title} className="blog-card__img" loading="lazy" />
+                <div className="blog-card__body">
+                  <h3 className="blog-card__title">{title}</h3>
+                  <p className="blog-card__excerpt">{excerpt}</p>
+                </div>
+              </a>
+            );
+          })}
         </div>
         <div style={{ textAlign: 'center', marginTop: 24 }}>
           <a href={localePath('/blog')} className="link-arrow">{t('blogHome.viewAll')} <ArrowRight size={14} /></a>
@@ -778,7 +790,7 @@ function BlogCards() {
 }
 
 /* ═══════════════════════════════════════════════════════════
-   SECTION: EXPERIENCES — internal destination cards
+   SECTION: EXPERIENCES ,  internal destination cards
    ═══════════════════════════════════════════════════════════ */
 // Images + hrefs stay in code; title/location come from translations.
 const EXPERIENCE_SLOTS = [
@@ -817,7 +829,7 @@ function Experiences() {
 }
 
 /* ═══════════════════════════════════════════════════════════
-   SECTION: AFFILIATE PROMO — split layout CTA
+   SECTION: AFFILIATE PROMO ,  split layout CTA
    ═══════════════════════════════════════════════════════════ */
 function RoadTripPromo() {
   const { t, localePath } = useTranslation();
@@ -844,7 +856,7 @@ function RoadTripPromo() {
 }
 
 /* ═══════════════════════════════════════════════════════════
-   SECTION 9: FAQ — accordion
+   SECTION 9: FAQ ,  accordion
    ═══════════════════════════════════════════════════════════ */
 function FAQ() {
   const { t } = useTranslation();
@@ -885,7 +897,7 @@ function FAQ() {
 }
 
 /* ═══════════════════════════════════════════════════════════
-   STICKY BOOKING BAR — appears when hero scrolls out of view
+   STICKY BOOKING BAR ,  appears when hero scrolls out of view
    ═══════════════════════════════════════════════════════════ */
 function StickyBookingBar() {
   const { t, localePath } = useTranslation();
@@ -909,7 +921,7 @@ function StickyBookingBar() {
 }
 
 /* ═══════════════════════════════════════════════════════════
-   PRICING COMPARISON — taxi vs rental car
+   PRICING COMPARISON ,  taxi vs rental car
    ═══════════════════════════════════════════════════════════ */
 function PricingComparison() {
   const { t } = useTranslation();
@@ -948,7 +960,7 @@ function PricingComparison() {
 }
 
 /* ═══════════════════════════════════════════════════════════
-   DRIVE TIMES MAP — visual hub with radiating destinations
+   DRIVE TIMES MAP ,  visual hub with radiating destinations
    ═══════════════════════════════════════════════════════════ */
 function DriveTimesMap() {
   const { t, localePath } = useTranslation();
@@ -1020,14 +1032,16 @@ function StickyMobileCTA() {
 }
 
 function WhatsAppFab() {
+  const { t } = useTranslation();
   return (
-    <a href="https://wa.me/38269000000?text=Hi!%20I%27d%20like%20to%20enquire%20about%20renting%20a%20car%20in%20Montenegro." target="_blank" rel="noopener noreferrer" className="whatsapp-fab" aria-label="Chat on WhatsApp">
+    <a href="https://wa.me/38269000000?text=Hi!%20I%27d%20like%20to%20enquire%20about%20renting%20a%20car%20in%20Montenegro." target="_blank" rel="noopener noreferrer" className="whatsapp-fab" aria-label={t('common.chatWhatsapp') || 'Chat on WhatsApp'}>
       <MessageCircle size={22} />
     </a>
   );
 }
 
 function ScrollToTop() {
+  const { t } = useTranslation();
   const [show, setShow] = useState(false);
   useEffect(() => {
     const onScroll = () => setShow(window.scrollY > 400);
@@ -1036,14 +1050,14 @@ function ScrollToTop() {
   }, []);
   if (!show) return null;
   return (
-    <button className="scroll-top" onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })} aria-label="Scroll to top">
+    <button className="scroll-top" onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })} aria-label={t('common.scrollToTop') || 'Scroll to top'}>
       <ChevronRight size={20} style={{ transform: 'rotate(-90deg)' }} />
     </button>
   );
 }
 
 /* ═══════════════════════════════════════════════════════════
-   APP — Section order matches getrentacar.com
+   APP ,  Section order matches getrentacar.com
    ═══════════════════════════════════════════════════════════ */
 export default function App() {
   useGlobalReveal();

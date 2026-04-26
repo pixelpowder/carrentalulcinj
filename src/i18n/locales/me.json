@@ -13,7 +13,10 @@
     "callUs": "Pozovite Nas",
     "bookNow": "Rezerviši Sad",
     "perDay": "po danu",
-    "emailUs": "Pošaljite email"
+    "emailUs": "Pošaljite email",
+    "readGuide": "Pročitaj vodič",
+    "chatWhatsapp": "Pišite na WhatsApp",
+    "scrollToTop": "Vrh stranice"
   },
   "hero": {
     "headline": "Car Rental Ulcinj. Iznajmite lokalno, platite manje.",
@@ -110,12 +113,25 @@
     "helpText": "Naš tim je dostupan putem WhatsApp, Viber ili telefona.",
     "popularDest": "Popularne Destinacije",
     "tivatAirport": "Aerodrom Tivat Airport",
-    "dubrovnikAirport": "Aerodrom Dubrovnik"
+    "dubrovnikAirport": "Aerodrom Dubrovnik",
+    "podgoricaAirport": "Aerodrom Podgorica",
+    "westernBayGuides": "Vodiči zapadnog zaliva",
+    "easternBayGuides": "Vodiči istočnog zaliva",
+    "northernGuides": "Vodiči sjevernog zaliva",
+    "regionGuides": "Vodiči regije",
+    "rivieraGuides": "Vodiči po Rivijeri",
+    "svetiStefanPhotos": "Sveti Stefan, mjesta za fotografije",
+    "budvaOldTownWalls": "Zidine Starog grada Budva",
+    "beciciRafailoviciPromenade": "Šetalište Bečići i Rafailovići",
+    "svetiNikolaHawaii": "Sveti Nikola (Hawaii)",
+    "jazBeachFestivals": "Festivali na Jaz plaži",
+    "petrovacAlternative": "Petrovac kao alternativa"
   },
   "book": {
     "title": "Pronađite Vaš Auto",
     "seoTitle": "Rezervišite Auto",
-    "seoDesc": "Tjedni i mjesečni najam automobila za Budva i zaljev Boka. Osiguranje uključeno, preuzimanje na Aerodromu Tivat Airport, i jedna fiksna cijena za cijeli boravak."
+    "seoDesc": "Tjedni i mjesečni najam automobila za Budva i zaljev Boka. Osiguranje uključeno, preuzimanje na Aerodromu Tivat Airport, i jedna fiksna cijena za cijeli boravak.",
+    "iframeTitle": "Rezervacija auta"
   },
   "footer": {
     "brandDesc": "Mjesečni najam automobila u Budvau s preuzimanjem na aerodromu, sveobuhvatnim osiguranjem i predvidivim tjednim tarifama za duže boravke u zaljevu Boka.",
@@ -135,7 +151,15 @@
     "cookiePolicy": "Politika Kolačića",
     "testimonials": "Iskustva gostiju",
     "sitemap": "Mapa stranice",
-    "tivatAirport": "Aerodrom Tivat Airport"
+    "tivatAirport": "Aerodrom Tivat Airport",
+    "podgoricaAirport": "Aerodrom Podgorica",
+    "rivieraGuides": "Vodiči po Rivijeri",
+    "blogLink": "Blog",
+    "oldTownWalls": "Zidine Starog grada",
+    "beciciPromenade": "Šetalište Bečići",
+    "coastAndDrives": "Obala i rute",
+    "tivatAirportRoute": "Ruta aerodroma Tivat",
+    "pastroviciHighlands": "Paštrovićka brda"
   },
   "notFound": {
     "code": "404",
@@ -184,40 +208,13 @@
   },
   "budva": {
     "title": "Rent a Car Budva",
-    "subtitle": "Istražite UNESCO dragulj Crne Gore sopstvenim tempom.",
-    "seoDesc": "Postavite bazu u Budvau bez kalkulacije dnevnih tarifa. Mjesečne tarife, osiguranje uključeno, preuzimanje na Aerodromu Tivat Airport, i dovoljno prostora.",
-    "heading1": "Budva, Lokalitet Svjetske Bastine UNESCO-a",
-    "p1": "Budva se ubraja medu najocuvanija srednjovjekovna naselja na Jadranu, smjesten na najdubljem dijelu dramaticnog zaliva nalik fjordu. UNESCO-om zasticen Stari grad je lavirint kamenih ulica, venecijanskih palata, romanickih kapela i zivopisnih trgova. Iznad se uzdize tvrdava San Giovanni sa 1.200 stepenika koje vode do panoramskog pogleda na vodu.",
-    "p2a": "Iznajmljivanje automobila u Budvau",
-    "p2b": "otvara citav zaliv i sire. Aerodrom Tivat Airport je udaljen samo 8 km, kratko putovanje od 15 minuta. Parking je dostupan van bedema Starog grada, sa vecim parkiralistima duz prilaznih puteva.",
-    "landmarksTitle": "Znamenitosti",
-    "stJohnTitle": "Tvrdava San Giovanni",
-    "stJohnText": "Odbrambeni radovi iznad Budvaa datiraju iz 6. vijeka i znacajno su ojacani pod venecijanskom vladavinom. Uspon od 1.200 stepenika nagraduje sirokim pogledima na zaliv, krovove Starog grada od cigle i okolne vrhove. Ulaz je besplatan van glavne sezone.",
-    "cathedralTitle": "Katedrala Sv. Tripuna",
-    "cathedralText": "Prvobitno podignuta 809. godine i ponovo izgradena 1124., Katedrala Sv. Tripuna stoji kao jedan od izuzetnih romanickih spomenika jadranske obale. Njeni dvostruki zvonici cine najikonicniju siluetu Budvaa, a unutrasnjost cuva riznicu srednjovjekovnog zlata i srebra.",
-    "dayTripsTitle": "Jednodnevni Izleti iz Budvaa",
-    "ladyOfRocksTitle": "Gospa od Skrpjela, Rafailovići",
-    "ladyOfRocksText1": "U blizini",
-    "ladyOfRocksLink": "Rafailovićia",
-    "ladyOfRocksText2": ", ova kapela pociva na vjestackom ostrvu u zalivu. Od 1452. godine, stanovnici bacaju kamenje u vodu da prosire ostrvce. Mali camci polaze iz peraske luke za nekoliko eura. Voznja iz Budvaa traje oko 15 minuta obalnim putem.",
-    "cetinjeTitle": "Cetinjski Manastir",
-    "cetinjeText": "Osnovan 1701. godine, manastir cuva relikvije ukljucujuci ruku Jovana Krstitelja. Putovanje iz Budvaa traje otprilike sat vremena kroz slikovit planinski teren preko Njegosevog mauzoleja i Nacionalnog parka Lovcen.",
-    "royalCourtTitle": "Kraljevski Dvor na Cetinju",
-    "royalCourtText": "Crnogorska kraljevska rezidencija iz 1871. godine, smjestena u nekadanjoj kraljevskoj prijestonici. Izlozbe obuhvataju umjetnost, istorijske artefakte i fotografije iz kraljevskog perioda.",
-    "routeDifficulty": "Umjereno, uske trake u Starom gradu, standardni putevi na prilazu",
-    "routeVehicle": "Kompaktan auto (lakse parkiranje kod bedema Starog grada)",
-    "routeParking": "Ogranicen u Starom gradu. Koristite parkiralista duz prilaznih puteva (€1-2/sat)",
-    "routeDistances": "Od aerodroma Tivat Airport: 15 minuta · Od Budve: 30 minuta"
+    "subtitle": "Rivijera Crne Gore, plaže, noćni život i šarm starog grada.",
+    "seoDesc": "Mjesečni ili sedmični najam iz Budvaa sa vraćanjem u Budvi: ključevi u Sveti Stefanu ili Petrovcu. Puno osiguranje, bez ograničenja km."
   },
   "tivat-airport": {
     "title": "Rent a Car Aerodrom Tivat Airport",
     "subtitle": "Preuzmite vaš auto na izlazu iz zone dolaska.",
     "seoDesc": "Preuzmite dugoročni najam na Aerodromu Tivat Airport, baza u Budvau 8 km dalje. Sedmična ili mjesečna tarifa, puno osiguranje, prelaz u Dubrovnik."
-  },
-  "budva": {
-    "title": "Rent a Car Budva",
-    "subtitle": "Rivijera Crne Gore, plaže, noćni život i šarm starog grada.",
-    "seoDesc": "Mjesečni ili sedmični najam iz Budvaa sa vraćanjem u Budvi: ključevi u Sveti Stefanu ili Petrovcu. Puno osiguranje, bez ograničenja km."
   },
   "perast": {
     "title": "Rent a Car Rafailovići",
@@ -328,30 +325,26 @@
       "a": "Vaš agent čeka vas u holu dolazaka aerodroma Tivat Airport s tablom na kojoj piše vaše ime. Auto je parkiran odmah ispred. Od terminala do zidina Starog grada Budvaa traje oko 15 minuta putem uz zaliv. Alternativno, možemo organizovati preuzimanje na parkingu Tabacina, na ulazu u Stari grad."
     },
     "5": {
-      "q": "Mogu li vratiti vozilo na drugoj lokaciji?",
-      "a": "Jednosmjerno iznajmljivanje dostupno je u 28 mjesta za preuzimanje i vraćanje u Crnoj Gori. Izaberite različite lokacije u fazi rezervacije, naknada za jednosmjerni povratak može se primijeniti ovisno o udaljenosti."
-    },
-    "6": {
       "q": "Koja je politika otkazivanja?",
       "a": "Besplatno otkazivanje moguće je do 7 dana prije datuma početka najma. Luksuzni automobili i kabrioleti zahtijevaju 30 dana najave. Naknada za obradu plaćanja od 6 % primjenjuje se na sva otkazivanja bez obzira na vrijeme."
     },
-    "7": {
+    "6": {
       "q": "Da li je potreban depozit?",
       "a": "Većina vozila zahtijeva depozit od 100 do 350 € na fizičkoj kreditnoj kartici vozača. Neki ekonomični automobili dostupni su bez depozita, jasno su označeni u rezultatima pretrage. Blokada se oslobađa kada se vozilo vrati bez oštećenja."
     },
-    "8": {
+    "7": {
       "q": "Šta se dešava ako prekoračim limit kilometraže?",
       "a": "Vozila s ograničenjem kilometraže naplaćuju po kilometru iznad dogovorene granice. Tačna tarifa navedena je u detaljima vozila prije potvrde rezervacije."
     },
-    "9": {
+    "8": {
       "q": "Ima li skrivenih naknada?",
       "a": "Ne. Prikazana cijena uključuje sve poreze i naknade. Nema aerodromskih doplata, nema iznenađenja vezanih za politiku goriva, ništa se ne dodaje na šalteru."
     },
-    "10": {
+    "9": {
       "q": "Koliko plaćam unaprijed?",
       "a": "Avans od 15-20 % ukupne cijene najma potreban je za potvrdu rezervacije. Preostali iznos plaća se direktno agentu za iznajmljivanje pri preuzimanju automobila."
     },
-    "11": {
+    "10": {
       "q": "Mogu li iznajmiti bez kreditne kartice?",
       "a": "Mali broj vozila u floti dostupan je bez kreditne kartice. Te opcije su jasno označene u rezultatima pretrage kada filtrirate prema lokaciji preuzimanja."
     }
@@ -364,8 +357,8 @@
     },
     "budva": {
       "name": "Budva",
-      "tag": "UNESCO Stari Grad",
-      "desc": "Srednjovjekovni utvrđeni grad i kruzerska luka."
+      "tag": "30 min od Budvaa",
+      "desc": "Plaže Rivijere i živahan stari grad."
     },
     "podgorica-airport": {
       "name": "Aerodrom Podgorica",
@@ -376,11 +369,6 @@
       "name": "Rafailovići",
       "tag": "15 min od Budvaa",
       "desc": "Barokno selo i Gospa od Škrpjela."
-    },
-    "budva": {
-      "name": "Budva",
-      "tag": "30 min od Budvaa",
-      "desc": "Plaže Rivijere i živahan stari grad."
     },
     "dubrovnik-airport": {
       "name": "Aerodrom Dubrovnik",
@@ -396,6 +384,46 @@
       "name": "Podgorica",
       "tag": "Glavni grad",
       "desc": "Prijestonica Crna Gora, vrata ka unutrašnjosti."
+    },
+    "blog/ulcinj-old-town-fortress": {
+      "name": "Stari grad Ulcinj",
+      "desc": "Srednjovjekovna utvrda na rtu, nekada najpoznatija piratska baza Jadrana.",
+      "tag": "Piratska tvrđava"
+    },
+    "blog/velika-plaza-long-beach": {
+      "name": "Velika Plaža",
+      "desc": "Najduža pješčana plaža u Evropi van Baltika, ravna, plitka, kitesurf prijestonica Crne Gore.",
+      "tag": "12 km pijeska"
+    },
+    "blog/ada-bojana-fish-stilts-and-fkk": {
+      "name": "Ada Bojana",
+      "desc": "Trougaono ostrvo gdje se rijeka Bojana ulijeva u Jadran, riblji restorani na stubovima, konji na pijesku.",
+      "tag": "Riječno ostrvo"
+    },
+    "blog/valdanos-olive-groves": {
+      "name": "Valdanos zaliv",
+      "desc": "Desetine hiljada drevnih maslina obavijaju zaštićeni zaliv 4 km sjeverno od grada.",
+      "tag": "Skrivena uvala"
+    },
+    "blog/mala-plaza-in-town": {
+      "name": "Mala Plaža",
+      "desc": "Pješčani polumjesec odmah ispod zidina Starog grada, kupanje prije doručka.",
+      "tag": "Gradska plaža"
+    },
+    "blog/shkoder-albania-day-trip": {
+      "name": "Izlet u Skadar",
+      "desc": "Sjeverna kulturna prijestonica Albanije, 45 minuta preko granice na Sukobinu.",
+      "tag": "Prekogranično"
+    },
+    "blog/skadar-lake-from-ulcinj": {
+      "name": "Skadarsko jezero",
+      "desc": "Najveće jezero Balkana, pelikani, vinarije i unutrašnjost okružena planinama, samo malo u dubinu kopna.",
+      "tag": "45 min u kopno"
+    },
+    "blog/podgorica-airport-to-ulcinj": {
+      "name": "Aerodrom Podgorica",
+      "desc": "70 km sjeverno od Ulcinja, omiljeno mjesto dolaska gostiju Velike Plaže.",
+      "tag": "Čvor dolaska"
     }
   },
   "aboutBody": {
@@ -421,39 +449,17 @@
     "h7": "Tipicna Sedmica za Volanom",
     "p7": "Ponedjeljak ujutro: preuzimanje na aerodromu Tivat Airport, voznja putem uz zaliv do Budvaa, popodne unutar zidina Starog grada. Utorak: na sjever kroz Dobrotu i Rafailovići, camac do Gospe od Skrpjela, povratak kroz Risan do rimskih mozaika. Srijeda: lovcenska serpentina do Njegusa po dimljeni prsut i planinski sir, zatim spust do cetinjskog manastira. Cetvrtak: budvanske plaze rivijere kroz tunel, sa skretanjem do Svetog Stefana za razglednicku fotografiju. Petak: prelazak granice na Debelom Brijegu i popodne u dubrovackoj luci. Subota: Skadarsko jezero vinogradarskim putevima, voznja camcem kod Virpazara, povratak kroz Sozina tunel. Nedjelja: vracanje auta na Tivtu. Citav krug pokriva otprilike 500 km. Trosak goriva: priblizno 50 do 60 eura po trenutnim cijenama dizela. Nijedan autobus, turisticka grupa niti taksi to ne moze ponoviti ni po kojoj cijeni.",
     "h8": "Sezonski Savjeti od Tima",
-    "p8": "Ljeto donosi kruzere, do cetiri broda dnevno izmedu juna i septembra, a sa njima otprilike 8.000 putnika koji prelave Stari grad izmedu 09:00 i 14:00. Savjetujemo da stignete rano ili parkirate u Dobroti i pjesacite 800 metara do Morskih vrata. Zima pretvara zaliv u mirnije mjesto: manje posjetilaca, nize cijene i planinski putevi koji se povremeno zatvaraju iznad 1.200 metara zbog snijega. Proljece i jesen su idealno vrijeme. Aprila divlje cvijece oivicava put uz zaliv, septembar jos nudi toplo more bez guzvi, a lovcenski put je otvoren i nenapucen."
-  },
-  "budvaBody": {
-    "h1": "Budva -- Lokalitet pod Zastitom UNESCO-a",
-    "p1": "Budva je jedan od najljepših primorskih gradova Crne Gore, koji nudi prekrasne plaže, šarm istorijskog Starog grada i srednjovjekovne zidine unutar kojih se nalaze umjetničke galerije, kafići i odlični restorani. Kao lokalitet pod zaštitom UNESCO-a, znamenitosti grada su koncentrisane u predivno očuvanom Starom gradu.",
-    "p2": "Iznajmljivanje automobila u Budvau daje vam slobodu da istražujete lokalne atrakcije i obližnje crnogorske gradove i prirodna područja sopstvenim tempom. Dostupnost parkinga varira sezonski, jer ljetnji turizam stvara nestašicu u centru, ali postoje veća parkirališta na prilaznim putevima.",
-    "landmarksTitle": "Znamenitosti",
-    "stJohnTitle": "Tvrđava Sv. Ivana",
-    "stJohnText": "Impozantna građevina koja je istorijski štitila grad od gusarskih napada. Značajne karakteristike uključuju Kulu Contarini i Crkvu Gospe od Zdravlja, koja pruža zapanjujuće poglede na Stari grad i Bokobudvaski zaliv.",
-    "cathedralTitle": "Katedrala Sv. Tripuna",
-    "cathedralText": "Sagrađena 809. godine i obnovljena 1124. godine, ova katedrala sadrži izuzetnu vizantijsku arhitekturu i umjetnost koja odražava bogatu istoriju regiona.",
-    "dayTripsTitle": "Jednodnevni Izleti iz Budvaa",
-    "perastTrip": "Smještena u obližnjem Rafailovićiu, ova crkva se nalazi na vještačkom ostrvu u Bokobudvaskom zalivu. Ribari tamo bacaju kamenje svake godine od 1452., postepeno proširujući ostrvo. Prevoz trajektom košta oko 1 Euro; privatni čamci koštaju oko 5 Eura. Vožnja iz Budvaa traje manje od 30 minuta putem E65/E80 na sjever.",
-    "cetinjeTrip": "Sagrađen 1701. godine, manastir čuva ruku Jovana Krstitelja. Odlikuje se bogatom dekoracijom i pravoslavnom umjetnošću. Vožnja iz Budvaa traje približno jedan sat kroz slikovite planinske puteve.",
-    "royalCourtText": "Crnogorska kraljevska palata iz 1871. godine, u kojoj su izloženi umjetnički predmeti, artefakti i fotografije iz kraljevske istorije zemlje. Nalazi se pored manastira u nekadašnjoj kraljevskoj prijestonici.",
-    "parkingTitle": "Parkiranje u Budvau: Detaljan Vodic",
-    "parkingP1": "Parkiranje je najveca frustracija sa kojom se posjetioci susrecu u Budvau, a razumijevanje sistema stedi znacajno vrijeme. Glavni javni parking se nalazi direktno ispod bedema tvrdave, uz Rijeka kapiju. Naplacuje se oko 1,50 eura po satu ljeti i nesto manje od oktobra do aprila. Kapacitet je ogranicen na otprilike 150 vozila, a do 09:00 na dan kruzera potpuno je pun.",
-    "parkingP2": "Bolja strategija prometnih jutara je traka u Dobroti. Provezite se pored budvaskih zidina iduci na sjever putem uz zaliv i za dvije minute stizete do duge trake parkinga uz put koja se rijetko potpuno napuni. Odatle, setnja nazad do Morskih vrata traje oko deset minuta ravnom obalnom setnicom. Mjesta najbliza Budvau se prva pune, pa idite 500 metara dalje i gotovo uvijek cete naci mjesto.",
-    "parkingP3": "Postoji i veliko sljuncano parkiraliste kod trznog centra na prilazu iz Tivta, otprilike 800 metara juzno od Starog grada. Kosta pausalnih 5 eura dnevno i radi sa cuvanom kabinom. Mjestani koriste ovo parkiraliste tokom ljetnjeg vrhunca i hodaju po glavnom putu.",
-    "whereToEatTitle": "Gdje Jesti Blizu Starog Grada",
-    "whereToEatP1": "Unutar zidina, Konoba Scala Santa na Trgu od Salate sluzi tanjir grilovanih lignji sa blitvom koji predstavlja kuhinju zaliva u njenom najjednostavnijem i najboljem izdanju. Restoran zauzima prizemlje prenamijenjene kamene kuce i drzi jelovnik kratkim, riba sa jutarnje pijace, lokalne salate, kucno vino u karafama. Ocekujte 12 do 18 eura za glavno jelo. Stignite do 12:30 za sto bez cekanja, jer putnici sa kruzera pune starogradske restorane izmedu 13:00 i 15:00.",
-    "whereToEatP2": "Van zidina, Restoran Galion sjedi na terasi koja gleda direktno na Stari grad preko vode. Ambijent je prava atrakcija, bedemi tvrdave koji se ogledaju u mirnom zalivu, ali rizoto od morskih plodova i grilovani orada drze korak. Udaljen je 5 minuta voznje od parkinga kod Rijeka kapije, ili 15 minuta setnje obalnom setnicom u Dobroti.",
-    "drivingTipsTitle": "Savjeti za Voznju oko Budvaa",
-    "drivingTipsP1": "Prilazni put iz Tivta prati istocnu obalu zaliva kroz Dobrotu. Dobro je asfaltiran ali mjestimicno uzak, sa kamenim zidovima koji pritiskaju s obje strane. Ljeti ocekujte suprotni saobracaj od turistickih autobusa i dostavnih kombija, sklonite se u najblize prosirenje i propustite ih. Ogranicenje brzine duz ove dionice je 40 km/h, kontrolisano fiksnom kamerom kod dobrotske obale.",
-    "drivingTipsP2": "Iduci na jug od Budvaa ka Budvi, put se kratko penje prije ulaska u Vrmacki tunel. Ovo je jednocijevni tunel sa dvosmijernim saobracajem, pa ostanite u svojoj traci i drzite upaljena svjetla. Iza tunela, put vijuga do obilaznice Budve. Citavo putovanje od budvaskih Morskih vrata do starogradskog parkinga u Budvi traje oko 25 minuta van spica.",
-    "drivingTipsP3": "Za lovcensku serpentinu, napustite Budva sporednim ulicama iza Starog grada. Put je oznacen, ali prvih nekoliko raskrsnica je lako propustiti medu stambenim zgradama. Kada prodete posljednje kuce, serpentine pocinju ozbiljno. Potrubite prije svake nepregledne krivine, mjestani to rutinski rade i to je najefikasnija sigurnosna mjera na ovom putu.",
-    "seasonalTitle": "Budva Kroz Sezone",
-    "seasonalP1": "Ljeto (jun do septembar) je najprometnije i najskuplje doba Budvaa. Stari grad vrvi putnicima sa kruzera izmedu 09:00 i 16:00, a put uz zaliv moze se usporiti do minimuma kada se autobusi skupe na obali. Vecer je, medutim, kada se Budva transformise: dnevni izletnici odlaze, trgovi se isprazne, a restorani postavljaju stolove pod bedemima u toplom sumraku. Ako mozete tempirati posjetu za kasno popodne nadalje, ljetnji Budva je carolban.",
-    "seasonalP2": "Jesen donosi olaksanje. Oktobar i novembar nude blago vrijeme, gotovo prazne ulice i nize cijene iznajmljivanja automobila. Uspon na tvrdavu je daleko prijatniji bez julske vrucine. Mnogi restorani ostaju otvoreni do novembra, mada se neki zatvaraju nakon odlaska posljednjih kruzera sezone krajem oktobra.",
-    "seasonalP3": "Zimski Budva je miran, introspektivan i iznenadujuce atmosferican. Kisa prolazi kroz zaliv, planinski vrhovi skupljaju snijeg, a kamene ulice Starog grada blistaju u svjetlu lampi. Karnevalska sezona u februaru ispunjava trgove maskiranim procesijama i zivom muzikom, lokalna tradicija stara vijekovima. Parkiranje je bez napora zimi, a cijene iznajmljivanja automobila su na najnizem nivou.",
-    "seasonalP4": "Proljece, posebno april i pocetak maja, je mozda najljepse doba za posjet. Divlje cvijece prekriva padine brda, put uz zaliv oivicen je perunikama i makovima, a vazduh ima bistrinu koja cini da planine izgledaju dovoljno blizu da ih dotaknete. Broj turista je jos uvijek nizak, a lovcenski put je svjeze otvoren nakon zimskog zatvaranja.",
-    "whereToEatLink": "Istražite put uz zaliv do {{link}}, 15 minuta duž obale.",
-    "perastLinkText": "Rafailovićia"
+    "p8": "Ljeto donosi kruzere, do cetiri broda dnevno izmedu juna i septembra, a sa njima otprilike 8.000 putnika koji prelave Stari grad izmedu 09:00 i 14:00. Savjetujemo da stignete rano ili parkirate u Dobroti i pjesacite 800 metara do Morskih vrata. Zima pretvara zaliv u mirnije mjesto: manje posjetilaca, nize cijene i planinski putevi koji se povremeno zatvaraju iznad 1.200 metara zbog snijega. Proljece i jesen su idealno vrijeme. Aprila divlje cvijece oivicava put uz zaliv, septembar jos nudi toplo more bez guzvi, a lovcenski put je otvoren i nenapucen.",
+    "title": "O Car Rental Ulcinj",
+    "subtitle": "Lokalni rezervacioni partner za Ulcinj, Veliku plažu i granični koridor Crna Gora-Albanija",
+    "description": "Car Rental Ulcinj je nezavisna rezervaciona platforma za iznajmljivanje automobila na južnoj obali Crne Gore, od Ulcinja preko Velike plaže i Ade Bojane do granice sa Albanijom u Sukobinu.",
+    "h2_who": "Ko smo mi",
+    "h2_why": "Zašto Ulcinj kao baza",
+    "h2_included": "Šta je uključeno",
+    "h2_pickup": "Preuzimanje i vraćanje",
+    "h2_pricing": "Cijene",
+    "h2_contact": "Kontakt",
+    "contactPageLink": "kontakt stranica"
   },
   "budvaBody": {
     "h1": "Budva -- Srce Crnogorske Rivijere",
@@ -627,7 +633,28 @@
     "podgoricaAirportLinkText": "aerodrom Podgorica",
     "zabljakTitle": "Žabljak",
     "drivingLink": "Dovezite se do {{link}} za 90 minuta slikovitim planinskim putem.",
-    "budvaOldTownLinkText": "Starog grada Budvaa"
+    "budvaOldTownLinkText": "Starog grada Budvaa",
+    "glanceTitle": "Na prvi pogled",
+    "title": "Od aerodroma Podgorica do Ulcinja, vožnja 70 km i izbor rute",
+    "glance": {
+      "distanceLabel": "Razdaljina",
+      "timeLabel": "Vrijeme",
+      "tollLabel": "Putarina",
+      "fuelLabel": "Pumpe",
+      "altLabel": "Panoramska alternativa",
+      "bufferLabel": "Rezerva za povratak"
+    },
+    "h2_versus": "Podgorica ili Tivat",
+    "h2_fast": "Brza ruta: kroz tunel Sozina i Bar",
+    "h2_scenic": "Panoramska ruta: kroz Skadarsko jezero",
+    "h2_pickup": "Preuzimanje na TGD",
+    "h2_late": "Kasni dolasci",
+    "h2_return": "Povratak i tajming leta",
+    "h2_parking": "Parking na TGD",
+    "h2_pair": "Kombinujte sa",
+    "imgAlt": "Vožnja od aerodroma Podgorica do Ulcinja Crna Gora",
+    "subtitle": "Najbrži ulaz u Ulcinj, sa dvije moguće rute, putarinom kroz tunel Sozina i savjetima za noćno preuzimanje.",
+    "description": "Vodič za vožnju od aerodroma Podgorica (TGD) do Ulcinja: brza ruta kroz tunel Sozina i Bar, panoramska Skadarska varijanta, putarine, pumpe i preuzimanje auta."
   },
   "podgoricaAirportBody": {
     "h1": "Iznajmljivanje Automobila na Aerodromu Podgorica (TGD)",
@@ -739,7 +766,22 @@
     "mountainP1": "Crnogorski planinski putevi su lijepi i zahtjevni u jednakoj mjeri. Lovcen serpentina iznad Budvaa ima 25 numerisanih ostrih krivina bez zasticitnih ograda. Put od Podgorice do Zabljaka penje se preko prevoja iznad 1.400 metara sa ostrih liticama na jednoj strani. Durmitor region ima dionice koje se zatvaraju zbog snijega od novembra do aprila.",
     "mountainP2": "Praktican savjet: koristite nize brzine na spustevima da postedite kocnice. Potrubite prije nevidljiих krivina. Dajte prednost vozilima koja se penju. Nikad ne pokusavajte da pretecete na nevidljivoj krivini. Ako vam nije ugodno sa rucnim mjenjacom na strmim putevima, rezervisite automatik, stalna promjena brzina zamara na dugim planinskim voznjama.",
     "startLink": "Krenite s {{link}}, najbližeg aerodroma Bokobudvaskom zalivu.",
-    "startLinkText": "najma automobila na aerodromu Tivat Airport"
+    "startLinkText": "najma automobila na aerodromu Tivat Airport",
+    "title": "Vožnja kroz Crnu Goru sa južne tačke",
+    "h2_base": "Ulcinj kao baza, najjužnija tačka",
+    "h2_strip": "Južna obala (vaša domaća dionica)",
+    "longBeachLink": "Velika plaža",
+    "h2_60min": "Do 60 minuta autom",
+    "h2_longer": "Duži izleti iz Ulcinja",
+    "h2_borders": "Granice i međudržavna vožnja",
+    "h2_when": "Kada doći",
+    "skadarLink": "Skadarsko jezero (Virpazar)",
+    "shkoderLink": "Skadar, Albanija",
+    "sukobinName": "Sukobin-Muriqan",
+    "mayJuneLabel": "Maj-jun:",
+    "julyAugLabel": "Jul-avgust:",
+    "sepOctLabel": "Septembar-oktobar:",
+    "novAprLabel": "Novembar-april:"
   },
   "borderCrossingBody": {
     "h1": "Mogu Li Odvesti Iznajmljeni Auto Preko Granice?",
@@ -817,7 +859,50 @@
     "card_stoliv_title": "Gornji Stoliv: Napusteno Selo na Litici Budvaa",
     "card_stoliv_excerpt": "Uzak put se penje 400 metara iznad zaliva do kamenog sela napustenog nakon zemljotresa 1979. Pogledi i tisina su izvanredni.",
     "card_wildflowers_title": "Proljecne Voznje Divljim Cvijecem: Mart do Maj",
-    "card_wildflowers_excerpt": "Zaliv buja bojama izmedu marta i maja. Orhideje, perunike i cistus oivicavaju puteve od Budvaa do Risna i prema lovcenskim padinama."
+    "card_wildflowers_excerpt": "Zaliv buja bojama izmedu marta i maja. Orhideje, perunike i cistus oivicavaju puteve od Budvaa do Risna i prema lovcenskim padinama.",
+    "crumb": "Blog",
+    "posts": {
+      "ulcinjFortress": {
+        "title": "Stari grad Ulcinj, gusarska tvrđava Jadrana",
+        "excerpt": "Srednjovjekovna utvrda na stjenovitom rtu koja je u 17. vijeku bila najozloglašenija gusarska baza Jadrana, prodavši mladog Servantesa u ropstvo."
+      },
+      "velikaPlaza": {
+        "title": "Velika plaža, najduža pješčana plaža u Evropi van Baltika",
+        "excerpt": "Dvanaest kilometara ravnog plitkog pijeska na južnom kraju Crne Gore, kajt prijestonica Jadrana i najmirniji dio obale."
+      },
+      "adaBojana": {
+        "title": "Ada Bojana, trougaono riječno ostrvo na granici sa Albanijom",
+        "excerpt": "Pješčano ostrvo gdje Bojana ulazi u more. Riblji restorani na stubovima, divlji konji na pijesku i nudistička tradicija od 1970-ih."
+      },
+      "valdanos": {
+        "title": "Zaliv Valdanos, drevni maslinjaci oko skrivene uvale",
+        "excerpt": "Zaštićena šljunčana uvala četiri kilometra sjeverno od grada, unutar jednog od najvećih starih maslinjaka na Jadranu."
+      },
+      "malaPlaza": {
+        "title": "Mala plaža, gradska plaža ispod zidina Starog grada",
+        "excerpt": "Pješčani polumjesec ispod Starog grada Ulcinja, kupanje prije doručka, kafići na šetalištu, zalazak nad tvrđavom."
+      },
+      "shkoderTrip": {
+        "title": "Dnevni izlet u Skadar, prelazak u Albaniju iz Ulcinja",
+        "excerpt": "Četrdeset pet minuta do kulturne prijestonice sjeverne Albanije preko granice Sukobin-Muriqan. Tvrđava Rozafa, Skadarsko jezero i bazar, povratak u Ulcinj za večeru."
+      },
+      "skadarLake": {
+        "title": "Skadarsko jezero iz Ulcinja, jezero pelikana u zaleđu",
+        "excerpt": "Četrdeset pet minuta u zaleđe do najvećeg jezera na Balkanu. Kolonije pelikana na Pančevoj Oki, vinarije Crnojević i ruševna tvrđava Žabljak nad vodom."
+      },
+      "podgoricaToUlcinj": {
+        "title": "Od aerodroma Podgorica do Ulcinja, 70 km vožnje i izbor rute",
+        "excerpt": "Aerodrom Podgorica je bliža ulazna tačka, 70 km, oko sat preko nove auto-ceste do Sukobina. Plus panoramska Skadarska ruta za povratak."
+      },
+      "ulcinjToShkoder": {
+        "title": "Iz Ulcinja u Skadar i nazad, dnevna vožnja preko granice",
+        "excerpt": "Praktični detalji: granične formalnosti, albansko auto-osiguranje, lek vs evro i panoramska Bojana petlja u povratku."
+      },
+      "kitesurfing": {
+        "title": "Kajtsurf na Velikoj plaži, zašto je ovo jadranski centar",
+        "excerpt": "Plitka mirna voda, stabilan bočni vjetar, dvije kajt škole na Copacabani. Kada doći, gdje parkirati i kako iznajmiti."
+      }
+    }
   },
   "blogHiddenChurches": {
     "title": "Tajne Crkve i Kapele Budvaskog Starog Grada",
@@ -1272,7 +1357,21 @@
     "sectionLabel": "Vodiči za Putovanja",
     "sectionTitle": "Iz Našeg Bloga",
     "sectionSubtitle": "Rute za vožnju, skrivena zaustavljanja i lokalni savjeti za istraživanje Bokobudvaskog zaliva automobilom.",
-    "viewAll": "Pogledaj sve vodiče"
+    "viewAll": "Pogledaj sve vodiče",
+    "posts": {
+      "ulcinjFortress": {
+        "title": "Stari grad Ulcinj, gusarska tvrđava Jadrana",
+        "excerpt": "Srednjovjekovna tvrđava na rtu, gusarska republika 17. vijeka i krečnjačke zidine iznad Male plaže."
+      },
+      "adaBojana": {
+        "title": "Ada Bojana, riblji restorani na stubovima na ušću rijeke",
+        "excerpt": "Trougaono pješčano ostrvo gdje rijeka Bojana ulazi u Jadran, sa nizom ribljih restorana iznad vode."
+      },
+      "kitesurfing": {
+        "title": "Kajtsurf na Velikoj plaži, zašto je ovo jadranski centar",
+        "excerpt": "Plitka mirna voda, stabilan termalni vjetar, dvije kajt škole na Copacabani. Kako je plaža postala kajt centar južnog Jadrana."
+      }
+    }
   },
   "contact": {
     "heroTitle": "Kontaktirajte nas",
@@ -1300,7 +1399,10 @@
     "title": "Kontaktirajte nas",
     "seoDesc": "Kontaktirajte Najam Automobila Budva za mjesečne ponude, preuzimanje na aerodromu ili pitanja vezana uz preseljenje iseljenika.",
     "heading": "Kontaktirajte nas",
-    "intro": "Imate pitanje o iznajmljivanju automobila u Budvau? Javite nam se i pomoći ćemo vam pronaći savršeno vozilo za vaše putovanje."
+    "intro": "Imate pitanje o iznajmljivanju automobila u Budvau? Javite nam se i pomoći ćemo vam pronaći savršeno vozilo za vaše putovanje.",
+    "thanks": "Hvala što ste se javili, odgovorićemo u roku od nekoliko sati.",
+    "messageSentTitle": "Poruka poslata!",
+    "messageSentBody": "Hvala što ste nam se obratili, odgovaramo u roku od nekoliko sati."
   },
   "cookieBody": {
     "lastUpdated": "Posljednje ažuriranje:",
@@ -1352,9 +1454,9 @@
     "thirdText": "Naša web stranica koristi sljedeće usluge trećih strana:",
     "third1Label": "LocalRent:",
     "third1": "widget za rezervaciju najma automobila, obrađuje vaše pretrage i upravlja svim rezervacijama i plaćanjima",
-    "third2Label": "Vercel:",
+    "third2Label": ":",
     "third2": "hosting web stranice",
-    "third3Label": "Pexels:",
+    "third3Label": ":",
     "third3": "stock fotografija",
     "thirdNote": "Svaka od ovih usluga ima vlastitu politiku privatnosti koja reguliše kako obrađuju podatke.",
     "cookiesTitle": "Kolačići",
@@ -1396,7 +1498,7 @@
     "liability3": "Gubitke nastale zbog problema pri prelasku granice ili problema s dokumentacijom",
     "liability4": "Promjene cijena nakon potvrde rezervacije",
     "ipTitle": "Intelektualna svojina",
-    "ipText": "Sav sadržaj na ovoj web stranici, uključujući tekst, dizajn i grafiku, vlasništvo je Car Rental Ulcinj osim ako nije drugačije navedeno. Stock fotografija se koristi pod licencom od Pexels.",
+    "ipText": "Sav sadržaj na ovoj web stranici, uključujući tekst, dizajn i grafiku, vlasništvo je Car Rental Ulcinj osim ako nije drugačije navedeno. Stock fotografija se koristi pod licencom od",
     "contactTitle": "Kontakt",
     "contactText": "Pitanja o ovim uslovima? Kontaktirajte nas na info@budvacarrental.com."
   },
@@ -1596,7 +1698,14 @@
   "relatedGuides": {
     "secretChurches": "Tajne crkve Budvaa",
     "vrmacRidge": "Planinarenje po grebenu Vrmca",
-    "swimmingSpots": "Najbolja mjesta za plivanje"
+    "swimmingSpots": "Najbolja mjesta za plivanje",
+    "title": "Moglo bi vam se svidjeti i",
+    "ulcinjFortressAlt": "Stari grad Ulcinj, gusarska tvrđava",
+    "ulcinjFortressLabel": "Tvrđava Stari grad Ulcinj",
+    "adaBojanaAlt": "Ada Bojana, riblji restorani na stubovima",
+    "adaBojanaLabel": "Ada Bojana, restorani na stubovima i FKK",
+    "velikaPlazaAlt": "Velika plaža, najduža pješčana plaža u Evropi",
+    "velikaPlazaLabel": "Velika plaža, dugi pijesak"
   },
   "navTop": {
     "carRental": "Iznajmljivanje automobila",
@@ -1611,12 +1720,235 @@
     "decline": "Odbij"
   },
   "cars": {
-    "readGuide": "Pročitaj vodič"
+    "readGuide": "Pročitaj vodič",
+    "renault-clio": {
+      "name": "Renault Clio",
+      "tagline": "Nezahtjevan obalni mali auto za dvonedjeljnu bazu u Ulcinju",
+      "lede": "Štedljiv na gorivu, jeftin za parkiranje na mjestu preuzimanja i ugodan za auto-put do Podgorice ili Žabljaka.",
+      "suitability": "Par koji se smjesti u Ulcinj na deset do četrnaest dana, sa redovnim izletima u Cetinje, Risan i na obale Skadarskog jezera, lak za parkiranje, blag prema novčaniku za benzin.",
+      "regional": "Savlađuje uspon Ulcinj-Cetinje u trećoj brzini bez napora, prolazi uskim obalnim ulicama okolnih sela, a 5,3 L/100 km benzina drži račun za gorivo predvidivim na višenedjeljnom najmu.",
+      "category": "Ekonomik",
+      "bestFor": {
+        "0": "Parovi na dvonedjeljnom boravku",
+        "1": "Izletnici za Cetinje i Njeguše",
+        "2": "Posjetioci rimskih mozaika u Risnu"
+      },
+      "features": {
+        "0": "Bluetooth audio",
+        "1": "USB punjenje",
+        "2": "Centralno zaključavanje",
+        "3": "Ekran osjetljiv na dodir"
+      },
+      "inlineAlt": "Obalna cesta Bokokotorskog zaliva kod Dobrote",
+      "inlineCaption": "Dionica Dobrota-Prčanj na ravnih 50 km/h, prirodan ritam Clija za višednevni boravak u zalivu."
+    },
+    "peugeot-308": {
+      "name": "Peugeot 308",
+      "tagline": "Dizelska srednja klasa za rute Ulcinj prema Dubrovniku i Ulcinj prema Durmitoru",
+      "lede": "Dalekometni BlueHDi sa automatikom, napravljen za trosatnu vožnju do Žabljaka ili prekogranični put do Trebinja i Mostara.",
+      "suitability": "Izbor srednje klase u dizelu za sve koji bazu u Ulcinju spajaju sa višednevnim vožnjama u unutrašnjost, automatik i tempomat se isplate na auto-putu prema Podgorici.",
+      "regional": "Bez napora prevali auto-put Smokovac-Mateševo, guta nedjelju opreme za planinarenje za Žabljak, i prelazi rutu Ulcinj-Dubrovnik preko Debelog Brijega na pola rezervoara.",
+      "category": "Srednja klasa",
+      "bestFor": {
+        "0": "Putnici preko granica",
+        "1": "Vikend-izletnici na Durmitoru",
+        "2": "Četiri odrasle osobe sa punim prtljagom"
+      },
+      "features": {
+        "0": "Automatski mjenjač",
+        "1": "Adaptivni tempomat",
+        "2": "Klima u dvije zone",
+        "3": "Veliki gepek"
+      },
+      "inlineAlt": "Auto-cesta Smokovac-Mateševo u zaleđu Kotora",
+      "inlineCaption": "Auto-cesta Smokovac prema Podgorici, BlueHDi 308-ice radi mirno na 1.800 o/min."
+    },
+    "renault-megane": {
+      "name": "Renault Megane",
+      "tagline": "Francuska srednja klasa sa najvećim gepekom, pravljena za duge boravke i izlete na jezero",
+      "lede": "Gepek 434 litra, tih dizelski krstareći režim, mekano gušenje, srednji karavan za mjesec dana u zalivu sa redovnim izletima.",
+      "suitability": "Korisnicima koji žele više prostora za prtljag od hečbeka bez dužine pravog karavana, idealan za ribarsku opremu na Skadarskom jezeru, dnevne torbe za manastir u Cetinju i hladnjaču za povratak.",
+      "regional": "Dugohodno vješanje glača zakrpljeni asfalt stare ceste Ulcinj-Budva, dCi dizel je štedljiv kroz tunel Sozina, a izdašan gepek prima dvije nedjelje porodične opreme plus vreću za rublje pokupljenu u Prčnju.",
+      "category": "Srednja klasa",
+      "bestFor": {
+        "0": "Dugotrajni najam",
+        "1": "Izletnici na Skadarsko jezero",
+        "2": "Porodice u obilasku manastira"
+      },
+      "features": {
+        "0": "Veliki gepek",
+        "1": "Bluetooth audio",
+        "2": "Tempomat",
+        "3": "Senzori za parkiranje"
+      },
+      "inlineAlt": "Stara obalna cesta od Kotora prema Risnu",
+      "inlineCaption": "Krpljen asfalt prema rimskim mozaicima u Risnu, gdje meko vješanje Megane stvarno zarađuje svoj dodatak."
+    },
+    "kia-stonic": {
+      "name": "Kia Stonic",
+      "tagline": "Povišeni krosover za šljunkoviti prilaz Njegušima i Lovćenu",
+      "lede": "Malo viša alternativa hečbeku, prolazi izrovane sporedne puteve oko Njeguša i zaobilazne pravce za Lovćen bez grebanja.",
+      "suitability": "Korisnicima koji žele preglednost krosovera i nešto klirensa za sporedne puteve oko gornjeg ulcinjskog zaliva i pristup Lovćenu, bez plaćanja punog SUV-a.",
+      "regional": "Viši položaj sjedenja olakšava pogled preko parapetnih zidova u regionu, klirens od 182 mm prelazi kamene tragove stare uličice njeguških sušara šunke, a gepek od 352 litra prima porodičnu opremu za Durmitor bez obaranja sjedišta.",
+      "category": "Kompaktni krosover",
+      "bestFor": {
+        "0": "Vikend-izletnici za Njeguše",
+        "1": "Dnevni izletnici na Durmitor",
+        "2": "Fotografi koji love vidikovce na grebenu"
+      },
+      "features": {
+        "0": "Povišena posada",
+        "1": "Apple CarPlay",
+        "2": "Kamera za vožnju unazad",
+        "3": "Asistent za zadržavanje trake"
+      },
+      "inlineCaption": "Prilaz Njegušima iznad zaliva, malo više klirensa drži Stonic mirnim tamo gdje Clio struže."
+    },
+    "vw-golf": {
+      "name": "VW Golf",
+      "tagline": "DSG dizel za sve, miran krstareći režim na E80 i višednevne ture",
+      "lede": "Razuman podrazumijevani izbor za korisnika koji bazu u Ulcinju kombinuje sa dugim vožnjama u unutrašnjost, profinjen, dovoljno brz i ekonomičan na auto-putu.",
+      "suitability": "Podrazumijevana srednja klasa za korisnike koji žele jedan auto i za obilazak periferije Starog grada Ulcinj prvog dana i auto-put Smokovac-Mateševo četvrtog, bez prigovora.",
+      "regional": "DSG sam bira pravi stepen prijenosa na serpentinama Ulcinj-Lovćen, 2.0 TDI drži 130 km/h na auto-putu do Podgorice uz 4,3 L/100 km, a tišina u kabini čini trosatnu vožnju do Žabljaka uistinu opuštajućom.",
+      "category": "Srednja klasa",
+      "bestFor": {
+        "0": "Parovi koji spajaju obalu i kanjon",
+        "1": "Poslovni putnici na sedmodnevnom najmu",
+        "2": "Vozači koji planiraju prelazak u BiH ili Hrvatsku"
+      },
+      "features": {
+        "0": "DSG automatik",
+        "1": "Adaptivni tempomat",
+        "2": "Digitalni kokpit",
+        "3": "Apple CarPlay"
+      },
+      "inlineCaption": "Uspon Kotor-Cetinje u trećoj, DSG čita serpentine, kabina ostaje tiha."
+    },
+    "fiat-500": {
+      "name": "Fiat 500",
+      "tagline": "Sićušni gradski auto za kratak boravak u Ulcinju, uglavi se između dostavnih kombija",
+      "lede": "Mali gabariti, krovni otvor, hibridno potpomognuti 1.0, izbor za dvije ili tri noći baze u Ulcinju kada višednevne vožnje nisu na rasporedu.",
+      "suitability": "Dvije ili tri noći u Ulcinju sa kratkim popodnevnim skokovima do Perasta i Prčnja, 500 se parkira tamo gdje srednje klase mašu i prolaze.",
+      "regional": "Dužina od 3,57 m je presudni argument: stane na stepenasta terasna parkirališta na rivama susjednih sela i u procijep širok ramena pred Morskom kapijom kojim Clio ne može. Slab za uspon na Lovćen, pa kombinujte sa žičarom ili ostanite u granicama zaliva.",
+      "category": "Gradski",
+      "bestFor": {
+        "0": "Kratki gradski boravci",
+        "1": "Solo posjetioci sa skromnim budžetom",
+        "2": "Fotografi na kratkim skokovima"
+      },
+      "features": {
+        "0": "Kompaktna veličina",
+        "1": "Lako parkiranje",
+        "2": "Krovni otvor",
+        "3": "Bluetooth"
+      },
+      "inlineAlt": "Uska obalna ulica u Muu kod Kotora",
+      "inlineCaption": "Šetalište Mu nakon trajektnog pristana, 500-ica ulazi u prostore gdje ostali iz flote samo prolaze.",
+      "relatedTitle": {
+        "0": "Mala plaža, gradska plaža",
+        "1": "Kajtsurf Velika plaža",
+        "2": "Maslinjaci Valdanos"
+      }
+    },
+    "citroen-c3": {
+      "name": "Citroen C3",
+      "tagline": "Najmekši mali hečbek za neravnu dionicu Ulcinj-Risan i skretanja na sporedne puteve",
+      "lede": "Advanced Comfort amortizeri glade zakrpljeni asfalt stare zalivske ceste, najnježniji mali auto za noćno parkiranje kod ulcinjskih bedema.",
+      "suitability": "Izbor sa naglaskom na udobnost za nedjelju u Ulcinju sa svakodnevnim laganim skretanjima, rimskim mozaicima u Risnu, zaseokom Gornja Lastva iznad Tivta i povratnom petljom kroz okolna sela.",
+      "regional": "Progresivni hidraulični odbojnici dionicu punu rupa od Risna do Perasta čine za klasu tišom, opušteni motor od 83 KS odgovara ograničenjima od 50 km/h na zalivskoj cesti, a 4 metra dužine staje u svaku parkirnu nišu kod bedema Starog grada.",
+      "category": "Ekonomik",
+      "bestFor": {
+        "0": "Parovi u laganom turizmu",
+        "1": "Istraživači sporednih puteva",
+        "2": "Korisnici skloni mučnini u vožnji"
+      },
+      "features": {
+        "0": "Advanced Comfort sjedišta",
+        "1": "Bluetooth audio",
+        "2": "USB punjenje",
+        "3": "Upozorenje napuštanja trake"
+      },
+      "inlineAlt": "Sporedna cesta kroz Gornju Lastvu iznad Tivta",
+      "inlineCaption": "Krak ka Gornjoj Lastvi iznad zaliva, Advanced Comfort C3 pretvara krpljen asfalt u daleke tupe udarce."
+    },
+    "overviewTitle": "Na prvi pogled",
+    "specsTitle": "Pune specifikacije",
+    "featuresTitle": "Unutrašnjost auta",
+    "whoForTitle": "Za koga je ovaj auto?",
+    "regionalTitle": "Najbolja regionalna primjena",
+    "articleTitle": "Na crnogorskim putevima",
+    "relatedTitle": "Kuda vas vodi ovaj auto",
+    "checkAvailability": "Provjerite dostupnost i aktuelne cijene",
+    "nextBtn": "Sljedeći u floti",
+    "sections": {
+      "behindWheel": "Za volanom",
+      "onRoads": "Na crnogorskim putevima",
+      "spaceLoad": "Prostor i utovar",
+      "bestFor": "Najbolji putevi za ovaj auto",
+      "practical": "Praktične napomene",
+      "verdict": "Presuda"
+    },
+    "vw-polo": {
+      "relatedTitle": {
+        "0": "Tvrđava Stari grad Ulcinj",
+        "1": "Mala plaža, gradska plaža",
+        "2": "Maslinjaci Valdanos"
+      }
+    },
+    "skoda-octavia": {
+      "relatedTitle": {
+        "0": "Velika plaža, dugi pijesak",
+        "1": "Riječno ostrvo Ada Bojana",
+        "2": "Izlet u Skadar (Albanija)"
+      }
+    },
+    "toyota-corolla": {
+      "relatedTitle": {
+        "0": "Tvrđava Stari grad Ulcinj",
+        "1": "Velika plaža, dugi pijesak",
+        "2": "Skadarsko jezero iz Ulcinja"
+      }
+    },
+    "mercedes-c-class": {
+      "relatedTitle": {
+        "0": "Skadarsko jezero iz Ulcinja",
+        "1": "Izlet u Skadar (Albanija)",
+        "2": "Vožnja Ulcinj-Skadar"
+      }
+    },
+    "fiat-500c": {
+      "relatedTitle": {
+        "0": "Mala plaža, gradska plaža",
+        "1": "Kajtsurf Velika plaža",
+        "2": "Maslinjaci Valdanos"
+      }
+    },
+    "bmw-x3": {
+      "relatedTitle": {
+        "0": "Izlet u Skadar (Albanija)",
+        "1": "Skadarsko jezero iz Ulcinja",
+        "2": "Vožnja Ulcinj-Skadar"
+      }
+    },
+    "jeep-renegade": {
+      "relatedTitle": {
+        "0": "Riječno ostrvo Ada Bojana",
+        "1": "Maslinjaci Valdanos",
+        "2": "Skadarsko jezero iz Ulcinja"
+      }
+    },
+    "vw-transporter": {
+      "relatedTitle": {
+        "0": "Velika plaža, dugi pijesak",
+        "1": "Mala plaža, gradska plaža",
+        "2": "Aerodrom Podgorica do Ulcinja"
+      }
+    }
   },
   "fleetShowcase": {
     "label": "Upoznaj svoj auto",
     "title": "Vodiči za svaki auto naše budvaske flote",
-    "subtitle": "Specifikacije, domet, prtljažnik — i koji auto se zaista pokaže na putu oko zaliva, lovćenskim serpentinama i autoputu Smokovac.",
+    "subtitle": "Specifikacije, domet, prtljažnik, i koji auto se zaista pokaže na putu oko zaliva, lovćenskim serpentinama i autoputu Smokovac.",
     "viewAll": "Pogledaj sve vodiče flote",
     "tabs": {
       "all": "Svi",
@@ -1630,9 +1962,266 @@
   "fleetIndex": {
     "title": "Naša flota za iznajmljivanje u Budvau",
     "subtitle": "Sedam auta odabranih za višednevnu bazu u Budvau, sa izletima ka Cetinju, Skadarskom jezeru, Durmitoru i preko granice.",
-    "seoDesc": "Sedam auta za višednevni najam u Budvau — srednja klasa za teret, dizel krstarice i jedan gradski Fiat. Specifikacije, domet i koji auto odgovara kom izletu iz zaliva.",
-    "intro1": "Ova flota napravljena je za gosta koji iznajmljuje u Budvau na više dana — ljude koji se ukopaju u stan u Dobroti ili pansion u Starom gradu na dvije sedmice ili više, i koji znaju da će pravo vrijeme provesti na putu između dana u zalivu. To je drugačiji zadatak od jednodnevnog najma sa krstarenja ili prostog preuzimanja auta na tivatskom aerodromu: traži prtljažnik za sedmičnu kupovinu u Voliju, dizel moment za uspon Sozine i sedeću poziciju u kojoj četvoro odraslih izdrži trosatnu vožnju do Žabljaka. Sedam auta ispod izabrani su baš po toj mjeri.",
-    "intro2": "Miks namjerno ide ka srednjoj klasi. Peugeot 308 sa 1.5 BlueHDi i EAT automatikom, dizel Renault Megane sa najvećim prtljažnikom u klasi, VW Golf sa DSG 2.0 TDI — ta kola pretvaraju petlju Budva → Cetinje → Skadarsko jezero → Sozina iz posla sa mjenjačem u mirno krstarenje. Za kraće skokove držimo Renault Clio, Citroën C3 sa Advanced Comfort vješanjem, krosover Kia Stonic za razvaljene odvojke ka Njegušima i Gornjoj Lastvi, i sitan Fiat 500 kada je jedino ograničenje parkiranje na mulu u Muu. Bez monotonaca i bez kombija — svaki auto ovdje opravdava višednevni najam.",
-    "intro3": "Jedan praktičan budvaski savjet prije izbora. Dizel je i dalje pametniji potez ako je u planu makar jedna prekogranična vožnja — Trebinje je 90 minuta, Dubrovnik preko Debelog Brijega isto 90, Mostar pun dan u oba smjera. 308 i Megane pokrivaju sve tri rute na jednom rezervoaru, Golf je najtiši autoputni auto koji imamo, a benzinski Clio će svejedno preći Budva–Dubrovnik u oba smjera na pola rezervoara. Ako vam je sedmica u granicama zaliva — Rafailovići, Prčanj, Muo, Risan — Fiat 500 ili C3 uštedi trećinu goriva i staje tamo gdje ostali ne stanu. Birajte po maršruti, ne po dnevnoj cijeni."
+    "seoDesc": "Sedam auta za višednevni najam u Budvau, srednja klasa za teret, dizel krstarice i jedan gradski Fiat. Specifikacije, domet i koji auto odgovara kom izletu iz zaliva.",
+    "intro1": "Ova flota napravljena je za gosta koji iznajmljuje u Budvau na više dana, ljude koji se ukopaju u stan u Dobroti ili pansion u Starom gradu na dvije sedmice ili više, i koji znaju da će pravo vrijeme provesti na putu između dana u zalivu. To je drugačiji zadatak od jednodnevnog najma sa krstarenja ili prostog preuzimanja auta na tivatskom aerodromu: traži prtljažnik za sedmičnu kupovinu u Voliju, dizel moment za uspon Sozine i sedeću poziciju u kojoj četvoro odraslih izdrži trosatnu vožnju do Žabljaka. Sedam auta ispod izabrani su baš po toj mjeri.",
+    "intro2": "Miks namjerno ide ka srednjoj klasi. Peugeot 308 sa 1.5 BlueHDi i EAT automatikom, dizel Renault Megane sa najvećim prtljažnikom u klasi, VW Golf sa DSG 2.0 TDI, ta kola pretvaraju petlju Budva → Cetinje → Skadarsko jezero → Sozina iz posla sa mjenjačem u mirno krstarenje. Za kraće skokove držimo Renault Clio, Citroën C3 sa Advanced Comfort vješanjem, krosover Kia Stonic za razvaljene odvojke ka Njegušima i Gornjoj Lastvi, i sitan Fiat 500 kada je jedino ograničenje parkiranje na mulu u Muu. Bez monotonaca i bez kombija, svaki auto ovdje opravdava višednevni najam.",
+    "intro3": "Jedan praktičan budvaski savjet prije izbora. Dizel je i dalje pametniji potez ako je u planu makar jedna prekogranična vožnja, Trebinje je 90 minuta, Dubrovnik preko Debelog Brijega isto 90, Mostar pun dan u oba smjera. 308 i Megane pokrivaju sve tri rute na jednom rezervoaru, Golf je najtiši autoputni auto koji imamo, a benzinski Clio će svejedno preći Budva–Dubrovnik u oba smjera na pola rezervoara. Ako vam je sedmica u granicama zaliva, Rafailovići, Prčanj, Muo, Risan, Fiat 500 ili C3 uštedi trećinu goriva i staje tamo gdje ostali ne stanu. Birajte po maršruti, ne po dnevnoj cijeni."
+  },
+  "carSpecs": {
+    "values": {
+      "Petrol": "Benzin",
+      "Manual": "Manuelno",
+      "Diesel": "Dizel",
+      "Automatic": "Automatik"
+    },
+    "seats": "Sjedišta",
+    "transmission": "Mjenjač",
+    "fuel": "Gorivo",
+    "luggage": "Prtljag",
+    "bootSize": "Gepek",
+    "mpg": "Potrošnja",
+    "bagsSuffix": "torbe"
+  },
+  "locationsList": {
+    "0": {
+      "name": "Grad Ulcinj",
+      "tag": "Najpopularnije"
+    },
+    "1": {
+      "name": "Aerodrom Podgorica",
+      "tag": "Preuzimanje na aerodromu"
+    },
+    "2": {
+      "name": "Velika Plaža",
+      "tag": "Velika Plaža"
+    },
+    "3": {
+      "name": "Ada Bojana"
+    },
+    "4": {
+      "name": "Valdanos zaliv"
+    },
+    "5": {
+      "name": "Luka Bar",
+      "tag": "Dolazak trajekta"
+    }
+  },
+  "schema": {
+    "carDescription": "Iznajmljivanje {category}, {transmission}, {fuel}, {seats} sjedišta"
+  },
+  "adaBojanaBody": {
+    "title": "Ada Bojana, trougaono riječno ostrvo na granici sa Albanijom",
+    "glanceTitle": "Na prvi pogled",
+    "glance": {
+      "formedLabel": "Nastala",
+      "driveLabel": "Vožnja iz Ulcinja",
+      "lengthLabel": "Dužina plaže",
+      "bestForLabel": "Najbolje za",
+      "fkkLabel": "FKK područje",
+      "mosquitoLabel": "Komarci"
+    },
+    "h2_origin": "Kako je ostrvo nastalo",
+    "h2_beach": "Plaža",
+    "h2_river": "Riječna strana",
+    "h2_back": "Sporedni rukavac",
+    "h2_getting": "Kako stići",
+    "h2_practical": "Praktične informacije",
+    "h2_when": "Kada doći",
+    "h2_pair": "Kombinujte sa",
+    "imgAlt": "Riječno ostrvo Ada Bojana Ulcinj",
+    "subtitle": "Riblji restorani na stubovima, pješčano ostrvo na ušću Bojane i nudistička tradicija iz 1970-ih.",
+    "description": "Vodič kroz Adu Bojanu: kako je nastalo trougaono ostrvo, FKK tradicija, restorani uz rijeku, plaža sporednog rukavca i smjer iz Ulcinja."
+  },
+  "malaPlazaBody": {
+    "glanceTitle": "Na prvi pogled",
+    "title": "Mala plaža, gradska plaža ispod zidina Starog grada",
+    "glance": {
+      "lengthLabel": "Dužina",
+      "settingLabel": "Okruženje",
+      "loungersLabel": "Ležaljke",
+      "parkingLabel": "Parking",
+      "bestTimeLabel": "Najbolje vrijeme",
+      "depthLabel": "Dubina vode"
+    },
+    "h2_inTown": "Plaža u centru grada",
+    "h2_boardwalk": "Šetalište",
+    "h2_swim": "Vrijeme za kupanje",
+    "h2_loungers": "Ležaljke i sadržaji",
+    "h2_parking": "Parking",
+    "h2_eating": "Hrana",
+    "h2_view": "Napomena o pogledu",
+    "h2_versus": "Mala plaža naspram Velike plaže",
+    "h2_pair": "Kombinujte sa",
+    "imgAlt": "Mala plaža gradska plaža Ulcinj",
+    "subtitle": "Pješčani polumjesec ispod tvrđave u Ulcinju, sa šetalištem, pogledom na Stari grad i opuštenim ritmom.",
+    "description": "Vodič kroz Malu plažu u Ulcinju: pogled na Stari grad, kafići na šetalištu, parking i razlike u odnosu na Veliku plažu."
+  },
+  "ulcinjFortressBody": {
+    "glanceTitle": "Na prvi pogled",
+    "title": "Stari grad Ulcinj, gusarska tvrđava Jadrana",
+    "glance": {
+      "oldestLabel": "Najstariji slojevi",
+      "venetianLabel": "Mletačka vlast",
+      "ottomanLabel": "Otomanska vlast",
+      "wallLabel": "Šetnja po zidinama",
+      "parkingLabel": "Parking",
+      "lightLabel": "Najbolje svjetlo"
+    },
+    "h2_pre": "Tvrđava prije grada",
+    "h2_layers": "Mletački i otomanski slojevi",
+    "h2_pirates": "Gusarski vijek",
+    "h2_walk": "Šta možete obići",
+    "h2_walls": "Same zidine",
+    "h2_parking": "Parking i uspon",
+    "h2_eating": "Hrana unutar zidina",
+    "h2_when": "Kada ići",
+    "h2_pair": "Kombinujte sa",
+    "imgAlt": "Tvrđava Stari grad Ulcinj na Jadranu",
+    "subtitle": "Srednjovjekovna tvrđava na rtu, gusarska republika 17. vijeka i krečnjačke zidine koje se i danas savijaju nad Malom plažom.",
+    "description": "Vodič za šetnju Starim gradom Ulcinja: otomanske utvrde, gusarska istorija, Balšića kula i praktične napomene o parkingu."
+  },
+  "shkoderBody": {
+    "glanceTitle": "Na prvi pogled",
+    "title": "Dnevni izlet u Skadar, prelazak u Albaniju iz Ulcinja",
+    "glance": {
+      "driveLabel": "Vožnja iz Ulcinja",
+      "borderLabel": "Granica",
+      "insuranceLabel": "Osiguranje",
+      "sightLabel": "Glavna znamenitost",
+      "currencyLabel": "Valuta",
+      "timingLabel": "Trajanje izleta"
+    },
+    "h2_why": "Zašto Skadar",
+    "h2_drive": "Vožnja i granica",
+    "h2_castle": "Tvrđava Rozafa",
+    "h2_street": "Stara pješačka ulica",
+    "h2_bazaar": "Bazar i hrana",
+    "h2_lake": "Skadarsko jezero",
+    "h2_timing": "Realan tajming",
+    "h2_know": "Šta treba znati",
+    "h2_pair": "Kombinujte sa",
+    "imgAlt": "Skadar Albanija dnevni izlet iz Ulcinja",
+    "subtitle": "Četrdeset pet minuta preko granice Sukobin do tvrđave Rozafa, bazara i pješačkog Starog grada kulturne prijestonice sjeverne Albanije.",
+    "description": "Dnevni izlet iz Ulcinja u Skadar: granica Sukobin-Muriqan, tvrđava Rozafa, pješačka ulica, Skadarsko jezero i kako sa lekom i eurom."
+  },
+  "skadarBody": {
+    "glanceTitle": "Na prvi pogled",
+    "title": "Skadarsko jezero iz Ulcinja, jezero pelikana u zaleđu",
+    "glance": {
+      "sizeLabel": "Veličina",
+      "driveLabel": "Vožnja do Virpazara",
+      "tollLabel": "Putarina",
+      "boatLabel": "Vožnja brodom",
+      "pelicanLabel": "Mjesto za pelikane",
+      "wineLabel": "Vino"
+    },
+    "h2_size": "Jezero veliko kao mala država",
+    "h2_access": "Glavne tačke pristupa iz Ulcinja",
+    "h2_pelicans": "Pelikani",
+    "h2_boats": "Vožnje brodom iz Virpazara",
+    "h2_zabljak": "Žabljak Crnojevića",
+    "h2_rijeka": "Rijeka Crnojevića i vidikovac",
+    "h2_wineries": "Vinarije",
+    "h2_driving": "Napomene o vožnji",
+    "h2_when": "Kada doći",
+    "h2_pair": "Kombinujte sa",
+    "imgAlt": "Skadarsko jezero iz Ulcinja Crna Gora",
+    "subtitle": "Najveće jezero na Balkanu, dijeli se sa Albanijom, kolonije pelikana, ostrvski manastiri i vinarska sela, sve na manje od sat vožnje od obale.",
+    "description": "Vodič za Skadarsko jezero iz Ulcinja: najbolji vidikovci, pelikani na Pančevoj Oki, vinarije Crnojevića i ruševna tvrđava Žabljak Crnojevića."
+  },
+  "ulcinjShkoderBody": {
+    "glanceTitle": "Na prvi pogled",
+    "title": "Iz Ulcinja u Skadar i nazad, dnevna vožnja preko granice",
+    "glance": {
+      "distLabel": "Ukupna razdaljina",
+      "timeLabel": "Vrijeme vožnje",
+      "borderLabel": "Granica",
+      "insLabel": "Albansko osiguranje",
+      "speedLabel": "Ograničenja brzine",
+      "cashLabel": "Gotovina"
+    },
+    "h2_route": "Ruta ukratko",
+    "h2_docs": "Dokumenta koja vam stvarno trebaju",
+    "h2_border": "Granica u praksi",
+    "h2_fuel": "Gorivo, valuta i telefon",
+    "h2_driving": "Vožnja u Albaniji: razlike",
+    "h2_parking": "Parking u Skadru",
+    "h2_loop": "Bojana petlja na povratku",
+    "h2_pitfalls": "Česti propusti",
+    "h2_pair": "Kombinujte sa",
+    "imgAlt": "Vožnja Ulcinj-Skadar preko Sukobina",
+    "subtitle": "Praktični detalji: formalnosti na Sukobinu, albansko osiguranje, lek vs evro i Bojana petlja u povratku.",
+    "description": "Vodič za vožnju iz Ulcinja u Albaniju ka Skadru: dokumenti, albansko auto-osiguranje, gorivo, putarine, lek vs evro i panoramska Bojana petlja u povratku."
+  },
+  "valdanosBody": {
+    "glanceTitle": "Na prvi pogled",
+    "title": "Zaliv Valdanos, drevni maslinjaci oko skrivene uvale",
+    "glance": {
+      "driveLabel": "Vožnja iz Ulcinja",
+      "typeLabel": "Tip plaže",
+      "olivesLabel": "Masline",
+      "facLabel": "Sadržaji",
+      "parkLabel": "Parking",
+      "lightLabel": "Najbolje svjetlo"
+    },
+    "h2_cove": "Uvala u maslinjaku",
+    "h2_beach": "Plaža",
+    "h2_hotel": "Napušteni hotel",
+    "h2_trees": "Masline",
+    "h2_get": "Kako stići",
+    "h2_food": "Hrana",
+    "h2_when": "Kada doći",
+    "h2_pair": "Kombinujte sa",
+    "imgAlt": "Zaliv Valdanos maslinjaci Ulcinj",
+    "subtitle": "Potkovičasta zaliv sjeverno od Ulcinja, smješten u jednom od najvećih i najstarijih maslinjaka na Mediteranu.",
+    "description": "Vodič kroz Valdanos: zaštićena šljunčana plaža, desetine hiljada drevnih maslina, napušteni hotelski kompleks i put iz Ulcinja."
+  },
+  "kiteBody": {
+    "glanceTitle": "Na prvi pogled",
+    "title": "Kajtsurf na Velikoj plaži, zašto je ovo jadranski centar",
+    "glance": {
+      "zoneLabel": "Glavna zona",
+      "windDirLabel": "Pravac vjetra",
+      "strengthLabel": "Tipična ljetnja jačina",
+      "lessonLabel": "Cijena časa",
+      "gearLabel": "Dnevni najam opreme",
+      "monthsLabel": "Najbolji mjeseci"
+    },
+    "h2_why": "Zašto je dobar za kajt",
+    "h2_wind": "Vjetar",
+    "h2_action": "Gdje je akcija: Copacabana strana",
+    "h2_gear": "Najam opreme bez kursa",
+    "h2_stay": "Gdje odsjesti",
+    "h2_parking": "Parking i pristup",
+    "h2_partners": "Pratioci koji ne kajtaju",
+    "h2_when": "Kada doći",
+    "h2_check": "Praktična lista",
+    "imgAlt": "Kajtsurf Velika plaža Ulcinj",
+    "subtitle": "Plitka mirna voda, stabilan termalni vjetar, dvije kajt škole na Copacabani i kako je plaža postala kajt glavni grad južnog Jadrana.",
+    "description": "Vodič za kajtsurf na Velikoj plaži: vjetar, voda, škole na Copacabani, najam opreme, najbolja sezona i gdje parkirati i odsjesti."
+  },
+  "velikaPlazaBody": {
+    "glanceTitle": "Na prvi pogled",
+    "title": "Velika plaža, najduža pješčana plaža u Evropi van Baltika",
+    "glance": {
+      "lengthLabel": "Dužina",
+      "depthLabel": "Dubina vode",
+      "driveLabel": "Vožnja iz Ulcinja",
+      "parkLabel": "Parking",
+      "kiteLabel": "Kajt strana",
+      "quietLabel": "Najmirniji dio"
+    },
+    "h2_long": "Duga plaža",
+    "h2_layout": "Kako je plaža organizovana",
+    "h2_water": "Voda",
+    "h2_kite": "Kajt na Copacabana strani",
+    "h2_drive": "Vožnja i parking",
+    "h2_behind": "Iza plaže",
+    "h2_food": "Hrana i sadržaji",
+    "h2_when": "Kada doći",
+    "h2_pair": "Kombinujte sa",
+    "imgAlt": "Velika plaža duga plaža Ulcinj",
+    "subtitle": "Dvanaest kilometara ravnog pijeska, plitka topla voda i kajt glavni grad Jadrana na krajnjem jugu Crne Gore.",
+    "description": "Kompletan vodič kroz Veliku plažu: pristupne ceste, najbolje dionice za kupanje, kajt kraj, parking i kako se mijenja plaža od Copacabane do ušća Bojane."
   }
 }

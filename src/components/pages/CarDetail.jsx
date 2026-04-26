@@ -24,33 +24,33 @@ import {
   Droplet, Package,
 } from 'lucide-react';
 
-// Kotor-rental inline photo per car — bay road, Lovćen, motorway, cross-border feel.
+// Kotor-rental inline photo per car ,  bay road, Lovćen, motorway, cross-border feel.
 const INLINE_PHOTOS = {
-  'renault-clio':   { src: '/img/fleet-inline/coastal-road.jpg',      alt: 'Bay of Kotor coastal road near Dobrota',       caption: 'The Dobrota–Prčanj stretch at a steady 50 km/h — the Clio\u2019s natural cruising pace on a multi-day bay stay.' },
-  'peugeot-308':    { src: '/img/fleet-inline/mountain-highway.jpg',  alt: 'Smokovac–Mateševo motorway inland from Kotor',  caption: 'The Smokovac motorway toward Podgorica — the 308\u2019s BlueHDi settles into a steady 1,800 rpm cruise here.' },
-  'renault-megane': { src: '/img/fleet-inline/sea-road.jpg',          alt: 'Old bay road from Kotor toward Risan',          caption: 'The patched tarmac out to Risan\u2019s Roman mosaics — where the Megane\u2019s soft damping actually earns its rental premium.' },
-  'kia-stonic':     { src: '/img/fleet-inline/rocky-road.jpg',        alt: 'Rutted spur road up to Njeguši above Kotor',    caption: 'The Njeguši approach above the bay — a little extra ground clearance keeps the Stonic composed where a Clio scrapes.' },
-  'vw-golf':        { src: '/img/fleet-inline/forest-road.jpg',       alt: 'Wooded Lovćen serpentine above Kotor',          caption: 'The Kotor–Cetinje climb in third gear — the DSG reads the hairpins, the cabin stays silent.' },
-  'fiat-500':       { src: '/img/fleet-inline/seaside-road.jpg',      alt: 'Narrow Muo waterfront lane in Kotor',           caption: 'The Muo waterfront past the ferry dock — the 500 slots into gaps the rest of the fleet drives past.' },
-  'citroen-c3':     { src: '/img/fleet-inline/village-trees.jpg',     alt: 'Back road through Gornja Lastva above Tivat',   caption: 'The Gornja Lastva spur above the bay — the C3\u2019s Advanced Comfort turns the patched bitumen into distant thumps.' },
+  'renault-clio':   { src: '/img/fleet-inline/coastal-road.jpg',      alt: 'Bay of Kotor coastal road near Dobrota',       caption: 'The Dobrota–Prčanj stretch at a steady 50 km/h, the Clio\u2019s natural cruising pace on a multi-day bay stay.' },
+  'peugeot-308':    { src: '/img/fleet-inline/mountain-highway.jpg',  alt: 'Smokovac–Mateševo motorway inland from Kotor',  caption: 'The Smokovac motorway toward Podgorica, the 308\u2019s BlueHDi settles into a steady 1,800 rpm cruise here.' },
+  'renault-megane': { src: '/img/fleet-inline/sea-road.jpg',          alt: 'Old bay road from Kotor toward Risan',          caption: 'The patched tarmac out to Risan\u2019s Roman mosaics, where the Megane\u2019s soft damping actually earns its rental premium.' },
+  'kia-stonic':     { src: '/img/fleet-inline/rocky-road.jpg',        alt: 'Rutted spur road up to Njeguši above Kotor',    caption: 'The Njeguši approach above the bay, a little extra ground clearance keeps the Stonic composed where a Clio scrapes.' },
+  'vw-golf':        { src: '/img/fleet-inline/forest-road.jpg',       alt: 'Wooded Lovćen serpentine above Kotor',          caption: 'The Kotor–Cetinje climb in third gear, the DSG reads the hairpins, the cabin stays silent.' },
+  'fiat-500':       { src: '/img/fleet-inline/seaside-road.jpg',      alt: 'Narrow Muo waterfront lane in Kotor',           caption: 'The Muo waterfront past the ferry dock, the 500 slots into gaps the rest of the fleet drives past.' },
+  'citroen-c3':     { src: '/img/fleet-inline/village-trees.jpg',     alt: 'Back road through Gornja Lastva above Tivat',   caption: 'The Gornja Lastva spur above the bay, the C3\u2019s Advanced Comfort turns the patched bitumen into distant thumps.' },
   _default:         { src: '/img/fleet-inline/kotor-bay.jpg',         alt: 'Aerial view of the Bay of Kotor',               caption: 'A week based in Kotor puts Cetinje, Njeguši, Risan, Skadar Lake and Dubrovnik all inside day-trip range.' },
 };
 
-// Related cards per car — using the actual blog + destination pages that exist on kotorcarrental.
+// Related cards per car ,  using the actual blog + destination pages that exist on kotorcarrental.
 const RELATED = {
   'vw-polo': [
     { href: '/blog/ulcinj-old-town-fortress', img: '/img/blog-ulcinj-old-town-fortress.webp', title: 'Ulcinj Old Town fortress' },
-    { href: '/blog/mala-plaza-in-town', img: '/img/blog-mala-plaza-in-town.webp', title: 'Mala Plaža — in-town beach' },
+    { href: '/blog/mala-plaza-in-town', img: '/img/blog-mala-plaza-in-town.webp', title: 'Mala Plaža, in-town beach' },
     { href: '/blog/valdanos-olive-groves', img: '/img/blog-valdanos-olive-groves.webp', title: 'Valdanos olive groves' },
   ],
   'skoda-octavia': [
-    { href: '/blog/velika-plaza-long-beach', img: '/img/blog-velika-plaza-long-beach.webp', title: 'Velika Plaža — Long Beach' },
+    { href: '/blog/velika-plaza-long-beach', img: '/img/blog-velika-plaza-long-beach.webp', title: 'Velika Plaža, Long Beach' },
     { href: '/blog/ada-bojana-fish-stilts-and-fkk', img: '/img/blog-ada-bojana-river-island.webp', title: 'Ada Bojana river island' },
     { href: '/blog/shkoder-albania-day-trip', img: '/img/blog-shkoder-albania-day-trip.webp', title: 'Shkodër (Albania) day trip' },
   ],
   'toyota-corolla': [
     { href: '/blog/ulcinj-old-town-fortress', img: '/img/blog-ulcinj-old-town-fortress.webp', title: 'Ulcinj Old Town fortress' },
-    { href: '/blog/velika-plaza-long-beach', img: '/img/blog-velika-plaza-long-beach.webp', title: 'Velika Plaža — Long Beach' },
+    { href: '/blog/velika-plaza-long-beach', img: '/img/blog-velika-plaza-long-beach.webp', title: 'Velika Plaža, Long Beach' },
     { href: '/blog/skadar-lake-from-ulcinj', img: '/img/blog-skadar-lake-from-ulcinj.webp', title: 'Lake Skadar from Ulcinj' },
   ],
   'mercedes-c-class': [
@@ -59,12 +59,12 @@ const RELATED = {
     { href: '/blog/ulcinj-to-shkoder-drive', img: '/img/blog-ulcinj-to-shkoder-drive.webp', title: 'Ulcinj to Shkodër drive' },
   ],
   'fiat-500c': [
-    { href: '/blog/mala-plaza-in-town', img: '/img/blog-mala-plaza-in-town.webp', title: 'Mala Plaža — in-town beach' },
+    { href: '/blog/mala-plaza-in-town', img: '/img/blog-mala-plaza-in-town.webp', title: 'Mala Plaža, in-town beach' },
     { href: '/blog/velika-plaza-kite-schools', img: '/img/blog-velika-plaza-kitesurfing.webp', title: 'Kitesurfing Velika Plaža' },
     { href: '/blog/valdanos-olive-groves', img: '/img/blog-valdanos-olive-groves.webp', title: 'Valdanos olive groves' },
   ],
   'fiat-500': [
-    { href: '/blog/mala-plaza-in-town', img: '/img/blog-mala-plaza-in-town.webp', title: 'Mala Plaža — in-town beach' },
+    { href: '/blog/mala-plaza-in-town', img: '/img/blog-mala-plaza-in-town.webp', title: 'Mala Plaža, in-town beach' },
     { href: '/blog/velika-plaza-kite-schools', img: '/img/blog-velika-plaza-kitesurfing.webp', title: 'Kitesurfing Velika Plaža' },
     { href: '/blog/valdanos-olive-groves', img: '/img/blog-valdanos-olive-groves.webp', title: 'Valdanos olive groves' },
   ],
@@ -79,8 +79,8 @@ const RELATED = {
     { href: '/blog/skadar-lake-from-ulcinj', img: '/img/blog-skadar-lake-from-ulcinj.webp', title: 'Lake Skadar from Ulcinj' },
   ],
   'vw-transporter': [
-    { href: '/blog/velika-plaza-long-beach', img: '/img/blog-velika-plaza-long-beach.webp', title: 'Velika Plaža — Long Beach' },
-    { href: '/blog/mala-plaza-in-town', img: '/img/blog-mala-plaza-in-town.webp', title: 'Mala Plaža — in-town beach' },
+    { href: '/blog/velika-plaza-long-beach', img: '/img/blog-velika-plaza-long-beach.webp', title: 'Velika Plaža, Long Beach' },
+    { href: '/blog/mala-plaza-in-town', img: '/img/blog-mala-plaza-in-town.webp', title: 'Mala Plaža, in-town beach' },
     { href: '/blog/podgorica-airport-to-ulcinj', img: '/img/blog-podgorica-airport-to-ulcinj.webp', title: 'Podgorica Airport to Ulcinj' },
   ],
 };
@@ -221,8 +221,8 @@ export default function CarDetail({ slug }) {
                   const inline = INLINE_PHOTOS[slug] || INLINE_PHOTOS._default;
                   return (
                     <figure key={`inline-${i}`} className="car-detail-article__figure">
-                      <img src={inline.src} alt={inline.alt} loading="lazy" />
-                      <figcaption>{inline.caption}</figcaption>
+                      <img src={inline.src} alt={tk('inlineAlt', inline.alt)} loading="lazy" />
+                      <figcaption>{tk('inlineCaption', inline.caption)}</figcaption>
                     </figure>
                   );
                 })()}
@@ -244,11 +244,11 @@ export default function CarDetail({ slug }) {
         <div className="car-detail-related">
           <h2>{tf('cars.relatedTitle', 'Where this car takes you')}</h2>
           <div className="car-detail-related__grid">
-            {RELATED[slug].map((card) => (
+            {RELATED[slug].map((card, ri) => (
               <a key={card.href} href={localePath(card.href)} className="car-detail-related__card">
                 <div className="car-detail-related__img" style={{ backgroundImage: `url(${card.img})` }} />
                 <div className="car-detail-related__body">
-                  <span className="car-detail-related__title">{card.title}</span>
+                  <span className="car-detail-related__title">{tk(`relatedTitle.${ri}`, card.title)}</span>
                   <ArrowRight size={14} />
                 </div>
               </a>

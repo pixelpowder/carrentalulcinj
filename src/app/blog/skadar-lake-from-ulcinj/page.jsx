@@ -1,12 +1,14 @@
-import { buildAlternates } from '../../metadata';
+import { buildAlternates, t } from '../../metadata';
 import SkadarLakeFromUlcinj from '@/src/components/pages/blog/SkadarLakeFromUlcinj';
 
 export async function generateMetadata() {
+  const title = t('en', 'skadarBody.title');
+  const description = t('en', 'skadarBody.description');
   return {
-    title: "Lake Skadar from Ulcinj — The Pelican Lake Just Inland" + ' | Car Rental Ulcinj',
-    description: "A guide to Lake Skadar from Ulcinj — the best viewpoints, pelican watching at Pančeva Oka, the Crnojević river wineries, and Žabljak Crnojevića fortress.",
+    title: title + ' | Car Rental Ulcinj',
+    description,
     alternates: buildAlternates('blog/skadar-lake-from-ulcinj'),
-    openGraph: { title: "Lake Skadar from Ulcinj — The Pelican Lake Just Inland", description: "A guide to Lake Skadar from Ulcinj — the best viewpoints, pelican watching at Pančeva Oka, the Crnojević river wineries, and Žabljak Crnojevića fortress.", type: 'website' },
+    openGraph: { title, description, type: 'website' },
   };
 }
 
@@ -14,8 +16,8 @@ export default function SkadarLakeFromUlcinjRoute() {
   const articleSchema = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "Lake Skadar from Ulcinj — The Pelican Lake Just Inland",
-    "description": "A guide to Lake Skadar from Ulcinj — the best viewpoints, pelican watching at Pančeva Oka, the Crnojević river wineries, and Žabljak Crnojevića fortress.",
+    "headline": t('en', 'skadarBody.title'),
+    "description": t('en', 'skadarBody.description'),
     "image": "https://www.carrentalulcinj.com/img/blog-skadar-lake-from-ulcinj.webp",
     "datePublished": "2026-04-22",
     "dateModified": "2026-04-22",

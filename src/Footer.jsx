@@ -62,21 +62,21 @@ export default function Footer() {
         </div>
 
         <div>
-          <div className="footer__col-title">Riviera Guides</div>
+          <div className="footer__col-title">{tf('footer.rivieraGuides', 'Riviera Guides')}</div>
           <div className="footer__links">
-            <a href={localePath('/blog')} className="footer__link">Blog</a>
+            <a href={localePath('/blog')} className="footer__link">{tf('footer.blogLink', 'Blog')}</a>
             <a href={localePath('/blog/sveti-stefan-photo-spots')} className="footer__link">Sveti Stefan</a>
-            <a href={localePath('/blog/budva-old-town-walls')} className="footer__link">Old Town Walls</a>
-            <a href={localePath('/blog/becici-rafailovici-promenade')} className="footer__link">Bečići Promenade</a>
+            <a href={localePath('/blog/budva-old-town-walls')} className="footer__link">{tf('footer.oldTownWalls', 'Old Town Walls')}</a>
+            <a href={localePath('/blog/becici-rafailovici-promenade')} className="footer__link">{tf('footer.beciciPromenade', 'Bečići Promenade')}</a>
           </div>
         </div>
 
         <div>
-          <div className="footer__col-title">Coast &amp; Drives</div>
+          <div className="footer__col-title">{tf('footer.coastAndDrives', 'Coast & Drives')}</div>
           <div className="footer__links">
             <a href={localePath('/blog/budva-to-sveti-stefan-drive')} className="footer__link">Budva → Sveti Stefan</a>
-            <a href={localePath('/blog/tivat-airport-to-budva')} className="footer__link">Tivat Airport Route</a>
-            <a href={localePath('/blog/pastrovici-highlands-drive')} className="footer__link">Paštrovići Highlands</a>
+            <a href={localePath('/blog/tivat-airport-to-budva')} className="footer__link">{tf('footer.tivatAirportRoute', 'Tivat Airport Route')}</a>
+            <a href={localePath('/blog/pastrovici-highlands-drive')} className="footer__link">{tf('footer.pastroviciHighlands', 'Paštrovići Highlands')}</a>
             <a href={localePath('/blog/petrovac-quiet-alternative')} className="footer__link">Petrovac</a>
           </div>
         </div>

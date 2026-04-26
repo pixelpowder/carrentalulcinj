@@ -13,7 +13,10 @@
     "callUs": "Appelez-nous",
     "bookNow": "Réserver",
     "perDay": "par jour",
-    "emailUs": "Nous contacter"
+    "emailUs": "Nous contacter",
+    "readGuide": "Lire le guide",
+    "chatWhatsapp": "Chat sur WhatsApp",
+    "scrollToTop": "Haut de page"
   },
   "stats": {
     "years": "Années d'Expérience",
@@ -61,12 +64,25 @@
     "helpText": "Notre équipe est disponible via WhatsApp, Viber ou téléphone.",
     "popularDest": "Destinations Populaires",
     "tivatAirport": "Aéroport de Tivat Airport",
-    "dubrovnikAirport": "Aéroport de Dubrovnik"
+    "dubrovnikAirport": "Aéroport de Dubrovnik",
+    "podgoricaAirport": "Aéroport de Podgorica",
+    "westernBayGuides": "Guides de la baie occidentale",
+    "easternBayGuides": "Guides de la baie orientale",
+    "northernGuides": "Guides de la baie nord",
+    "regionGuides": "Guides régionaux",
+    "rivieraGuides": "Guides Riviera",
+    "svetiStefanPhotos": "Sveti Stefan en photos",
+    "budvaOldTownWalls": "Remparts de Budva",
+    "beciciRafailoviciPromenade": "Promenade Bečići & Rafailovići",
+    "svetiNikolaHawaii": "Sveti Nikola (Hawaii)",
+    "jazBeachFestivals": "Festivals de Jaz Beach",
+    "petrovacAlternative": "Petrovac, alternative"
   },
   "book": {
     "title": "Trouvez Votre Voiture",
     "seoTitle": "Réserver une Voiture",
-    "seoDesc": "Voitures de location hebdomadaires et mensuelles à Budva et Budva Riviera. Assurance incluse, remise à Tivat Airport Airport, un tarif unique pour tout votre séjour."
+    "seoDesc": "Voitures de location hebdomadaires et mensuelles à Budva et Budva Riviera. Assurance incluse, remise à Tivat Airport Airport, un tarif unique pour tout votre séjour.",
+    "iframeTitle": "Réservation de voiture"
   },
   "footer": {
     "brandDesc": "Location mensuelle à Budva avec remise à l'aéroport, assurance complète, et tarification transparente semaine après semaine pour vos séjours prolongés à Budva Riviera.",
@@ -86,7 +102,15 @@
     "cookiePolicy": "Politique de Cookies",
     "testimonials": "Témoignages",
     "sitemap": "Plan du site",
-    "tivatAirport": "Aéroport de Tivat Airport"
+    "tivatAirport": "Aéroport de Tivat Airport",
+    "podgoricaAirport": "Aéroport de Podgorica",
+    "rivieraGuides": "Guides Riviera",
+    "blogLink": "Blog",
+    "oldTownWalls": "Remparts de la vieille ville",
+    "beciciPromenade": "Promenade de Bečići",
+    "coastAndDrives": "Côte & itinéraires",
+    "tivatAirportRoute": "Route aéroport Tivat",
+    "pastroviciHighlands": "Hauts plateaux Paštrovići"
   },
   "notFound": {
     "code": "404",
@@ -209,8 +233,8 @@
     },
     "budva": {
       "name": "Budva",
-      "tag": "Vieille ville UNESCO",
-      "desc": "Cité médiévale fortifiée et port de croisière."
+      "tag": "30 min de Budva",
+      "desc": "Plages de la Riviera et vieille ville animée."
     },
     "podgorica-airport": {
       "name": "Aéroport de Podgorica",
@@ -221,11 +245,6 @@
       "name": "Rafailovići",
       "tag": "15 min de Budva",
       "desc": "Village baroque et Notre-Dame du Rocher."
-    },
-    "budva": {
-      "name": "Budva",
-      "tag": "30 min de Budva",
-      "desc": "Plages de la Riviera et vieille ville animée."
     },
     "dubrovnik-airport": {
       "name": "Aéroport de Dubrovnik",
@@ -241,6 +260,46 @@
       "name": "Podgorica",
       "tag": "Capitale",
       "desc": "Capitale du Montenegro, porte vers l'intérieur."
+    },
+    "blog/ulcinj-old-town-fortress": {
+      "name": "Vieille ville d'Ulcinj",
+      "desc": "Citadelle médiévale sur un promontoire, jadis la base pirate la plus redoutée de l'Adriatique.",
+      "tag": "Forteresse pirate"
+    },
+    "blog/velika-plaza-long-beach": {
+      "name": "Velika Plaža",
+      "desc": "La plus longue plage de sable d'Europe hors Baltique, plate, peu profonde, capitale du kitesurf au Monténégro.",
+      "tag": "12 km de sable"
+    },
+    "blog/ada-bojana-fish-stilts-and-fkk": {
+      "name": "Ada Bojana",
+      "desc": "Île triangulaire où la Bojana rencontre l'Adriatique, restaurants de poisson sur pilotis, chevaux sur le sable.",
+      "tag": "Île fluviale"
+    },
+    "blog/valdanos-olive-groves": {
+      "name": "Baie de Valdanos",
+      "desc": "Des dizaines de milliers d'oliviers anciens entourent une baie abritée à 4 km au nord de la ville.",
+      "tag": "Crique cachée"
+    },
+    "blog/mala-plaza-in-town": {
+      "name": "Mala Plaža",
+      "desc": "Le croissant de sable juste sous les remparts de Stari Grad, baignade avant le petit-déjeuner.",
+      "tag": "Plage en ville"
+    },
+    "blog/shkoder-albania-day-trip": {
+      "name": "Excursion à Shkodër",
+      "desc": "La capitale culturelle du nord de l'Albanie, à 45 minutes par le poste-frontière de Sukobin.",
+      "tag": "Transfrontalier"
+    },
+    "blog/skadar-lake-from-ulcinj": {
+      "name": "Lac de Skadar",
+      "desc": "Le plus grand lac des Balkans, des pélicans, des vignobles et un arrière-pays cerné de montagnes juste à l'intérieur des terres.",
+      "tag": "45 min vers l'intérieur"
+    },
+    "blog/podgorica-airport-to-ulcinj": {
+      "name": "Aéroport de Podgorica",
+      "desc": "À 70 km au nord d'Ulcinj, le point d'arrivée privilégié pour les visiteurs de la Longue Plage.",
+      "tag": "Pôle d'arrivée"
     }
   },
   "hero": {
@@ -320,40 +379,13 @@
   },
   "budva": {
     "title": "Location de Voiture à Budva",
-    "subtitle": "Garez-vous au pied des remparts de la forteresse et explorez douze siècles d'histoire fortifiée à pied.",
-    "seoDesc": "Installez-vous un mois à Budva sans calculs de tarifs journaliers.",
-    "heading1": "Budva, Site du Patrimoine Mondial de l'UNESCO",
-    "p1": "Budva figure parmi les villes médiévales les mieux préservées de l'Adriatique, située au point le plus reculé d'une baie spectaculaire semblable à un fjord. La vieille ville, inscrite au patrimoine de l'UNESCO, est un labyrinthe de ruelles de pierre, de demeures vénitiennes, de chapelles romanes et de piazzas animées. Au-dessus, la forteresse de San Giovanni s'élève au fil de 1 200 marches pour offrir des panoramas à couper le souffle.",
-    "p2a": "Louer une voiture à Budva",
-    "p2b": "ouvre l'accès à toute la baie et au-delà. L'aéroport de Tivat Airport se trouve à seulement 8 km, un trajet de quinze minutes. Des parkings sont disponibles à l'extérieur des remparts, avec de grands parkings sur les routes d'accès.",
-    "landmarksTitle": "Monuments",
-    "stJohnTitle": "Forteresse de San Giovanni",
-    "stJohnText": "Les ouvrages défensifs au-dessus de Budva remontent au VIe siècle et ont été renforcés sous la domination vénitienne. L'ascension de 1 200 marches récompense par des vues dégagées sur la baie, les toits en terre cuite et les sommets environnants. L'entrée est gratuite hors haute saison.",
-    "cathedralTitle": "Cathédrale Saint-Tryphon",
-    "cathedralText": "Érigée en 809 apr. J.-C. et reconstruite en 1124, la cathédrale Saint-Tryphon est l'un des plus remarquables monuments romans de la côte adriatique. Ses deux clochers forment la silhouette la plus emblématique de Budva, et l'intérieur abrite un trésor d'orfèvrerie médiévale.",
-    "dayTripsTitle": "Excursions d'une Journée depuis Budva",
-    "ladyOfRocksTitle": "Notre-Dame du Rocher, Rafailovići",
-    "ladyOfRocksText1": "Située près de",
-    "ladyOfRocksLink": "Rafailovići",
-    "ladyOfRocksText2": ", cette chapelle repose sur une île artificielle dans la baie. Depuis 1452, les habitants jettent des pierres dans l'eau pour agrandir l'îlot. De petits bateaux partent du port de Rafailovići pour quelques euros. Le trajet depuis Budva dure environ 15 minutes le long de la route du front de mer.",
-    "cetinjeTitle": "Monastère de Cetinje",
-    "cetinjeText": "Fondé en 1701, le monastère abrite des reliques dont la main de Jean-Baptiste. Le trajet depuis Budva dure environ une heure à travers un terrain montagneux pittoresque via le mausolée de Njegos et le parc national du Lovcen.",
-    "royalCourtTitle": "Cour Royale de Cetinje",
-    "royalCourtText": "Résidence royale du Monténégro depuis 1871, située dans l'ancienne capitale royale. Les expositions comprennent des œuvres d'art, des objets historiques et des photographies de l'époque royale.",
-    "routeDifficulty": "Modéré, ruelles étroites dans la vieille ville, routes standard sur les voies d'accès",
-    "routeVehicle": "Voiture compacte (stationnement plus facile près des remparts)",
-    "routeParking": "Limité dans la vieille ville. Utilisez les parkings sur les routes d'accès (1-2 €/heure)",
-    "routeDistances": "Depuis l'aéroport de Tivat Airport : 15 minutes · Depuis Budva : 30 minutes"
+    "subtitle": "La riviera du Monténégro, plages, vie nocturne et charme de la vieille ville.",
+    "seoDesc": "Location mensuelle ou hebdo depuis Budva avec restitution Budva: clés rendues à Sveti Stefan ou Petrovac. Assurance pleine, km illimité."
   },
   "tivat-airport": {
     "title": "Location de Voiture Aéroport Tivat Airport",
     "subtitle": "Récupérez votre voiture aux arrivées.",
     "seoDesc": "Location longue durée à l'aéroport de Tivat Airport, base à Budva à 8 km. Hebdo ou mensuel, assurance pleine, passage Dubrovnik inclus."
-  },
-  "budva": {
-    "title": "Location de Voiture à Budva",
-    "subtitle": "La riviera du Monténégro, plages, vie nocturne et charme de la vieille ville.",
-    "seoDesc": "Location mensuelle ou hebdo depuis Budva avec restitution Budva: clés rendues à Sveti Stefan ou Petrovac. Assurance pleine, km illimité."
   },
   "perast": {
     "title": "Location de Voiture à Rafailovići",
@@ -413,39 +445,17 @@
     "h7": "Une Semaine Type au Volant",
     "p7": "Lundi : prise en charge à Tivat Airport, route de la baie jusqu'à Budva, après-midi dans la vieille ville. Mardi : nord via Bečići et Rafailovići, bateau vers Notre-Dame du Rocher, retour par Risan pour les mosaïques. Mercredi : serpentine du Lovcen jusqu'à Njeguski pour le jambon fumé et le fromage, puis descente vers Cetinje. Jeudi : plages de Budva via le tunnel, détour par Sveti Stefan. Vendredi : frontière à Debeli Brijeg et après-midi dans le port de Dubrovnik. Samedi : lac Skadar par les vignobles, balade en bateau à Virpazar, retour par le tunnel de Sozina. Dimanche : restitution à Tivat Airport. Ce circuit couvre environ 500 km. Carburant : environ 50 à 60 euros au prix actuel du diesel. Aucun bus, groupe touristique ou taxi ne pourrait le reproduire.",
     "h8": "Conseils Saisonniers de l'Équipe",
-    "p8": "L'été amène les paquebots, jusqu'à quatre par jour entre juin et septembre, et environ 8 000 passagers envahissant la vieille ville entre 09h00 et 14h00. Nous conseillons d'arriver tôt ou de se garer à Bečići et de marcher 800 m jusqu'à la Porte de la Mer. L'hiver transforme la baie en un lieu paisible : moins de visiteurs, tarifs plus bas, routes de montagne fermées au-dessus de 1 200 m. Le printemps et l'automne sont idéaux. Les fleurs sauvages d'avril bordent la route, septembre offre encore la mer chaude sans les foules, et la route du Lovcen est ouverte et dégagée."
-  },
-  "budvaBody": {
-    "h1": "Douze Siècles à l'Intérieur des Remparts",
-    "p1": "Les premiers murs défensifs se sont élevés au-dessus de Budva au VIe siècle, mais l'histoire de la ville remonte plus loin encore, colonisation romaine, gouvernance byzantine, près de quatre cents ans sous la domination vénitienne. L'UNESCO a inscrit la Région Naturelle et Culturo-Historique de Budva en 1979. Franchissez la Porte de la Mer (Vrata od Mora), érigée en 1555, et vous entrez dans un réseau de rues médiéval qui n'a pratiquement pas changé.",
-    "p2": "Des options de stationnement bordent l'approche depuis l'aéroport de Tivat Airport, à 8 km. Le plus grand parking se trouve sous les remparts près de la Porte de la Rivière ; une seconde option longe la bande de Bečići. Les jours de paquebots, parfois trois ou quatre simultanément entre mai et octobre, arrivez avant 07h30 ou préparez-vous à vous battre pour les places.",
-    "landmarksTitle": "À l'Intérieur des Remparts et Au-dessus",
-    "stJohnTitle": "Forteresse de San Giovanni",
-    "stJohnText": "Exactement 1 355 marches montent depuis la marge nord de la vieille ville jusqu'au sommet à 280 mètres. Les ingénieurs vénitiens ont renforcé la courtine de 4,5 km entre les XVe et XVIIIe siècles. Prenez de l'eau, portez des chaussures adaptées et prévoyez quarante-cinq minutes pour l'ascension. Le panorama depuis le sommet, la baie intérieure se divisant en deux bras autour de la péninsule du Vrmac, justifie chaque marche. Hors juillet et août, l'entrée est gratuite.",
-    "cathedralTitle": "Cathédrale Saint-Tryphon (1166)",
-    "cathedralText": "Une chapelle a occupé ce site depuis 809 apr. J.-C., mais la structure romane actuelle date de 1166. Les deux clochers, reconstruits après le séisme de 1667, définissent le profil de Budva. À l'intérieur, un ciborium au-dessus de l'autel principal abrite des fresques du XIVe siècle, et le reliquaire conserve des pièces d'or et d'argent couvrant cinq siècles. Saint Tryphon, patron de la ville, est honoré chaque 3 février par des processions.",
-    "dayTripsTitle": "Au-delà des Remparts : Excursions en Voiture",
-    "perastTrip": "À quinze minutes au nord par la route de la baie, Rafailovići repose dans le calme. Garez-vous sur le front de mer, montez dans une barque vers Notre-Dame du Rocher, l'île que les habitants agrandissent depuis 1452, et revenez pour un café au bord du port. Le trajet longe le rivage au pied des falaises karstiques.",
-    "cetinjeTrip": "Une heure de lacets à travers le parc national du Lovcen vous mène à Cetinje, l'ancienne capitale royale. Le monastère abrite des reliques dont la main de Jean-Baptiste. Poursuivez jusqu'au mausolée de Njegos, perché à 1 657 mètres, d'où quatre pays sont visibles par temps clair.",
-    "royalCourtText": "Également à Cetinje, la Cour Royale de 1871, autrefois palais du roi Nikola Ier, conserve peintures, armes et photographies de la brève ère de monarchie monténégrine. Elle se trouve à côté du monastère sur un boulevard bordé d'arbres.",
-    "parkingTitle": "Stationnement à Budva : Guide Détaillé",
-    "parkingP1": "Le stationnement est la plus grande frustration des visiteurs à Budva. Le principal parking public se trouve sous les remparts, adjacent à la Porte de la Rivière. Il facture environ 1,50 euro de l'heure en été. La capacité est limitée à environ 150 véhicules, et dès 09h00 un jour de paquebot il est plein.",
-    "parkingP2": "Une meilleure stratégie les matins chargés est la bande de Bečići. Dépassez les remparts en direction nord le long de la route de la baie, et en deux minutes vous atteignez un long tronçon de stationnement en bordure de route. De là, la marche de retour vers la Porte de la Mer prend environ dix minutes le long de la promenade.",
-    "parkingP3": "Il y a aussi un grand parking en gravier près du centre commercial sur la route d'accès depuis Tivat Airport, à environ 800 mètres au sud de la vieille ville. Il coûte 5 euros par jour forfaitaires et fonctionne avec un gardien.",
-    "whereToEatTitle": "Où Manger Près de la Vieille Ville",
-    "whereToEatP1": "À l'intérieur des murs, Konoba Scala Santa sur Trg od Salate sert une assiette de calamars grillés avec blitva (blettes et pommes de terre) qui représente la cuisine de la baie dans sa plus simple expression. Comptez 12 à 18 euros le plat. Arrivez avant 12h30 pour une table sans attendre, car les passagers des croisières remplissent les restaurants entre 13h00 et 15h00.",
-    "whereToEatP2": "Hors les murs, Restoran Galion se trouve sur une terrasse face à la vieille ville de l'autre côté de l'eau. Le cadre est l'attraction principale, les remparts reflétés dans la baie immobile, mais le risotto aux fruits de mer et la daurade grillée sont à la hauteur. C'est à 5 minutes en voiture du parking de la Porte de la Rivière.",
-    "drivingTipsTitle": "Conseils de Conduite Autour de Budva",
-    "drivingTipsP1": "La route d'accès depuis Tivat Airport longe la rive est de la baie à travers Bečići. Elle est bien goudronnée mais étroite par endroits. En été, attendez-vous à croiser des autocars, rabattez-vous dans la zone élargie la plus proche. La limitation est de 40 km/h, contrôlée par un radar fixe près de Bečići.",
-    "drivingTipsP2": "En direction de Budva, la route grimpe brièvement avant d'entrer dans le tunnel du Vrmac. C'est un tunnel à tube unique avec circulation dans les deux sens, restez dans votre voie et gardez les phares allumés. Le trajet de Budva à la vieille ville de Budva dure environ 25 minutes hors heures de pointe.",
-    "drivingTipsP3": "Pour la serpentine du Lovcen, quittez Budva par les rues derrière la vieille ville. La route est fléchée mais les premiers carrefours sont faciles à manquer. Une fois les dernières maisons dépassées, les lacets commencent. Klaxonnez avant chaque virage aveugle, les habitants le font systématiquement, et c'est la mesure de sécurité la plus efficace.",
-    "seasonalTitle": "Budva au Fil des Saisons",
-    "seasonalP1": "L'été (juin à septembre) est la période la plus animée et la plus chère. La vieille ville grouille de passagers de croisière entre 09h00 et 16h00. Le soir, cependant, Budva se transforme : les excursionnistes repartent, les piazzas se vident, et les restaurants dressent leurs tables sous les remparts dans la douce lumière du crépuscule.",
-    "seasonalP2": "L'automne apporte le soulagement. Octobre et novembre offrent un temps doux, des rues quasi désertes et des tarifs de location plus bas. L'ascension de la forteresse est bien plus agréable sans la chaleur de juillet.",
-    "seasonalP3": "L'hiver à Budva est calme, introspectif et étonnamment atmosphérique. La pluie balaie la baie, les sommets se couvrent de neige, et les ruelles de pierre luisent sous les lampadaires. La saison du carnaval en février remplit les places de processions masquées et de musique live.",
-    "seasonalP4": "Le printemps, en particulier avril et début mai, est sans doute la plus belle période pour visiter. Les fleurs sauvages tapissent les collines, les bas-côtés fleurissent d'iris et de coquelicots, et l'air a une clarté qui fait paraître les montagnes à portée de main.",
-    "whereToEatLink": "Explorez la route de la baie vers {{link}}, 15 minutes le long du front de mer.",
-    "perastLinkText": "Rafailovići"
+    "p8": "L'été amène les paquebots, jusqu'à quatre par jour entre juin et septembre, et environ 8 000 passagers envahissant la vieille ville entre 09h00 et 14h00. Nous conseillons d'arriver tôt ou de se garer à Bečići et de marcher 800 m jusqu'à la Porte de la Mer. L'hiver transforme la baie en un lieu paisible : moins de visiteurs, tarifs plus bas, routes de montagne fermées au-dessus de 1 200 m. Le printemps et l'automne sont idéaux. Les fleurs sauvages d'avril bordent la route, septembre offre encore la mer chaude sans les foules, et la route du Lovcen est ouverte et dégagée.",
+    "title": "À propos de Car Rental Ulcinj",
+    "subtitle": "Un partenaire de réservation local pour Ulcinj, Velika Plaža et le corridor Monténégro-Albanie",
+    "description": "Car Rental Ulcinj est une plateforme de réservation indépendante pour des voitures de location sur la côte sud du Monténégro, couvrant Ulcinj, Long Beach, Ada Bojana et la frontière de Sukobin avec l'Albanie.",
+    "h2_who": "Qui sommes-nous",
+    "h2_why": "Pourquoi Ulcinj comme base",
+    "h2_included": "Ce qui est inclus",
+    "h2_pickup": "Prise en charge et retour",
+    "h2_pricing": "Tarifs",
+    "h2_contact": "Contact",
+    "contactPageLink": "page de contact"
   },
   "budvaBody": {
     "h1": "Où Vingt-Cinq Siècles d'Histoire Rencontrent 21 km de Sable",
@@ -619,7 +629,28 @@
     "podgoricaAirportLinkText": "l'aéroport de Podgorica",
     "zabljakTitle": "Zabljak",
     "drivingLink": "Rejoignez {{link}} en 90 minutes par la route de montagne pittoresque.",
-    "budvaOldTownLinkText": "la vieille ville de Budva"
+    "budvaOldTownLinkText": "la vieille ville de Budva",
+    "glanceTitle": "En bref",
+    "title": "De l'aéroport de Podgorica à Ulcinj, le trajet de 70 km et le choix d'itinéraire",
+    "glance": {
+      "distanceLabel": "Distance",
+      "timeLabel": "Temps",
+      "tollLabel": "Péage",
+      "fuelLabel": "Stations-service",
+      "altLabel": "Variante panoramique",
+      "bufferLabel": "Marge de retour"
+    },
+    "h2_versus": "Podgorica ou Tivat",
+    "h2_fast": "L'itinéraire rapide : par le tunnel de Sozina et Bar",
+    "h2_scenic": "L'itinéraire panoramique : par le lac de Skadar",
+    "h2_pickup": "Prise du véhicule à TGD",
+    "h2_late": "Arrivées tard le soir",
+    "h2_return": "Retour et timing du vol",
+    "h2_parking": "Stationnement à TGD",
+    "h2_pair": "À combiner avec",
+    "imgAlt": "Trajet aéroport Podgorica vers Ulcinj Monténégro",
+    "subtitle": "La porte d'arrivée la plus rapide vers Ulcinj, avec deux itinéraires utiles, le péage du tunnel de Sozina et les conseils pour les arrivées tardives.",
+    "description": "Un guide de conduite de l'aéroport de Podgorica (TGD) à Ulcinj : la route rapide via le tunnel de Sozina et Bar, la variante panoramique du lac de Skadar, péages, stations-service et prise du véhicule."
   },
   "podgoricaAirportBody": {
     "h1": "Aéroport de Podgorica (TGD) : La Porte Intérieure",
@@ -731,7 +762,22 @@
     "mountainP1": "Les routes de montagne monténégrines sont belles et exigeantes à parts égales. La serpentine du Lovcen (Budva à Njeguski) a 25 virages en épingle, pas de glissières dans beaucoup de sections, et une pente qui nécessite la seconde sur la majorité de l'ascension. La route vers Durmitor via le canyon de la Piva fait 170 km de conduite continue en montagne avec des ponts étroits et des tunnels non éclairés.",
     "mountainP2": "Conseils pratiques : utilisez les vitesses basses en descente pour économiser les freins. Klaxonnez avant les virages aveugles, c'est la pratique standard et potentiellement salvatrice. Emportez au moins 2 litres d'eau par personne. Gardez les phares allumés même de jour. Rangez-vous dans les aires de croisement pour laisser passer les véhicules plus rapides ou plus grands. Et prévoyez 30 pour cent de temps en plus que ce que suggère votre GPS.",
     "startLink": "Commencez à {{link}}, l'aéroport le plus proche de la baie de Budva.",
-    "startLinkText": "location de voiture à l'aéroport de Tivat Airport"
+    "startLinkText": "location de voiture à l'aéroport de Tivat Airport",
+    "title": "Conduire au Monténégro depuis la pointe sud",
+    "h2_base": "Ulcinj comme base, l'angle le plus au sud",
+    "h2_strip": "La côte sud (votre bande domicile)",
+    "longBeachLink": "Long Beach",
+    "h2_60min": "À 60 minutes en voiture",
+    "h2_longer": "Excursions plus longues depuis Ulcinj",
+    "h2_borders": "Frontières et conduite transfrontalière",
+    "h2_when": "Quand visiter",
+    "skadarLink": "Lac de Skadar (Virpazar)",
+    "shkoderLink": "Shkodër, Albanie",
+    "sukobinName": "Sukobin-Muriqan",
+    "mayJuneLabel": "Mai-juin :",
+    "julyAugLabel": "Juillet-août :",
+    "sepOctLabel": "Septembre-octobre :",
+    "novAprLabel": "Novembre-avril :"
   },
   "borderCrossingBody": {
     "h1": "Puis-je emmener ma voiture de location au-delà des frontières ?",
@@ -809,7 +855,50 @@
     "card_stoliv_title": "Gornji Stoliv : Le Village Abandonné sur la Falaise de Budva",
     "card_stoliv_excerpt": "Une route étroite grimpe 400 mètres au-dessus de la baie vers un village de pierre abandonné lors du séisme de 1979. Les vues et le silence sont extraordinaires.",
     "card_wildflowers_title": "Itinéraires Printaniers de Fleurs Sauvages : Mars à Mai",
-    "card_wildflowers_excerpt": "La baie explose de couleurs entre mars et mai. Orchidées, iris et cistes bordent les routes de Budva à Risan et vers les contreforts du Lovcen."
+    "card_wildflowers_excerpt": "La baie explose de couleurs entre mars et mai. Orchidées, iris et cistes bordent les routes de Budva à Risan et vers les contreforts du Lovcen.",
+    "crumb": "Blog",
+    "posts": {
+      "ulcinjFortress": {
+        "title": "Vieille ville d'Ulcinj, la forteresse des pirates de l'Adriatique",
+        "excerpt": "Une citadelle médiévale sur un promontoire rocheux qui fut la base pirate la plus notoire de l'Adriatique au XVIIe siècle, vendant un jeune Cervantes en esclavage en chemin."
+      },
+      "velikaPlaza": {
+        "title": "Velika Plaža, la plus longue plage de sable d'Europe hors Baltique",
+        "excerpt": "Douze kilomètres de sable plat et peu profond à la pointe sud du Monténégro, la capitale du kite de l'Adriatique et la portion de côte la plus calme du pays."
+      },
+      "adaBojana": {
+        "title": "Ada Bojana, l'île triangulaire à la frontière albanaise",
+        "excerpt": "Une île de sable où la Bojana rencontre la mer. Restaurants de poisson sur pilotis, chevaux sauvages sur le sable et une tradition naturiste depuis les années 1970."
+      },
+      "valdanos": {
+        "title": "Baie de Valdanos, anciens oliviers entourant une crique cachée",
+        "excerpt": "Une crique de galets abritée à quatre kilomètres au nord de la ville, dans l'un des plus grands oliveraies anciens de l'Adriatique."
+      },
+      "malaPlaza": {
+        "title": "Mala Plaža, la plage en ville sous les remparts de Stari Grad",
+        "excerpt": "La crique de sable juste sous la vieille ville d'Ulcinj, baignade avant le petit-déjeuner, promenade bordée de cafés, coucher de soleil sur la forteresse."
+      },
+      "shkoderTrip": {
+        "title": "Excursion d'une journée à Shkodër, traversée vers l'Albanie depuis Ulcinj",
+        "excerpt": "Quarante-cinq minutes vers la capitale culturelle du nord de l'Albanie via la frontière Sukobin-Muriqan. Château de Rozafa, lac de Shkodër et bazar, retour à Ulcinj pour dîner."
+      },
+      "skadarLake": {
+        "title": "Lac de Skadar depuis Ulcinj, le lac aux pélicans juste à l'intérieur",
+        "excerpt": "Quarante-cinq minutes à l'intérieur des terres vers le plus grand lac des Balkans. Colonies de pélicans à Pančeva Oka, vignobles de Crnojević et la forteresse en ruine de Žabljak sur l'eau."
+      },
+      "podgoricaToUlcinj": {
+        "title": "De l'aéroport de Podgorica à Ulcinj, le trajet de 70 km et le choix d'itinéraire",
+        "excerpt": "L'aéroport de Podgorica est la porte d'arrivée la plus proche, 70 km, environ une heure par l'autoroute neuve vers Sukobin. Plus l'itinéraire panoramique du lac de Skadar pour le retour."
+      },
+      "ulcinjToShkoder": {
+        "title": "Ulcinj à Shkodër et retour, un trajet d'une journée à travers la frontière",
+        "excerpt": "Les détails pratiques : formalités frontalières, assurance auto albanaise, lek vs euro et la boucle panoramique du Bojana au retour."
+      },
+      "kitesurfing": {
+        "title": "Kitesurf sur Long Beach, pourquoi Velika Plaža est le hub de l'Adriatique",
+        "excerpt": "Eau plate peu profonde, vent latéral constant, deux écoles de kite à Copacabana. Quand venir, où se garer et comment louer."
+      }
+    }
   },
   "blogHiddenChurches": {
     "title": "Églises et Chapelles Secrètes de la Vieille Ville de Budva",
@@ -978,7 +1067,21 @@
     "sectionLabel": "Guides de conduite",
     "sectionTitle": "Sur notre blog",
     "sectionSubtitle": "Itinéraires en voiture, coins tranquilles et conseils locaux pour explorer la baie de Budva en voiture.",
-    "viewAll": "Voir tous les guides"
+    "viewAll": "Voir tous les guides",
+    "posts": {
+      "ulcinjFortress": {
+        "title": "Vieille ville d'Ulcinj, la forteresse des pirates de l'Adriatique",
+        "excerpt": "Une citadelle médiévale sur un promontoire, une république pirate du XVIIe siècle et les murs de calcaire qui surplombent Mala Plaža."
+      },
+      "adaBojana": {
+        "title": "Ada Bojana, restaurants de poisson sur pilotis à l'embouchure de la rivière",
+        "excerpt": "Une île de sable triangulaire où le Bojana rencontre l'Adriatique, avec une rangée de restaurants de poisson sur l'eau."
+      },
+      "kitesurfing": {
+        "title": "Kitesurf sur Long Beach, pourquoi Velika Plaža est le hub de l'Adriatique",
+        "excerpt": "Eau plate peu profonde, vent thermique constant, deux écoles de kite à Copacabana. Comment la plage est devenue la capitale du kite du sud de l'Adriatique."
+      }
+    }
   },
   "blogBayOfBudvaSwimming": {
     "title": "Les Meilleurs Endroits pour Se Baigner Autour de la Baie de Budva",
@@ -1300,7 +1403,10 @@
     "title": "Contactez-nous",
     "seoDesc": "Contactez Location Budva pour devis mensuels, retrait aéroport, ou questions de relocalisation expatriés.",
     "heading": "Nous contacter",
-    "intro": "Une question sur la location de voiture à Budva ? Contactez-nous, nous vous aiderons à trouver le véhicule idéal pour votre séjour."
+    "intro": "Une question sur la location de voiture à Budva ? Contactez-nous, nous vous aiderons à trouver le véhicule idéal pour votre séjour.",
+    "thanks": "Merci de nous avoir contactés, nous répondrons sous quelques heures.",
+    "messageSentTitle": "Message envoyé !",
+    "messageSentBody": "Merci de nous avoir contactés, nous répondons en quelques heures."
   },
   "cookieBody": {
     "lastUpdated": "Dernière mise à jour :",
@@ -1352,9 +1458,9 @@
     "thirdText": "Notre site web utilise les services tiers suivants :",
     "third1Label": "LocalRent :",
     "third1": "widget de réservation de location de voiture, traite vos recherches et gère toutes les réservations et paiements",
-    "third2Label": "Vercel :",
+    "third2Label": ":",
     "third2": "hébergement du site web",
-    "third3Label": "Pexels :",
+    "third3Label": ":",
     "third3": "photographie de stock",
     "thirdNote": "Chacun de ces services a sa propre politique de confidentialité régissant le traitement des données.",
     "cookiesTitle": "Cookies",
@@ -1396,7 +1502,7 @@
     "liability3": "Les pertes résultant de problèmes de passage de frontière ou de documentation",
     "liability4": "Les modifications de prix après confirmation de réservation",
     "ipTitle": "Propriété intellectuelle",
-    "ipText": "Tout le contenu de ce site web, y compris le texte, le design et les graphiques, appartient à Car Rental Ulcinj sauf mention contraire. La photographie de stock est utilisée sous licence de Pexels.",
+    "ipText": "Tout le contenu de ce site web, y compris le texte, le design et les graphiques, appartient à Car Rental Ulcinj sauf mention contraire. La photographie de stock est utilisée sous licence de",
     "contactTitle": "Contact",
     "contactText": "Des questions sur ces conditions ? Contactez-nous à info@budvacarrental.com."
   },
@@ -1596,7 +1702,14 @@
   "relatedGuides": {
     "secretChurches": "Églises cachées de Budva",
     "vrmacRidge": "Randonnée sur la crête de Vrmac",
-    "swimmingSpots": "Meilleurs sites de baignade"
+    "swimmingSpots": "Meilleurs sites de baignade",
+    "title": "Vous pourriez aussi aimer",
+    "ulcinjFortressAlt": "Vieille ville d'Ulcinj, la forteresse des pirates",
+    "ulcinjFortressLabel": "Forteresse de la vieille ville d'Ulcinj",
+    "adaBojanaAlt": "Ada Bojana, restaurants de poisson sur pilotis",
+    "adaBojanaLabel": "Ada Bojana, restaurants sur pilotis & FKK",
+    "velikaPlazaAlt": "Velika Plaža, la plus longue plage de sable d'Europe",
+    "velikaPlazaLabel": "Velika Plaža, longue plage"
   },
   "navTop": {
     "carRental": "Location de voitures",
@@ -1611,12 +1724,235 @@
     "decline": "Refuser"
   },
   "cars": {
-    "readGuide": "Lire le guide"
+    "readGuide": "Lire le guide",
+    "renault-clio": {
+      "name": "Renault Clio",
+      "tagline": "La citadine sans souci pour deux semaines de séjour à Ulcinj",
+      "lede": "Sobre en carburant, peu coûteuse à garer au lieu de prise en charge, et confortable pour rejoindre Podgorica ou Žabljak par l'autoroute.",
+      "suitability": "Un couple posant ses valises à Ulcinj pour dix à quatorze jours, avec des excursions régulières vers Cetinje, Risan et les rives du lac de Skadar, facile à garer, économe en essence.",
+      "regional": "Avale la montée Ulcinj-Cetinje en troisième sans broncher, se faufile sur les rues étroites du bord de mer dans les villages alentour, et les 5,3 L/100 km en essence rendent la note de carburant prévisible sur une location de plusieurs semaines.",
+      "category": "Économique",
+      "bestFor": {
+        "0": "Couples en séjour de deux semaines",
+        "1": "Excursionnistes vers Cetinje et Njeguši",
+        "2": "Visiteurs des mosaïques romaines de Risan"
+      },
+      "features": {
+        "0": "Audio Bluetooth",
+        "1": "Charge USB",
+        "2": "Verrouillage centralisé",
+        "3": "Écran tactile"
+      },
+      "inlineAlt": "Route côtière de la baie de Kotor près de Dobrota",
+      "inlineCaption": "Le tronçon Dobrota-Prčanj à 50 km/h constants, l'allure naturelle de la Clio pour un séjour prolongé dans la baie."
+    },
+    "peugeot-308": {
+      "name": "Peugeot 308",
+      "tagline": "Diesel intermédiaire pour les trajets Ulcinj vers Dubrovnik et Ulcinj vers le Durmitor",
+      "lede": "BlueHDi longue distance avec boîte automatique, conçue pour les trois heures de route jusqu'à Žabljak ou la traversée frontalière vers Trebinje et Mostar.",
+      "suitability": "Le choix diesel intermédiaire pour qui combine un séjour à Ulcinj avec des trajets de plusieurs jours vers l'intérieur, la boîte automatique et le régulateur prennent tout leur sens sur l'autoroute de Podgorica.",
+      "regional": "Avale sans effort le tronçon autoroutier Smokovac-Mateševo, embarque une semaine de matériel de randonnée pour Žabljak, et couvre Ulcinj vers Dubrovnik via Debeli Brijeg sur un demi-réservoir.",
+      "category": "Intermédiaire",
+      "bestFor": {
+        "0": "Voyageurs transfrontaliers",
+        "1": "Week-ends au Durmitor",
+        "2": "Quatre adultes avec bagages complets"
+      },
+      "features": {
+        "0": "Boîte automatique",
+        "1": "Régulateur adaptatif",
+        "2": "Climatisation bizone",
+        "3": "Grand coffre"
+      },
+      "inlineAlt": "Autoroute Smokovac-Mateševo dans l'arrière-pays de Kotor",
+      "inlineCaption": "L'autoroute Smokovac vers Podgorica, le BlueHDi de la 308 cale à 1 800 tr/min stables en mode croisière."
+    },
+    "renault-megane": {
+      "name": "Renault Megane",
+      "tagline": "La française intermédiaire au plus grand coffre, taillée pour les longs séjours et les sorties au lac",
+      "lede": "Coffre de 434 litres, diesel silencieux sur autoroute, suspension moelleuse, le break intermédiaire pour un mois dans la baie avec excursions régulières.",
+      "suitability": "Pour qui veut plus de volume qu'une berline compacte sans la longueur d'un break complet, idéal pour le matériel de pêche au lac de Skadar, les sacs de la journée au monastère de Cetinje et une glacière sur le retour.",
+      "regional": "Les longs débattements absorbent l'asphalte rapiécé de l'ancienne route Ulcinj-Budva, le diesel dCi tient parole dans le tunnel de Sozina, et le coffre généreux avale deux semaines d'affaires familiales plus le sac de linge ramassé à Prčanj.",
+      "category": "Intermédiaire",
+      "bestFor": {
+        "0": "Locataires longue durée",
+        "1": "Excursionnistes au lac de Skadar",
+        "2": "Familles en visite des monastères"
+      },
+      "features": {
+        "0": "Grand coffre",
+        "1": "Audio Bluetooth",
+        "2": "Régulateur de vitesse",
+        "3": "Capteurs de stationnement"
+      },
+      "inlineAlt": "Vieille route de la baie de Kotor vers Risan",
+      "inlineCaption": "L'asphalte rapiécé jusqu'aux mosaïques romaines de Risan, où la suspension souple de la Megane mérite réellement son supplément."
+    },
+    "kia-stonic": {
+      "name": "Kia Stonic",
+      "tagline": "Crossover surélevé pour l'approche en gravier de Njeguši et du Lovćen",
+      "lede": "Une alternative légèrement plus haute qu'une berline compacte, qui passe les chemins défoncés autour de Njeguši et les voies arrière du Lovćen sans frotter.",
+      "suitability": "Pour qui veut la position de conduite d'un crossover et un peu de garde au sol pour les routes secondaires de la baie haute d'Ulcinj et l'approche du Lovćen, sans payer le prix fort d'un SUV.",
+      "regional": "La position de conduite plus haute permet de mieux voir par-dessus les murets de la région, les 182 mm de garde au sol franchissent les ornières de pierre du vieux chemin des fumoirs à jambon de Njeguši, et le coffre de 352 litres avale le matériel de randonnée familial pour le Durmitor sans rabattre les sièges.",
+      "category": "Crossover compact",
+      "bestFor": {
+        "0": "Excursionnistes du week-end vers Njeguši",
+        "1": "Excursionnistes du jour au Durmitor",
+        "2": "Photographes en quête de panoramas de crête"
+      },
+      "features": {
+        "0": "Position de conduite surélevée",
+        "1": "Apple CarPlay",
+        "2": "Caméra de recul",
+        "3": "Maintien de voie"
+      },
+      "inlineCaption": "L'approche de Njeguši au-dessus de la baie, un peu plus de garde au sol garde le Stonic posé là où une Clio frotterait."
+    },
+    "vw-golf": {
+      "name": "VW Golf",
+      "tagline": "Diesel DSG polyvalente, croisière paisible sur l'E80 et boucles de plusieurs jours",
+      "lede": "Le choix rationnel par défaut pour qui mêle séjour à Ulcinj et longs trajets intérieurs, raffinée, assez vive et économe sur autoroute.",
+      "suitability": "L'intermédiaire par défaut pour qui veut une seule voiture qui boucle le périmètre de la vieille ville d'Ulcinj le premier jour et l'autoroute Smokovac-Mateševo le quatrième sans broncher.",
+      "regional": "La DSG choisit le bon rapport sur les épingles Ulcinj-Lovćen sans réfléchir, le 2.0 TDI tient les 130 km/h sur le tronçon autoroutier vers Podgorica à 4,3 L/100 km, et le silence à bord rend les trois heures de route vers Žabljak vraiment relaxantes.",
+      "category": "Intermédiaire",
+      "bestFor": {
+        "0": "Couples mêlant côte et canyon",
+        "1": "Voyageurs d'affaires en location à la semaine",
+        "2": "Conducteurs prévoyant un passage en BiH ou Croatie"
+      },
+      "features": {
+        "0": "Boîte DSG automatique",
+        "1": "Régulateur adaptatif",
+        "2": "Cockpit numérique",
+        "3": "Apple CarPlay"
+      },
+      "inlineCaption": "La montée Kotor-Cetinje en troisième, la DSG lit les épingles à cheveux, l'habitacle reste silencieux."
+    },
+    "fiat-500": {
+      "name": "Fiat 500",
+      "tagline": "Citadine miniature pour un court séjour à Ulcinj, se glisse entre les utilitaires",
+      "lede": "Empattement minuscule, toit ouvrant, 1.0 hybridé, le bon choix pour un point de chute de deux à trois nuits à Ulcinj quand aucun long trajet n'est au programme.",
+      "suitability": "Deux ou trois nuits à Ulcinj avec de courtes escapades l'après-midi vers Perast et Prčanj, la 500 se gare là où les berlines passent en faisant signe.",
+      "regional": "Les 3,57 m de long sont l'argument décisif : elle entre dans les places en terrasses étagées du front de mer des villages voisins et dans la fente devant la Porte de la Mer qu'une Clio ne peut pas franchir. Sous-motorisée pour la montée du Lovćen, à coupler avec un transfert en téléphérique ou à garder dans la baie.",
+      "category": "Citadine",
+      "bestFor": {
+        "0": "Courts séjours en ville",
+        "1": "Voyageurs solo à petit budget",
+        "2": "Photographes faisant des sauts courts"
+      },
+      "features": {
+        "0": "Format compact",
+        "1": "Stationnement aisé",
+        "2": "Toit ouvrant",
+        "3": "Bluetooth"
+      },
+      "inlineAlt": "Étroite rue du front de mer à Muo près de Kotor",
+      "inlineCaption": "Le front de mer de Muo après le quai du ferry, la 500 se faufile dans des espaces où le reste de la flotte passe.",
+      "relatedTitle": {
+        "0": "Mala Plaža, plage en ville",
+        "1": "Kitesurf Velika Plaža",
+        "2": "Oliveraies de Valdanos"
+      }
+    },
+    "citroen-c3": {
+      "name": "Citroen C3",
+      "tagline": "La petite citadine la plus douce pour le tronçon défoncé Ulcinj-Risan et les détours de routes secondaires",
+      "lede": "Les amortisseurs Advanced Comfort lissent le bitume rapiécé de l'ancienne route de la baie, la plus douce des petites voitures à laisser la nuit aux bastions d'Ulcinj.",
+      "suitability": "Le choix confort avant tout pour une semaine à Ulcinj avec des détours quotidiens à allure tranquille, les mosaïques romaines de Risan, le hameau de Gornja Lastva au-dessus de Tivat, la boucle de retour par les villages voisins.",
+      "regional": "Les butées hydrauliques progressives rendent le tronçon abîmé entre Risan et Perast une catégorie plus silencieux, le moteur 83 ch peu sollicité s'accommode des limitations à 50 km/h de la route de la baie, et les 4 mètres de long entrent dans n'importe quel bastion de la vieille ville.",
+      "category": "Économique",
+      "bestFor": {
+        "0": "Couples en tourisme tranquille",
+        "1": "Explorateurs de routes secondaires",
+        "2": "Locataires sujets au mal des transports"
+      },
+      "features": {
+        "0": "Sièges Advanced Comfort",
+        "1": "Audio Bluetooth",
+        "2": "Charge USB",
+        "3": "Alerte de franchissement de ligne"
+      },
+      "inlineAlt": "Route secondaire à travers Gornja Lastva au-dessus de Tivat",
+      "inlineCaption": "L'embranchement Gornja Lastva au-dessus de la baie, l'Advanced Comfort de la C3 transforme l'asphalte rapiécé en bruits sourds lointains."
+    },
+    "overviewTitle": "En un coup d'œil",
+    "specsTitle": "Spécifications complètes",
+    "featuresTitle": "À l'intérieur",
+    "whoForTitle": "À qui s'adresse cette voiture ?",
+    "regionalTitle": "Meilleur usage régional",
+    "articleTitle": "Sur les routes du Monténégro",
+    "relatedTitle": "Là où cette voiture vous emmène",
+    "checkAvailability": "Vérifier disponibilité et tarifs en direct",
+    "nextBtn": "Prochain véhicule",
+    "sections": {
+      "behindWheel": "Au volant",
+      "onRoads": "Sur les routes du Monténégro",
+      "spaceLoad": "Espace et chargement",
+      "bestFor": "Les meilleurs trajets pour cette voiture",
+      "practical": "Notes pratiques",
+      "verdict": "Le verdict"
+    },
+    "vw-polo": {
+      "relatedTitle": {
+        "0": "Forteresse de la vieille ville d'Ulcinj",
+        "1": "Mala Plaža, plage en ville",
+        "2": "Oliveraies de Valdanos"
+      }
+    },
+    "skoda-octavia": {
+      "relatedTitle": {
+        "0": "Velika Plaža, longue plage",
+        "1": "Île fluviale Ada Bojana",
+        "2": "Excursion Shkodër (Albanie)"
+      }
+    },
+    "toyota-corolla": {
+      "relatedTitle": {
+        "0": "Forteresse de la vieille ville d'Ulcinj",
+        "1": "Velika Plaža, longue plage",
+        "2": "Lac de Skadar depuis Ulcinj"
+      }
+    },
+    "mercedes-c-class": {
+      "relatedTitle": {
+        "0": "Lac de Skadar depuis Ulcinj",
+        "1": "Excursion Shkodër (Albanie)",
+        "2": "Trajet Ulcinj-Shkodër"
+      }
+    },
+    "fiat-500c": {
+      "relatedTitle": {
+        "0": "Mala Plaža, plage en ville",
+        "1": "Kitesurf Velika Plaža",
+        "2": "Oliveraies de Valdanos"
+      }
+    },
+    "bmw-x3": {
+      "relatedTitle": {
+        "0": "Excursion Shkodër (Albanie)",
+        "1": "Lac de Skadar depuis Ulcinj",
+        "2": "Trajet Ulcinj-Shkodër"
+      }
+    },
+    "jeep-renegade": {
+      "relatedTitle": {
+        "0": "Île fluviale Ada Bojana",
+        "1": "Oliveraies de Valdanos",
+        "2": "Lac de Skadar depuis Ulcinj"
+      }
+    },
+    "vw-transporter": {
+      "relatedTitle": {
+        "0": "Velika Plaža, longue plage",
+        "1": "Mala Plaža, plage en ville",
+        "2": "Aéroport Podgorica vers Ulcinj"
+      }
+    }
   },
   "fleetShowcase": {
     "label": "Connaissez votre voiture",
     "title": "Guides pour chaque voiture de notre flotte à Budva",
-    "subtitle": "Caractéristiques, autonomie, coffre — et quelle voiture s’impose sur la route de la baie, les lacets du Kosmač et l’autoroute de Smokovac.",
+    "subtitle": "Caractéristiques, autonomie, coffre, et quelle voiture s’impose sur la route de la baie, les lacets du Kosmač et l’autoroute de Smokovac.",
     "viewAll": "Voir tous les guides de flotte",
     "tabs": {
       "all": "Toutes",
@@ -1630,9 +1966,266 @@
   "fleetIndex": {
     "title": "Notre flotte de location à Budva",
     "subtitle": "Sept voitures choisies pour une base pluri-journées à Budva, avec excursions à Cetinje, au lac de Skadar, à Durmitor et au-delà de la frontière.",
-    "seoDesc": "Sept voitures de location pluri-journées pour Budva — break intermédiaires, diesels routiers et une Fiat citadine. Fiches, autonomie et quelle voiture pour quelle excursion.",
-    "intro1": "Cette flotte est pensée pour le locataire qui reste plusieurs jours à Budva — les visiteurs qui s’installent dans un appartement de Bečići ou dans une pension de la vieille ville pour quinze jours ou plus, et qui prévoient du vrai temps sur la route entre les journées dans la baie. Ce besoin n’est pas celui d’une location d’une journée au départ d’un paquebot ou d’un simple retrait à l’aéroport de Tivat Airport : il réclame du coffre pour la grosse course hebdomadaire chez Voli, du couple diesel pour la montée de Sozina et une position de conduite qui tienne quatre adultes confortables sur les trois heures jusqu’à Žabljak. Les sept voitures ci-dessous sont choisies en conséquence.",
-    "intro2": "Le panel penche volontairement vers l’intermédiaire. Une Peugeot 308 1.5 BlueHDi EAT, une Renault Megane diesel avec le plus grand coffre du segment, une VW Golf DSG 2.0 TDI — ces voitures transforment la boucle Budva → Cetinje → lac de Skadar → Sozina d’une corvée de changements de rapport en une croisière posée. Pour les trajets plus courts nous gardons une Renault Clio, une Citroën C3 à amortisseurs Advanced Comfort, un Kia Stonic crossover pour les accès défoncés à Njeguši et Gornja Lastva, et une minuscule Fiat 500 quand la seule contrainte est le stationnement sur le quai de Muo. Pas de mono-usage, pas de fourgon ; chaque voiture ici justifie une location pluri-journées.",
-    "intro3": "Une note pratique sur Budva avant de choisir. Le diesel reste plus malin dès qu’un passage frontière est prévu : Trebinje à 90 minutes, Dubrovnik via Debeli Brijeg aussi 90, Mostar une journée aller-retour. 308 et Megane couvrent les trois trajets sur un plein, la Golf est la voiture la plus silencieuse en autoroute, et la Clio essence fait quand même Budva–Dubrovnik aller-retour sur un demi-plein. Si votre semaine reste dans la baie — Rafailovići, Prčanj, Muo, Risan — la Fiat 500 ou la C3 économisent un tiers de carburant et se garent où les autres renoncent. Choisissez sur l’itinéraire, pas sur le tarif journalier."
+    "seoDesc": "Sept voitures de location pluri-journées pour Budva, break intermédiaires, diesels routiers et une Fiat citadine. Fiches, autonomie et quelle voiture pour quelle excursion.",
+    "intro1": "Cette flotte est pensée pour le locataire qui reste plusieurs jours à Budva, les visiteurs qui s’installent dans un appartement de Bečići ou dans une pension de la vieille ville pour quinze jours ou plus, et qui prévoient du vrai temps sur la route entre les journées dans la baie. Ce besoin n’est pas celui d’une location d’une journée au départ d’un paquebot ou d’un simple retrait à l’aéroport de Tivat Airport : il réclame du coffre pour la grosse course hebdomadaire chez Voli, du couple diesel pour la montée de Sozina et une position de conduite qui tienne quatre adultes confortables sur les trois heures jusqu’à Žabljak. Les sept voitures ci-dessous sont choisies en conséquence.",
+    "intro2": "Le panel penche volontairement vers l’intermédiaire. Une Peugeot 308 1.5 BlueHDi EAT, une Renault Megane diesel avec le plus grand coffre du segment, une VW Golf DSG 2.0 TDI, ces voitures transforment la boucle Budva → Cetinje → lac de Skadar → Sozina d’une corvée de changements de rapport en une croisière posée. Pour les trajets plus courts nous gardons une Renault Clio, une Citroën C3 à amortisseurs Advanced Comfort, un Kia Stonic crossover pour les accès défoncés à Njeguši et Gornja Lastva, et une minuscule Fiat 500 quand la seule contrainte est le stationnement sur le quai de Muo. Pas de mono-usage, pas de fourgon ; chaque voiture ici justifie une location pluri-journées.",
+    "intro3": "Une note pratique sur Budva avant de choisir. Le diesel reste plus malin dès qu’un passage frontière est prévu : Trebinje à 90 minutes, Dubrovnik via Debeli Brijeg aussi 90, Mostar une journée aller-retour. 308 et Megane couvrent les trois trajets sur un plein, la Golf est la voiture la plus silencieuse en autoroute, et la Clio essence fait quand même Budva–Dubrovnik aller-retour sur un demi-plein. Si votre semaine reste dans la baie, Rafailovići, Prčanj, Muo, Risan, la Fiat 500 ou la C3 économisent un tiers de carburant et se garent où les autres renoncent. Choisissez sur l’itinéraire, pas sur le tarif journalier."
+  },
+  "carSpecs": {
+    "values": {
+      "Petrol": "Essence",
+      "Manual": "Manuelle",
+      "Diesel": "Diesel",
+      "Automatic": "Automatique"
+    },
+    "seats": "Places",
+    "transmission": "Boîte",
+    "fuel": "Carburant",
+    "luggage": "Bagages",
+    "bootSize": "Coffre",
+    "mpg": "Consommation",
+    "bagsSuffix": "sacs"
+  },
+  "locationsList": {
+    "0": {
+      "name": "Ville d'Ulcinj",
+      "tag": "Le plus populaire"
+    },
+    "1": {
+      "name": "Aéroport de Podgorica",
+      "tag": "Prise en charge aéroport"
+    },
+    "2": {
+      "name": "Velika Plaža",
+      "tag": "Longue Plage"
+    },
+    "3": {
+      "name": "Ada Bojana"
+    },
+    "4": {
+      "name": "Baie de Valdanos"
+    },
+    "5": {
+      "name": "Port de Bar",
+      "tag": "Arrivée des ferries"
+    }
+  },
+  "schema": {
+    "carDescription": "Location {category}, {transmission}, {fuel}, {seats} places"
+  },
+  "adaBojanaBody": {
+    "title": "Ada Bojana, l'île triangulaire à la frontière albanaise",
+    "glanceTitle": "En bref",
+    "glance": {
+      "formedLabel": "Formé",
+      "driveLabel": "Trajet depuis Ulcinj",
+      "lengthLabel": "Longueur de plage",
+      "bestForLabel": "Idéal pour",
+      "fkkLabel": "Zone FKK",
+      "mosquitoLabel": "Moustiques"
+    },
+    "h2_origin": "Comment l'île est née",
+    "h2_beach": "La plage",
+    "h2_river": "Le côté fleuve",
+    "h2_back": "Le bras arrière",
+    "h2_getting": "Comment s'y rendre",
+    "h2_practical": "Pratique",
+    "h2_when": "Quand venir",
+    "h2_pair": "À combiner avec",
+    "imgAlt": "Île fluviale Ada Bojana Ulcinj",
+    "subtitle": "Restaurants de poisson sur pilotis, une île de sable à l'embouchure du Bojana et une tradition naturiste des années 1970.",
+    "description": "Un guide d'Ada Bojana : la formation de l'île triangulaire, la tradition FKK, les restaurants en bord de rivière, la plage du bras arrière et l'itinéraire depuis Ulcinj."
+  },
+  "malaPlazaBody": {
+    "glanceTitle": "En bref",
+    "title": "Mala Plaža, la plage en ville sous les remparts de Stari Grad",
+    "glance": {
+      "lengthLabel": "Longueur",
+      "settingLabel": "Cadre",
+      "loungersLabel": "Transats",
+      "parkingLabel": "Stationnement",
+      "bestTimeLabel": "Meilleur moment",
+      "depthLabel": "Profondeur"
+    },
+    "h2_inTown": "La plage en plein centre",
+    "h2_boardwalk": "La promenade",
+    "h2_swim": "Heures de baignade",
+    "h2_loungers": "Transats et équipements",
+    "h2_parking": "Stationnement",
+    "h2_eating": "Restauration",
+    "h2_view": "Note sur la vue",
+    "h2_versus": "Mala Plaža contre Velika Plaža",
+    "h2_pair": "À combiner avec",
+    "imgAlt": "Mala Plaža plage en ville Ulcinj",
+    "subtitle": "Une crique de sable juste sous la forteresse d'Ulcinj, avec promenade piétonne, vue sur la vieille ville et un rythme tranquille.",
+    "description": "Un guide de Mala Plaža à Ulcinj : la vue sur Stari Grad, les cafés de la promenade, le stationnement et la différence avec Velika Plaža."
+  },
+  "ulcinjFortressBody": {
+    "glanceTitle": "En bref",
+    "title": "Vieille ville d'Ulcinj, la forteresse des pirates de l'Adriatique",
+    "glance": {
+      "oldestLabel": "Couches les plus anciennes",
+      "venetianLabel": "Domination vénitienne",
+      "ottomanLabel": "Domination ottomane",
+      "wallLabel": "Promenade des remparts",
+      "parkingLabel": "Stationnement",
+      "lightLabel": "Meilleure lumière"
+    },
+    "h2_pre": "Une forteresse avant une ville",
+    "h2_layers": "Les couches vénitiennes et ottomanes",
+    "h2_pirates": "Le siècle des pirates",
+    "h2_walk": "Ce qu'on peut visiter",
+    "h2_walls": "Les remparts",
+    "h2_parking": "Stationnement et montée",
+    "h2_eating": "Manger dans les murs",
+    "h2_when": "Quand y aller",
+    "h2_pair": "À combiner avec",
+    "imgAlt": "Forteresse Stari Grad d'Ulcinj sur l'Adriatique",
+    "subtitle": "Une citadelle médiévale sur un promontoire, une république pirate du XVIIe siècle et les murs de calcaire qui surplombent encore Mala Plaža.",
+    "description": "Un guide de marche dans Stari Grad d'Ulcinj : les fortifications ottomanes, l'histoire des pirates, la tour Balšić et des notes pratiques sur le stationnement."
+  },
+  "shkoderBody": {
+    "glanceTitle": "En bref",
+    "title": "Excursion d'une journée à Shkodër, traversée vers l'Albanie depuis Ulcinj",
+    "glance": {
+      "driveLabel": "Trajet depuis Ulcinj",
+      "borderLabel": "Frontière",
+      "insuranceLabel": "Assurance",
+      "sightLabel": "Site principal",
+      "currencyLabel": "Devise",
+      "timingLabel": "Durée excursion"
+    },
+    "h2_why": "Pourquoi Shkodër",
+    "h2_drive": "Le trajet et la frontière",
+    "h2_castle": "Le château de Rozafa",
+    "h2_street": "La vieille rue piétonne",
+    "h2_bazaar": "Le bazar et la cuisine",
+    "h2_lake": "Lac de Shkodër",
+    "h2_timing": "Un timing réaliste",
+    "h2_know": "Ce qu'il faut savoir",
+    "h2_pair": "À combiner avec",
+    "imgAlt": "Excursion Shkodër Albanie depuis Ulcinj",
+    "subtitle": "Quarante-cinq minutes par la frontière de Sukobin pour le château de Rozafa, le bazar et la vieille ville piétonne de la capitale culturelle du nord de l'Albanie.",
+    "description": "Une excursion d'une journée d'Ulcinj à Shkodër : frontière Sukobin-Muriqan, château de Rozafa, rue piétonne, lac de Shkodër et la question lek vs euro."
+  },
+  "skadarBody": {
+    "glanceTitle": "En bref",
+    "title": "Lac de Skadar depuis Ulcinj, le lac aux pélicans juste à l'intérieur",
+    "glance": {
+      "sizeLabel": "Taille",
+      "driveLabel": "Trajet vers Virpazar",
+      "tollLabel": "Péage",
+      "boatLabel": "Excursion en bateau",
+      "pelicanLabel": "Site des pélicans",
+      "wineLabel": "Vin"
+    },
+    "h2_size": "Un lac aussi grand qu'un petit pays",
+    "h2_access": "Les principaux accès depuis Ulcinj",
+    "h2_pelicans": "Les pélicans",
+    "h2_boats": "Excursions en bateau depuis Virpazar",
+    "h2_zabljak": "Žabljak Crnojevića",
+    "h2_rijeka": "Rijeka Crnojevića et le point de vue",
+    "h2_wineries": "Les domaines viticoles",
+    "h2_driving": "Notes de conduite",
+    "h2_when": "Quand venir",
+    "h2_pair": "À combiner avec",
+    "imgAlt": "Lac de Skadar depuis Ulcinj Monténégro",
+    "subtitle": "Le plus grand lac des Balkans, partagé avec l'Albanie, colonies de pélicans, monastères insulaires et villages viticoles, le tout à moins d'une heure de la côte.",
+    "description": "Un guide du lac de Skadar depuis Ulcinj : meilleurs points de vue, observation des pélicans à Pančeva Oka, vignobles de Crnojević et la forteresse en ruine de Žabljak Crnojevića."
+  },
+  "ulcinjShkoderBody": {
+    "glanceTitle": "En bref",
+    "title": "D'Ulcinj à Shkodër et retour, une excursion d'une journée à travers la frontière",
+    "glance": {
+      "distLabel": "Distance totale",
+      "timeLabel": "Durée",
+      "borderLabel": "Frontière",
+      "insLabel": "Assurance albanaise",
+      "speedLabel": "Limites de vitesse",
+      "cashLabel": "Espèces à prévoir"
+    },
+    "h2_route": "L'itinéraire en bref",
+    "h2_docs": "Les documents indispensables",
+    "h2_border": "La frontière en pratique",
+    "h2_fuel": "Carburant, monnaie et téléphone",
+    "h2_driving": "Conduire en Albanie : ce qui change",
+    "h2_parking": "Stationnement à Shkodër",
+    "h2_loop": "La boucle de la Bojana au retour",
+    "h2_pitfalls": "Pièges courants",
+    "h2_pair": "À combiner avec",
+    "imgAlt": "Trajet Ulcinj vers Shkodër via Sukobin",
+    "subtitle": "Détails pratiques : formalités à Sukobin, assurance albanaise, lek vs euro et la boucle du Bojana au retour.",
+    "description": "Un guide axé sur la conduite d'Ulcinj vers l'Albanie pour Shkodër : documents frontaliers, assurance auto albanaise, carburant, péages, lek vs euro et la boucle panoramique du Bojana au retour."
+  },
+  "valdanosBody": {
+    "glanceTitle": "En bref",
+    "title": "Baie de Valdanos, anciens oliviers entourant une crique cachée",
+    "glance": {
+      "driveLabel": "Trajet depuis Ulcinj",
+      "typeLabel": "Type de plage",
+      "olivesLabel": "Oliviers",
+      "facLabel": "Équipements",
+      "parkLabel": "Stationnement",
+      "lightLabel": "Meilleure lumière"
+    },
+    "h2_cove": "Une crique dans une forêt d'oliviers",
+    "h2_beach": "La plage",
+    "h2_hotel": "L'hôtel abandonné",
+    "h2_trees": "Les oliviers",
+    "h2_get": "Comment s'y rendre",
+    "h2_food": "Restauration",
+    "h2_when": "Quand venir",
+    "h2_pair": "À combiner avec",
+    "imgAlt": "Baie de Valdanos oliviers Ulcinj",
+    "subtitle": "Une crique en fer à cheval au nord d'Ulcinj, enclavée dans l'un des plus grands et anciens oliveraies de la Méditerranée.",
+    "description": "Un guide à Valdanos : la plage de galets abritée, les dizaines de milliers d'oliviers anciens, le complexe hôtelier abandonné et l'itinéraire depuis Ulcinj."
+  },
+  "kiteBody": {
+    "glanceTitle": "En bref",
+    "title": "Kitesurf sur Long Beach, pourquoi Velika Plaža est le hub de l'Adriatique",
+    "glance": {
+      "zoneLabel": "Zone principale",
+      "windDirLabel": "Direction du vent",
+      "strengthLabel": "Force estivale typique",
+      "lessonLabel": "Tarif horaire",
+      "gearLabel": "Location quotidienne",
+      "monthsLabel": "Meilleurs mois"
+    },
+    "h2_why": "Pourquoi ça fonctionne pour le kite",
+    "h2_wind": "Le vent",
+    "h2_action": "Où ça se passe : du côté Copacabana",
+    "h2_gear": "Location de matériel sans cours",
+    "h2_stay": "Où loger",
+    "h2_parking": "Stationnement et accès",
+    "h2_partners": "Accompagnants non-kite",
+    "h2_when": "Quand venir",
+    "h2_check": "Liste pratique",
+    "imgAlt": "Kitesurf Velika Plaža Ulcinj",
+    "subtitle": "Eau plate peu profonde, vent thermique constant, deux écoles de kite au bout de Copacabana, comment la plage est devenue la capitale du kite de l'Adriatique sud.",
+    "description": "Un guide du kitesurf à Velika Plaža : vent, eau, écoles de Copacabana, location de matériel, meilleure saison et où se garer et loger."
+  },
+  "velikaPlazaBody": {
+    "glanceTitle": "En bref",
+    "title": "Velika Plaža, la plus longue plage de sable d'Europe hors Baltique",
+    "glance": {
+      "lengthLabel": "Longueur",
+      "depthLabel": "Profondeur",
+      "driveLabel": "Trajet depuis Ulcinj",
+      "parkLabel": "Stationnement",
+      "kiteLabel": "Côté kitesurf",
+      "quietLabel": "Côté le plus calme"
+    },
+    "h2_long": "La longue plage",
+    "h2_layout": "Comment la plage est organisée",
+    "h2_water": "L'eau",
+    "h2_kite": "Kitesurf côté Copacabana",
+    "h2_drive": "Trajet et stationnement",
+    "h2_behind": "Derrière la plage",
+    "h2_food": "Restauration et services",
+    "h2_when": "Quand venir",
+    "h2_pair": "À combiner avec",
+    "imgAlt": "Velika Plaža longue plage Ulcinj",
+    "subtitle": "Douze kilomètres de sable plat, eau chaude peu profonde et la capitale du kite de l'Adriatique sur le bord le plus au sud du Monténégro.",
+    "description": "Un guide complet de Velika Plaža : routes d'accès, meilleures sections pour la baignade, le bout kitesurf, stationnement et comment la plage évolue de Copacabana à l'embouchure du Bojana."
   }
 }

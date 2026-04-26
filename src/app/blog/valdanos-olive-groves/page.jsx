@@ -1,12 +1,14 @@
-import { buildAlternates } from '../../metadata';
+import { buildAlternates, t } from '../../metadata';
 import ValdanosOliveGroves from '@/src/components/pages/blog/ValdanosOliveGroves';
 
 export async function generateMetadata() {
+  const title = t('en', 'valdanosBody.title');
+  const description = t('en', 'valdanosBody.description');
   return {
-    title: "Valdanos Bay — Ancient Olive Groves Wrapping a Hidden Cove" + ' | Car Rental Ulcinj',
-    description: "A guide to Valdanos: the sheltered pebble beach, the tens of thousands of old-growth olive trees, the abandoned Yugoslav hotel, and how to get there from Ulcinj.",
+    title: title + ' | Car Rental Ulcinj',
+    description,
     alternates: buildAlternates('blog/valdanos-olive-groves'),
-    openGraph: { title: "Valdanos Bay — Ancient Olive Groves Wrapping a Hidden Cove", description: "A guide to Valdanos: the sheltered pebble beach, the tens of thousands of old-growth olive trees, the abandoned Yugoslav hotel, and how to get there from Ulcinj.", type: 'website' },
+    openGraph: { title, description, type: 'website' },
   };
 }
 
@@ -14,8 +16,8 @@ export default function ValdanosOliveGrovesRoute() {
   const articleSchema = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "Valdanos Bay — Ancient Olive Groves Wrapping a Hidden Cove",
-    "description": "A guide to Valdanos: the sheltered pebble beach, the tens of thousands of old-growth olive trees, the abandoned Yugoslav hotel, and how to get there from Ulcinj.",
+    "headline": t('en', 'valdanosBody.title'),
+    "description": t('en', 'valdanosBody.description'),
     "image": "https://www.carrentalulcinj.com/img/blog-valdanos-olive-groves.webp",
     "datePublished": "2026-04-22",
     "dateModified": "2026-04-22",

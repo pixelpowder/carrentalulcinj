@@ -1,12 +1,14 @@
-import { buildAlternates } from '../../metadata';
+import { buildAlternates, t } from '../../metadata';
 import UlcinjOldTownFortress from '@/src/components/pages/blog/UlcinjOldTownFortress';
 
 export async function generateMetadata() {
+  const title = t('en', 'ulcinjFortressBody.title');
+  const description = t('en', 'ulcinjFortressBody.description');
   return {
-    title: "Ulcinj Old Town — The Pirate Fortress of the Adriatic" + ' | Car Rental Ulcinj',
-    description: "A walking guide to Ulcinj's Stari Grad: the Ottoman-era fortifications, the pirate history, the Balšić Tower, and practical parking notes.",
+    title: title + ' | Car Rental Ulcinj',
+    description,
     alternates: buildAlternates('blog/ulcinj-old-town-fortress'),
-    openGraph: { title: "Ulcinj Old Town — The Pirate Fortress of the Adriatic", description: "A walking guide to Ulcinj's Stari Grad: the Ottoman-era fortifications, the pirate history, the Balšić Tower, and practical parking notes.", type: 'website' },
+    openGraph: { title, description, type: 'website' },
   };
 }
 
@@ -14,8 +16,8 @@ export default function UlcinjOldTownFortressRoute() {
   const articleSchema = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "Ulcinj Old Town — The Pirate Fortress of the Adriatic",
-    "description": "A walking guide to Ulcinj's Stari Grad: the Ottoman-era fortifications, the pirate history, the Balšić Tower, and practical parking notes.",
+    "headline": t('en', 'ulcinjFortressBody.title'),
+    "description": t('en', 'ulcinjFortressBody.description'),
     "image": "https://www.carrentalulcinj.com/img/blog-ulcinj-old-town-fortress.webp",
     "datePublished": "2026-04-22",
     "dateModified": "2026-04-22",

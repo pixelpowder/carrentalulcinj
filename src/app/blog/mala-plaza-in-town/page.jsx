@@ -1,12 +1,14 @@
-import { buildAlternates } from '../../metadata';
+import { buildAlternates, t } from '../../metadata';
 import MalaPlazaInTown from '@/src/components/pages/blog/MalaPlazaInTown';
 
 export async function generateMetadata() {
+  const title = t('en', 'malaPlazaBody.title');
+  const description = t('en', 'malaPlazaBody.description');
   return {
-    title: "Mala Plaža — The In-Town Beach Beneath the Stari Grad Walls" + ' | Car Rental Ulcinj',
-    description: "A guide to Mala Plaža — the in-town beach in Ulcinj, the Stari Grad view, the boardwalk cafés, parking, and how it differs from Velika Plaža.",
+    title: title + ' | Car Rental Ulcinj',
+    description,
     alternates: buildAlternates('blog/mala-plaza-in-town'),
-    openGraph: { title: "Mala Plaža — The In-Town Beach Beneath the Stari Grad Walls", description: "A guide to Mala Plaža — the in-town beach in Ulcinj, the Stari Grad view, the boardwalk cafés, parking, and how it differs from Velika Plaža.", type: 'website' },
+    openGraph: { title, description, type: 'website' },
   };
 }
 
@@ -14,8 +16,8 @@ export default function MalaPlazaInTownRoute() {
   const articleSchema = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "Mala Plaža — The In-Town Beach Beneath the Stari Grad Walls",
-    "description": "A guide to Mala Plaža — the in-town beach in Ulcinj, the Stari Grad view, the boardwalk cafés, parking, and how it differs from Velika Plaža.",
+    "headline": t('en', 'malaPlazaBody.title'),
+    "description": t('en', 'malaPlazaBody.description'),
     "image": "https://www.carrentalulcinj.com/img/blog-mala-plaza-in-town.webp",
     "datePublished": "2026-04-22",
     "dateModified": "2026-04-22",
