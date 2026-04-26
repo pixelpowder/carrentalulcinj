@@ -27,8 +27,6 @@ export default function About() {
 
       <h2>{tf('aboutBody.h2_pickup', 'Pickup and drop-off')}</h2>
       <p>{tf('aboutBody.p_pickup_pre', 'We meet every arriving flight at ')}<a href={localePath('/blog/podgorica-airport-to-ulcinj')}>{tf('aboutBody.podgoricaAirportLink', 'Podgorica Airport (TGD)')}</a>{tf('aboutBody.p_pickup_end', ', 70 km north, around an hour via the new highway. Tivat Airport pickup available for guests flying into the northern coast (2 hours). In-town pickups at your Ulcinj hotel or on the Mala Plaža promenade are free. Bar port pickup for Bari-ferry arrivals is also routine, 25 km north.')}</p>
-      <p>{tf('aboutBody.p_pickup2', 'One-way rentals to Podgorica, Bar, Tivat or the Albanian border are supported.')}</p>
-
       <h2>{tf('aboutBody.h2_pricing', 'Pricing')}</h2>
       <p>{tf('aboutBody.p_pricing', 'No summer premium on the confirmation. The rate you book is the rate you pay, taxes, airport fees and standard mileage included. The only extras are optional zero-excess insurance and one-way fees.')}</p>
 

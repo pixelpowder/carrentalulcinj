@@ -198,7 +198,7 @@
     },
     "5": {
       "q": "Puis-je restituer le véhicule dans un autre lieu ?",
-      "a": "Les locations en aller simple sont disponibles dans 28 points de prise en charge et de restitution au Monténégro. Sélectionnez des lieux différents lors de la réservation, des frais de trajet unique peuvent s'appliquer selon la distance."
+      "a": ""
     },
     "6": {
       "q": "Quelle est la politique d'annulation ?",
@@ -1433,12 +1433,12 @@
     "manage4": "Bloquer tous les cookies tiers",
     "managingNote": "Notez que le blocage des cookies essentiels peut affecter le fonctionnement du widget de réservation.",
     "contactTitle": "Contact",
-    "contactText": "Des questions sur notre utilisation des cookies ? Contactez-nous à info@budvacarrental.com."
+    "contactText": "Des questions sur notre utilisation des cookies ? Contactez-nous à info@carrentalulcinj.com."
   },
   "privacyBody": {
     "lastUpdated": "Dernière mise à jour :",
     "whoTitle": "Qui sommes-nous",
-    "whoText": "Car Rental Ulcinj opère en tant que partenaire affilié connectant les voyageurs avec des fournisseurs de location de voitures à Budva et ses environs, Monténégro. Notre site web est situé à budvacarrental.com. Lorsque vous utilisez notre site, nous pouvons collecter certaines informations comme décrit ci-dessous.",
+    "whoText": "Car Rental Ulcinj opère en tant que partenaire affilié connectant les voyageurs avec des fournisseurs de location de voitures à Budva et ses environs, Monténégro. Notre site web est situé à carrentalulcinj.com. Lorsque vous utilisez notre site, nous pouvons collecter certaines informations comme décrit ci-dessous.",
     "collectTitle": "Quelles informations nous collectons",
     "provideTitle": "Informations que vous fournissez",
     "provideText": "Lorsque vous utilisez notre formulaire de recherche de réservation, nous collectons le lieu de prise en charge, les dates et les heures que vous saisissez afin de trouver les véhicules disponibles. Ces informations sont transmises à notre partenaire (LocalRent) pour générer les résultats de recherche. Nous ne collectons ni ne stockons les détails de paiement, tous les paiements sont traités directement par le fournisseur de location.",
@@ -1473,12 +1473,12 @@
     "right3": "Retirer votre consentement au traitement des données",
     "right4": "Déposer une plainte auprès d'une autorité de protection des données",
     "contactTitle": "Contact",
-    "contactText": "Pour toute question relative à la confidentialité, contactez-nous par email à info@budvacarrental.com."
+    "contactText": "Pour toute question relative à la confidentialité, contactez-nous par email à info@carrentalulcinj.com."
   },
   "termsBody": {
     "lastUpdated": "Dernière mise à jour :",
     "aboutTitle": "À propos de ce site",
-    "aboutText": "Car Rental Ulcinj (budvacarrental.com) est un site web affilié qui met en relation les voyageurs avec les services de location de voitures à Budva et ses environs, Monténégro. Nous ne sommes pas une société de location de voitures, nous nous associons à LocalRent pour fournir une disponibilité en temps réel et des services de réservation.",
+    "aboutText": "Car Rental Ulcinj (carrentalulcinj.com) est un site web affilié qui met en relation les voyageurs avec les services de location de voitures à Budva et ses environs, Monténégro. Nous ne sommes pas une société de location de voitures, nous nous associons à LocalRent pour fournir une disponibilité en temps réel et des services de réservation.",
     "bookingTitle": "Conditions de réservation et de location",
     "bookingP1": "Toutes les réservations de location de voitures effectuées via notre site web sont traitées et exécutées par notre partenaire LocalRent. Lorsque vous effectuez une réservation, vous concluez un contrat de location directement avec le fournisseur du véhicule, et non avec Car Rental Ulcinj.",
     "bookingP2": "Les conditions de location, y compris les politiques d'annulation, la couverture d'assurance, les conditions d'âge et les conditions de paiement, sont définies par le fournisseur du véhicule et affichées pendant le processus de réservation. Nous vous recommandons de lire attentivement ces conditions avant de confirmer toute réservation.",
@@ -1504,7 +1504,7 @@
     "ipTitle": "Propriété intellectuelle",
     "ipText": "Tout le contenu de ce site web, y compris le texte, le design et les graphiques, appartient à Car Rental Ulcinj sauf mention contraire. La photographie de stock est utilisée sous licence de",
     "contactTitle": "Contact",
-    "contactText": "Des questions sur ces conditions ? Contactez-nous à info@budvacarrental.com."
+    "contactText": "Des questions sur ces conditions ? Contactez-nous à info@carrentalulcinj.com."
   },
   "affiliate": {
     "heroTitle": "Gagnez 50% de commission sur chaque réservation",
@@ -1638,7 +1638,7 @@
     "title": "Taxi vs Voiture de Location",
     "withoutTitle": "Sans Voiture",
     "withoutItems": [
-      "Taxi de l'aéroport à Budva, €25 aller simple",
+      "",
       "Excursion d'une journée à Budva en taxi, €40 aller-retour",
       "Taxi pour excursion en bateau à Rafailovići, €20 aller-retour",
       "Limité aux horaires des bus",

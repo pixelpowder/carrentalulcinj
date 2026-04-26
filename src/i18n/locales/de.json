@@ -264,7 +264,7 @@
   "cookie-policy": {
     "title": "Cookie-Richtlinie",
     "subtitle": "Wie wir Cookies auf dieser Website verwenden.",
-    "seoDesc": "Cookies auf budvacarrental.com: Was das Buchungs-Widget speichert, welche Analysen wir durchführen und wie Sie Ihre Einstellungen mit einem Klick ändern."
+    "seoDesc": "Cookies auf carrentalulcinj.com: Was das Buchungs-Widget speichert, welche Analysen wir durchführen und wie Sie Ihre Einstellungen mit einem Klick ändern."
   },
   "featureCards": {
     "airportPickup": {
@@ -466,7 +466,7 @@
     "h2_pickup": "Abholung und Rückgabe",
     "p_pickup_pre": "Wir holen jeden ankommenden Flug am ",
     "p_pickup_end": " ab, 70 km nördlich, etwa eine Stunde über die neue Autobahn. Abholung am Flughafen Tivat ist für Gäste verfügbar, die an die Nordküste fliegen (2 Stunden). Abholung in der Stadt am Hotel oder an der Mala-Plaža-Promenade ist kostenlos. Abholung am Hafen Bar für Bari-Fähre-Ankömmlinge ist ebenfalls Routine, 25 km nördlich.",
-    "p_pickup2": "Einwegmieten nach Podgorica, Bar, Tivat oder zur albanischen Grenze sind möglich.",
+    "p_pickup2": "",
     "h2_pricing": "Preise",
     "p_pricing": "Kein Sommeraufschlag auf der Bestätigung. Der gebuchte Tarif ist der Tarif, den Sie zahlen, Steuern, Flughafengebühren und Standardkilometer inklusive. Die einzigen Extras sind die optionale Selbstbeteiligungs-Versicherung und Einweggebühren.",
     "h2_contact": "Kontakt",
@@ -1500,12 +1500,12 @@
     "manage4": "Alle Cookies von Drittanbietern blockieren",
     "managingNote": "Beachten Sie, dass das Blockieren essentieller Cookies die Funktionalität des Buchungswidgets beeinträchtigen kann.",
     "contactTitle": "Kontakt",
-    "contactText": "Fragen zur Verwendung von Cookies? Kontaktieren Sie uns unter info@budvacarrental.com."
+    "contactText": "Fragen zur Verwendung von Cookies? Kontaktieren Sie uns unter info@carrentalulcinj.com."
   },
   "privacyBody": {
     "lastUpdated": "Zuletzt aktualisiert:",
     "whoTitle": "Wer wir sind",
-    "whoText": "Car Rental Ulcinj ist ein Affiliate-Partner, der Reisende mit Autovermietungen in und um Budva, Montenegro, verbindet. Unsere Website befindet sich unter budvacarrental.com. Wenn Sie unsere Website nutzen, erheben wir möglicherweise bestimmte Informationen wie unten beschrieben.",
+    "whoText": "Car Rental Ulcinj ist ein Affiliate-Partner, der Reisende mit Autovermietungen in und um Budva, Montenegro, verbindet. Unsere Website befindet sich unter carrentalulcinj.com. Wenn Sie unsere Website nutzen, erheben wir möglicherweise bestimmte Informationen wie unten beschrieben.",
     "collectTitle": "Welche Informationen wir erheben",
     "provideTitle": "Von Ihnen bereitgestellte Informationen",
     "provideText": "Wenn Sie unser Buchungssuchformular verwenden, erfassen wir den Abholort, die Daten und Uhrzeiten, die Sie eingeben, um verfügbare Fahrzeuge zu finden. Diese Informationen werden an unseren Partner (LocalRent) weitergegeben, um Suchergebnisse zu generieren. Wir erheben oder speichern keine Zahlungsdaten, alle Zahlungen werden direkt vom Vermieter abgewickelt.",
@@ -1540,12 +1540,12 @@
     "right3": "Die Einwilligung zur Datenverarbeitung widerrufen",
     "right4": "Beschwerde bei einer Datenschutzbehörde einlegen",
     "contactTitle": "Kontakt",
-    "contactText": "Bei Fragen zum Datenschutz kontaktieren Sie uns per E-Mail unter info@budvacarrental.com."
+    "contactText": "Bei Fragen zum Datenschutz kontaktieren Sie uns per E-Mail unter info@carrentalulcinj.com."
   },
   "termsBody": {
     "lastUpdated": "Zuletzt aktualisiert:",
     "aboutTitle": "Über diese Website",
-    "aboutText": "Car Rental Ulcinj (budvacarrental.com) ist eine Affiliate-Website, die Reisende mit Autovermietungen in und um Budva, Montenegro, verbindet. Wir sind kein Autovermieter, wir arbeiten mit LocalRent zusammen, um Echtzeit-Verfügbarkeit und Buchungsdienste bereitzustellen.",
+    "aboutText": "Car Rental Ulcinj (carrentalulcinj.com) ist eine Affiliate-Website, die Reisende mit Autovermietungen in und um Budva, Montenegro, verbindet. Wir sind kein Autovermieter, wir arbeiten mit LocalRent zusammen, um Echtzeit-Verfügbarkeit und Buchungsdienste bereitzustellen.",
     "bookingTitle": "Buchungs- und Mietbedingungen",
     "bookingP1": "Alle über unsere Website vorgenommenen Mietwagenbuchungen werden von unserem Partner LocalRent bearbeitet und abgewickelt. Wenn Sie eine Buchung abschließen, gehen Sie einen Mietvertrag direkt mit dem Fahrzeuganbieter ein, nicht mit Car Rental Ulcinj.",
     "bookingP2": "Die Mietbedingungen, einschließlich Stornierungsrichtlinien, Versicherungsschutz, Altersanforderungen und Zahlungsbedingungen, werden vom Fahrzeuganbieter festgelegt und während des Buchungsprozesses angezeigt. Wir empfehlen, diese Bedingungen vor der Bestätigung einer Buchung sorgfältig zu lesen.",
@@ -1571,7 +1571,7 @@
     "ipTitle": "Geistiges Eigentum",
     "ipText": "Alle Inhalte auf dieser Website, einschließlich Texte, Design und Grafiken, sind Eigentum von Car Rental Ulcinj, sofern nicht anders angegeben. Stockfotografie wird unter Lizenz von verwendet.",
     "contactTitle": "Kontakt",
-    "contactText": "Fragen zu diesen Bedingungen? Kontaktieren Sie uns unter info@budvacarrental.com."
+    "contactText": "Fragen zu diesen Bedingungen? Kontaktieren Sie uns unter info@carrentalulcinj.com."
   },
   "affiliate": {
     "heroTitle": "Verdienen Sie 50% Provision pro Buchung",
