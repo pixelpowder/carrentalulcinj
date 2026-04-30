@@ -441,7 +441,7 @@
   "montenegroBody": {
     "h1": "Driving Montenegro from an Ulcinj Base",
     "p1": "Montenegro is roughly the size of Northern Ireland yet contains a coast, a deep fjord-like bay, a 2,500-year-old walled town, a 1,300-metre-deep canyon, and alpine peaks above 2,500 metres. Driving distances look short on a map. In practice, the roads twist, climb, tunnel, and ferry-cross their way between these extremes, and journey times rarely match what GPS predicts. Accept that, and the driving itself becomes part of the holiday.",
-    "p2": "Ulcinj sits at the southern tip of the country, which is less of a handicap than the map suggests. Bar is thirty minutes north. Podgorica Airport is seventy minutes via the Sozina tunnel. Shkodër in Albania is forty-five minutes through the Sukobin crossing. Lake Skadar is an hour inland. Only the Bay of Kotor in the far north-west and Durmitor in the far north require a genuine road trip. Everything else radiates outward from Stari Grad like spokes from a hub.",
+    "p2": "Ulcinj sits at the southern tip of the country, which is less of a handicap than the map suggests. Bar is thirty minutes north. Podgorica Airport is seventy minutes via the Sozina tunnel. Shkodër in Albania is forty-five minutes through the Sukobin crossing. Lake Skadar is an hour inland. Only the Adriatic coast near Ulcinj in the far north-west and Durmitor in the far north require a genuine road trip. Everything else radiates outward from Stari Grad like spokes from a hub.",
     "startTitle": "Picking Up Your Car",
     "startText": "Podgorica Airport (TGD), 70 km north of Ulcinj, is the obvious collection point, around seventy minutes from landing to Stari Grad via the Sozina tunnel and Bar. Tirana Airport in Albania offers budget routes and connects through the Sukobin crossing in roughly 2.5 hours. Dubrovnik Airport in Croatia has the most international routes but sits a full four hours north via two border crossings. All three have meet-and-greet handovers.",
     "timesTitle": "Realistic Drive Times from Ulcinj",
@@ -511,7 +511,7 @@
     "p_borders_pre": "Ulcinj's most-used crossing by far is ",
     "sukobinName": "Sukobin-Muriqan",
     "p_borders_end": " into Albania, 20 minutes south, usually quiet, and a fast run on to Shkodër. The old crossing at Hani i Hotit near Božaj is another option if you're heading to Lake Shkodër's southern shore. Most rentals include Albanian Green Card insurance when you tell us at booking.",
-    "p_north": "Going north, the coast road runs through Bar, Petrovac, Budva and onto the Bay of Kotor. Kosovo, Serbia and Bosnia are reachable in a long day via Podgorica.",
+    "p_north": "Going north, the coast road runs through Bar, Petrovac, Budva and onto the Adriatic coast near Ulcinj. Kosovo, Serbia and Bosnia are reachable in a long day via Podgorica.",
     "h2_when": "When to visit",
     "mayJuneLabel": "May-June:",
     "mayJune": " warm sea by mid-May (Ulcinj is the country's warmest coast), thin crowds, olive blossom at Valdanos. The best time for Long Beach before the summer heat.",
@@ -973,7 +973,7 @@
         "2": "Central Locking",
         "3": "Touchscreen Display"
       },
-      "inlineAlt": "Bay of Kotor coastal road near Dobrota",
+      "inlineAlt": "Adriatic coast near Ulcinj coastal road near Dobrota",
       "inlineCaption": "The Dobrota–Prčanj stretch at a steady 50 km/h, the Clio's natural cruising pace on a multi-day bay stay."
     },
     "peugeot-308": {
@@ -1078,8 +1078,8 @@
         "2": "Sunroof",
         "3": "Bluetooth"
       },
-      "inlineAlt": "Narrow Muo waterfront lane in Kotor",
-      "inlineCaption": "The Muo waterfront past the ferry dock, the 500 slots into gaps the rest of the fleet drives past.",
+      "inlineAlt": "Narrow Pristan waterfront lane in Kotor",
+      "inlineCaption": "The Pristan waterfront past the ferry dock, the 500 slots into gaps the rest of the fleet drives past.",
       "relatedTitle": {
         "0": "Mala Plaža, in-town beach",
         "1": "Kitesurfing Velika Plaža",
@@ -1090,7 +1090,7 @@
       "name": "Citroen C3",
       "tagline": "Softest small hatch for the broken Ulcinj–Risan stretch and back-road detours",
       "lede": "Advanced Comfort dampers iron out the patched tarmac on the old bay road, the gentlest small car to park at the Ulcinj bastions overnight.",
-      "suitability": "The comfort-first pick for a week in Ulcinj with daily slow-paced detours, Risan's Roman mosaics, the Gornja Lastva hamlet above Tivat, the loop back through nearby villages.",
+      "suitability": "The comfort-first pick for a week in Ulcinj with daily slow-paced detours, Risan's Roman mosaics, the Krute hamlet above Tivat, the loop back through nearby villages.",
       "regional": "The progressive hydraulic bump stops make the potholed stretch from Risan to Perast feel a size-class quieter, the low-stress 83 hp motor suits the 50 km/h bay-road limits, and the 4-metre length slots into any Old Town bastion bay.",
       "category": "Economy",
       "bestFor": {
@@ -1104,8 +1104,8 @@
         "2": "USB Charging",
         "3": "Lane Departure Warning"
       },
-      "inlineAlt": "Back road through Gornja Lastva above Tivat",
-      "inlineCaption": "The Gornja Lastva spur above the bay, the C3's Advanced Comfort turns the patched bitumen into distant thumps."
+      "inlineAlt": "Back road through Krute above Tivat",
+      "inlineCaption": "The Krute spur above the bay, the C3's Advanced Comfort turns the patched bitumen into distant thumps."
     },
     "overviewTitle": "At a glance",
     "specsTitle": "Full specification",
