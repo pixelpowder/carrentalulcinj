@@ -272,8 +272,8 @@
       "a": "A valid driving licence, your passport or national ID, and a physical credit card in the lead driver's name. Licences without Latin characters also require an International Driving Permit."
     },
     "1": {
-      "q": "Can I cross into Croatia or other countries?",
-      "a": "Absolutely. Albania is fifteen minutes via the Sukobin/Muriqan crossing south of Ulcinj, we include the Green Card at booking. Croatia is about three hours north via Debeli Brijeg, Kosovo and Serbia are also available with advance notice."
+      "q": "How are cross-border fees calculated from Ulcinj?",
+      "a": "Suppliers price cross-border travel in three tiers, and Ulcinj is the rare base where the middle tier is the natural pick rather than an upgrade. Tier 1 covers neighbours excluding Albania and Kosovo, suited to a Trebinje run or a Croatia hop via Debeli Brijeg. Tier 2 adds Albania and Kosovo, and from Ulcinj that means the Sukobin-Muriqan crossing 12 km south, Shkodër in 30 minutes, and Tirana reachable in around 2 hours 30. Most guests here choose Tier 2 because the Albanian day trip is part of why they pick Ulcinj over Bar or Budva. Tier 3 bundles the full neighbour set with more distant countries, useful if your itinerary loops through Bulgaria, North Macedonia or further. Tick every country at booking and the Green Card waits in the glovebox at pickup."
     },
     "2": {
       "q": "What age do I need to be?",
@@ -284,12 +284,12 @@
       "a": "Every booking includes CDW insurance, third-party liability, VAT, and a roadside safety kit. Most vehicles offer unlimited mileage, check the individual listing for details."
     },
     "4": {
-      "q": "How do I collect the car at Podgorica Airport?",
-      "a": "A representative meets you inside the Podgorica Airport arrivals hall with a name board. Your car is in the terminal car park, steps away. The drive south to Ulcinj via the Sozina tunnel and Bar takes around seventy minutes."
+      "q": "Which extras can I add to my Ulcinj rental?",
+      "a": "Confirmed extras suit the cross-border driver and the day-tripper crowd that defines Ulcinj. A wireless hotspot or local SIM-card keeps you on Montenegrin data once you cross at Sukobin, avoiding Albanian roaming charges on a Shkodër day. Three sizes of child seat are stocked for families heading to Velika Plaža or Ada Bojana. An electric scooter with charger handles the stepped lanes inside Stari Grad fortress where cars are awkward. Roof racks carry beach gear down to the Bojana, while ski and snowboard racks are the option for guests pairing an Ulcinj coast week with a winter weekend up at Kolasin or Žabljak. Theft Protection, Personal Accident Insurance, and a Winter Pack round out the list. Add what you need at the booking stage so the agent has everything fitted at pickup."
     },
     "5": {
-      "q": "What if I need to cancel?",
-      "a": "Most vehicles offer free cancellation up to seven days before pickup. Premium and convertible classes require thirty days. A small processing fee applies to all cancellations."
+      "q": "Are Theft Protection and Personal Accident Insurance worth adding here?",
+      "a": "Both make practical sense given the way Ulcinj is actually used. Theft Protection is worth it if you plan long beach days at Ada Bojana, the unpaved Sas fortress turn-off above town, or the lay-bys along the Bojana river road, all places where the car sits unattended for hours away from busy parking. Personal Accident Insurance is sensible cover for the rough access roads behind Velika Plaža, the gravel spurs out to Valdanos, and the Albanian secondary roads beyond the Sukobin crossing where surfaces change without warning. Neither is mandatory, the supplier explains the cap and the day rate at the desk, decide on the spot."
     },
     "6": {
       "q": "Do I need a deposit?",
@@ -310,6 +310,14 @@
     "10": {
       "q": "Can I rent without a credit card?",
       "a": "A handful of vehicles are available without a credit card requirement. Look for the no-deposit filter when searching by pickup location."
+    },
+    "11": {
+      "q": "How do I collect the car at Podgorica Airport?",
+      "a": "A representative meets you inside the Podgorica Airport arrivals hall with a name board. Your car is in the terminal car park, steps away. The drive south to Ulcinj via the Sozina tunnel and Bar takes around seventy minutes."
+    },
+    "12": {
+      "q": "What if I need to cancel?",
+      "a": "Most vehicles offer free cancellation up to seven days before pickup. Premium and convertible classes require thirty days. A small processing fee applies to all cancellations."
     }
   },
   "destCards": {
@@ -404,7 +412,9 @@
     "promise5": "Free cancellation up to seven days before your collection date",
     "promise6": "Round-the-clock roadside support, from Ulcinj to Žabljak and everywhere in between",
     "h4": "Local Road Knowledge",
-    "p4": "Ask us which afternoons the Velika Plaža car parks fill with day-trippers from Shkodër, and we can point you toward the quieter Copacabana end of the beach, or suggest a loop inland through the olive groves instead. Ask about the unmarked turn-off for Valdanos Bay and we can draw the map for you. From Sukobin border queue patterns to the best hour to catch the Virpazar boatmen at Lake Skadar, we draw on local knowledge from partners and drivers working across the south.",
+    "p4": "Ask us which afternoons the Velika Plaža car parks fill with day-trippers from Shkodër, and we can point you toward the quieter Copacabana end of the beach, or suggest a loop inland through the olive groves instead. Ask about the unmarked turn-off for Valdanos Bay and we can draw the map for you. From Sukobin border queue patterns to the best hour to catch the Virpazar boatmen at Lake Skadar, we draw on local knowledge from partners and drivers working across the south. Tell us at booking that an Albanian day is on the cards and we tick Tier 2 cross-border so the Green Card is ready, suggest a SIM-card so your phone stays on Montenegrin data after you cross at Sukobin, and mention which restaurants in Shkodër are worth the 30 minute drive south.",
+    "h_extras": "Extras That Suit Ulcinj Specifically",
+    "p_extras": "The extras menu is built around how guests actually use this base. An electric scooter with charger is the smarter way to weave through the stepped lanes inside Stari Grad fortress, where parking is awkward and the cobbles can punish a low car. Theft Protection is worth thinking through for the long beach days at Ada Bojana, lay-bys along the Bojana river road, and the unpaved Sas fortress turn-off, all places the car sits unattended for hours. Personal Accident Insurance covers the rough access roads behind Velika Plaža and the unsealed Albanian secondaries beyond Sukobin where the surface can change without warning. A wireless hotspot or local SIM-card keeps you on Montenegrin data once you cross the border, no Albanian roaming surprises on a Shkodër day. Three sizes of child seat are stocked, roof racks carry beach kit down to the Bojana, and ski or snowboard racks are the option if you pair an Ulcinj week with a February run up to Kolašin or Žabljak. Add the Winter Pack on any reservation that drifts past November.",
     "h5": "Contact Us Any Time",
     "p5": "WhatsApp, Viber, a traditional phone call, whichever suits you. We respond quickly, even during the frantic August beach weeks. Browse the fleet online, lock in a rate, and we take care of the rest. Or message us a question about parking near Mala Plaža, the best route to Shkodër, or whether the Ada Bojana bridge is passable after heavy rain.",
     "h6": "Our Vehicles and What They Handle",
@@ -425,7 +435,7 @@
     "p_why2_pre": "Inland from Ulcinj, ",
     "p_why2_end": ", the Balkans' largest, is 45 minutes away with pelican colonies, wineries and mountain-ringed water.",
     "h2_included": "What's included",
-    "p_included": "CDW insurance, third-party liability, VAT, unlimited mileage on most categories, and support are standard on every rental. Zero-excess upgrade available at booking or pickup. Albanian Green Card insurance, essential for anyone crossing at Sukobin, is arranged when you tell us your plans at booking.",
+    "p_included": "CDW insurance, third-party liability, VAT, unlimited mileage on most categories, and support are standard on every rental. Zero-excess upgrade available at booking or pickup. Cross-border travel is priced in three tiers, and Tier 2 (neighbours including Albania and Kosovo) is the natural pick from Ulcinj because Sukobin sits 12 km south and Shkodër is a 30 minute drive. Albanian Green Card paperwork, essential for anyone crossing at Sukobin or Hani i Hotit, is arranged when you tell us your plans at booking. Optional add-ons cover Theft Protection, Personal Accident Insurance, a Winter Pack, three sizes of child seat, roof and ski and snowboard racks, an electric scooter with charger, and a wireless hotspot or local SIM-card to bypass Albanian roaming.",
     "h2_pickup": "Pickup and drop-off",
     "p_pickup_pre": "We meet every arriving flight at ",
     "p_pickup_end": ", 70 km north, around an hour via the new highway. Tivat Airport pickup available for guests flying into the northern coast (2 hours). In-town pickups at your Ulcinj hotel or on the Mala Plaža promenade are free. Bar port pickup for Bari-ferry arrivals is also routine, 25 km north.",
