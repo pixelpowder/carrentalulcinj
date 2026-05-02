@@ -1080,7 +1080,6 @@ export default function App() {
       </main>
       <Footer />
       <StickyBookingBar />
-      <WhatsAppFab />
       <ScrollToTop />
       <StickyMobileCTA />
     </>
