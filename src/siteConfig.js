@@ -242,7 +242,7 @@ const siteConfig = {
 
   features: [
     { icon: "map-pin", title: "Ulcinj Town Pickup", description: "Meet us at Mala Plaža in Ulcinj town, at your Velika Plaža hotel, or at the Stari Grad car park. Podgorica Airport pickup available, 70 km north via the new highway." },
-    { icon: "shield-check", title: "Coast-and-Border Insurance", description: "CDW, third-party liability and theft protection on every rental. Zero-excess upgrade available, sensible on the winding road down to Valdanos and the narrow Stari Grad lanes." },
+    { icon: "shield-check", title: "Insurance Options", description: "Insurance tiers from basic third-party up to no-deposit zero-excess. Sensible on the winding road down to Valdanos and the narrow Stari Grad lanes." },
     { icon: "clock", title: "24/7 Southern-Coast Support", description: "A late flight into Podgorica, a puncture on the Ada Bojana sand track, a Valdanos bay sunset you can't leave, we answer the phone any hour." },
     { icon: "ban", title: "Transparent Prices", description: "No summer premium on the confirmation page. The rate you book is the rate you pay, taxes, fees and unlimited mileage already inside." },
     { icon: "refresh-cw", title: "Flexible Cancellation", description: "Plans change, flights shift, the weather turns. Cancel most vehicles free up to seven days before pickup." },

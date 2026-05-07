@@ -24,7 +24,7 @@
     "headline": "Rent a Car in Ulcinj. Kitesurf Capital, Albanian Border, 25+ Pickup Points.",
     "badges": {
       "freeCancellation": "Free Cancellation",
-      "fullInsurance": "Full Insurance Included",
+      "fullInsurance": "Insurance Options",
       "airportPickup": "Podgorica Airport 70 km",
       "trustpilot": "4.8/5 on Trustpilot"
     },
@@ -42,7 +42,7 @@
   "trust": {
     "noHiddenFees": "No Hidden Fees",
     "noHiddenFeesDesc": "The price on your confirmation is the price you pay at collection, zero surprise charges, zero add-ons",
-    "fullInsurance": "Full Insurance",
+    "fullInsurance": "Insurance Options",
     "fullInsuranceDesc": "CDW and liability on every vehicle, plus a zero-excess upgrade for Stari Grad cobblestones and the unpaved tracks to Ada Bojana.",
     "fastPickup": "Ulcinj Pickup",
     "fastPickupDesc": "Meet your car at your Ulcinj apartment, beside Mala Plaža, or 70 km south of Podgorica Airport via the Sozina tunnel."
@@ -194,7 +194,7 @@
     "promise3": "Transparent pricing, the quoted figure is the final figure",
     "promise4": "Cross-border travel to Albania, Kosovo, Bosnia, Serbia, and Croatia with Green Card arranged",
     "promise5": "Free cancellation on most reservations",
-    "promise6": "Local rental providers, full insurance and low or no-deposit options",
+    "promise6": "Local rental providers, flexible insurance tiers and low or no-deposit options",
     "localTitle": "Local Knowledge",
     "localText": "Based in Ulcinj, we know every stretch of road along the southern coast, the best routes, the overlooked detours, and the parking tricks that guidebooks never mention. Whether you are heading from",
     "localLink1": "Podgorica Airport",
