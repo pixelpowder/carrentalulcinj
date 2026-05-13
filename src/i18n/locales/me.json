@@ -172,13 +172,13 @@
     "metaTitle": "Stranica nije pronađena | Car Rental Ulcinj"
   },
   "home": {
-    "seoDesc": "Dugoročni najam automobila u Budvau sa mjesečnim tarifama, osiguranjem i CDW-om već uključenim.",
-    "title": "Najam Automobila u Budvau. Mjesečne Tarife, Osiguranje Uključeno."
+    "seoDesc": "Najam automobila u Ulcinju od 20 €/dan sa besplatnim Minimalnim osiguranjem i plaćenim nadogradnjama od 8 €/dan. Predaja na Aerodromu Podgorica (TGD), preuzimanje na Velikoj plaži i papiri za albansku granicu pri rezervaciji.",
+    "title": "Najam Automobila u Ulcinju. Od 20 €/dan, fleksibilno osiguranje."
   },
   "about": {
     "title": "O Nama",
     "subtitle": "Pomažemo putnicima da istraže Crnu Goru od 2007.",
-    "seoDesc": "Najam automobila u Budvau za duže periode: tjedne i mjesečne tarife, osiguranje uključeno, preuzimanje na Aerodromu Tivat Airport, i podrška za iseljenike.",
+    "seoDesc": "Najam automobila u Ulcinju za duže boravke: tjedne i mjesečne tarife, besplatno Minimalno osiguranje sa plaćenim nadogradnjama od 8 €/dan, preuzimanje na Aerodromu Podgorica i podrška za putnike koji borave na južnoj obali.",
     "heading1": "Car Rental Ulcinj",
     "p1": "Od 2007. godine, Car Rental Ulcinj pomaze posjetiocima da istraze Bokobudvaski zaliv pod sopstvenim uslovima. Ono sto je pocelo kao skromna flota koja je opsluzivala lucko podrucje preraslo je u jednu od najpouzdanijih operacija iznajmljivanja na zalivu, povezujuci putnike sa vozilima prilagodenim uskim obalnim trakama, planinskim serpentinama i prekogranicnim putovanjima.",
     "heading2": "Zasto Smo Poceli",
@@ -192,11 +192,11 @@
     "p3Link3": "Starom gradu Budva",
     "p3d": "i lokacijama duz obale i u unutrasnjosti.",
     "promiseTitle": "Nase Obecanje",
-    "promise1": "Opcije osiguranja sa opcijom nulte fransize",
+    "promise1": "Besplatno Minimalno (treca strana) osiguranje uz svaku rezervaciju, sa placenim nadogradnjama od 8 €/dan",
     "promise2": "Docek na aerodromu Tivat Airport, vas auto ceka na dolascima",
     "promise3": "Transparentne cijene, navedena cifra je konacna cifra",
     "promise4": "Prekogranicna putovanja u Hrvatsku, Bosnu, Albaniju, Srbiju i Kosovo",
-    "promise5": "Besplatno otkazivanje za vecinu rezervacija",
+    "promise5": "Besplatno otkazivanje na odabranim automobilima (oko 176 od ~380), avans se vraca ako se otkaze vise od 24 sata prije preuzimanja",
     "promise6": "Lokalni najmodavci, fleksibilne opcije osiguranja i opcije sa niskim ili bez depozita",
     "localTitle": "Lokalno Znanje",
     "localText": "Sa sjedistem u Budvau, poznajemo svaki dio puta oko zaliva, najbolje rute, previdena skretanja i trikove za parkiranje koje vodici nikad ne pominju. Bilo da idete od",
@@ -276,28 +276,28 @@
     },
     "fullInsurance": {
       "title": "Opcije osiguranja",
-      "desc": "Dostupna opcija nulte franšize. Bilo da vozite uskim ulicama Starog grada ili serpentinom Kosmača, u potpunosti ste osigurani."
+      "desc": "Besplatno Minimalno (treća strana) osiguranje uz svaku rezervaciju — Basic od 8 €/dan, Full od 10 €/dan, Full Plus bez depozita od 18 €/dan."
     },
     "support": {
-      "title": "Podrška 24/7",
-      "desc": "Zaglavili ste iza kruzerskog autobusa na putu uz zaliv? Niste sigurni oko parkinga Tabacina? Pozovite nas u bilo kom trenutku, poznajemo svaki metar ovih puteva."
+      "title": "Podrška za rezervacije 24/7",
+      "desc": "Pomoć oko rezervacije u bilo koje doba. Pomoć na putu obezbjeđuje rentakar partner."
     },
     "noHiddenFees": {
-      "title": "Bez skrivenih troškova",
-      "desc": "Jedna transparentna cijena pokriva osiguranje, PDV i kilometražu. Ono što vidite pri rezervaciji tačno je ono što plaćate pri preuzimanju, ništa se ne dodaje na šalteru."
+      "title": "Bez kreditne kartice",
+      "desc": "Svaki automobil na platformi može se rezervisati bez kreditne kartice — plaćanje gotovinom, debitnom karticom ili kriptovalutama."
     },
     "freeCancellation": {
       "title": "Besplatno otkazivanje",
-      "desc": "Promijenjen raspored kruzera? Put na Kosmač zatvoren zbog vremena? Otkažite do 7 dana prije preuzimanja za puni povrat, bez pitanja."
+      "desc": "Na odabranim automobilima (oko 46 % flote): povrat avansa ukoliko otkažete više od 24 sata prije preuzimanja."
     },
     "crossBorder": {
       "title": "Prelazak granice",
-      "desc": "Dubrovnik je 2 sata vožnje preko graničnog prelaza Debeli Brijeg, Zelena karta spremna pri preuzimanju. Bosna i Albanija također dozvoljene uz prethodnu najavu."
+      "desc": "Plaćena dozvola za prelazak granice u tri nivoa — susjedne zemlje, sa Albanijom i Kosovom, ili cijela EU + Švajcarska."
     }
   },
   "testimonials": {
     "0": {
-      "text": "Put uz zaliv između Budvaa i Rafailovićia jedno je od najljepših vožnji koje smo ikada doživjeli. Zaustavljali smo se na svakom proširenju i uzeli čamac do Gospe od Škrpjela. Imati auto značilo je da smo sve radili po svom rasporedu. Lako preuzimanje u Tivat Airportu i cijeli proces prošao je glatko od početka do kraja."
+      "text": "Renault Clio rezervisan u dva klika za aerodrom Podgorica. Partner nas je dočekao na dolascima, na putu u nekoliko minuta, i bili smo na Velikoj plaži prije zalaska sunca. Tri dana kitesurfa na Copacabani, ručak u Skadru, kreditna kartica nije bila potrebna kod partnera, a papiri za prelazak granice čekali su u kaseti."
     },
     "1": {
       "text": "Došao sam u Budva posebno da se popnem na tvrđavu Kalaja i odvezem do Kosmača. Auto je bio spreman na dolasku u Tivat Airportu prije nego sam uopće našao izlaz. Serpentinska cesta do mauzoleja ne liči ni na šta što sam vozio u Sjevernoj Americi, strma, uska, spektakularna. Rezervisao bih ponovo bez oklijevanja."
@@ -309,35 +309,35 @@
   "faqItems": {
     "0": {
       "q": "Koja dokumenta su mi potrebna?",
-      "a": "Ponesite vozačku dozvolu, pasoš i fizičku kreditnu karticu na ime glavnog vozača. Ako vaša dozvola ne sadrži podatke na latiničnom pismu, potrebna je i međunarodna vozačka dozvola."
+      "a": "Važeća vozačka dozvola i pasoš ili lična karta. Kreditna kartica nije obavezna ni za jedan automobil na platformi — gotovina, debitna kartica i kriptovalute se prihvataju kod partnera. Ako vaša dozvola ne sadrži podatke na latiničnom pismu, potrebna je i međunarodna vozačka dozvola."
     },
     "1": {
-      "q": "Mogu li voziti do Hrvatske ili Albanije?",
-      "a": "Hrvatska je 2 sata vožnje preko graničnog prelaza Debeli Brijeg, Zelenu kartu pripremamo pri rezervaciji. Albanija zahtijeva zasebnu dokumentaciju za Zelenu kartu, pa nas obavijestite unaprijed. Bosna, Srbija i Kosovo su takođe dozvoljeni."
+      "q": "Mogu li voziti u Hrvatsku, Albaniju ili Italiju?",
+      "a": "Da — prelazak granice se prodaje kao plaćena dozvola u tri nivoa: (1) Hrvatska, Bosna i Hercegovina i Srbija (Zelena karta nije potrebna); (2) iste plus Albanija i Kosovo (Zelena karta obezbijeđena); (3) Albanija, Kosovo, Hrvatska, Bosna, Srbija, Makedonija, sve EU zemlje i Švajcarska (Zelena karta obezbijeđena). Pravi nivo za vaše putovanje prikazuje se na blagajni."
     },
     "2": {
       "q": "Postoji li minimalna starosna granica?",
-      "a": "Vozači moraju imati najmanje 21 godinu i minimum 2 godine iskustva. Za vozače mlađe od 25 godina primjenjuje se doplata za mlade vozače, tačan iznos zavisi od vozila i prikazan je u rezultatima pretrage."
+      "a": "Starost i potrebno vozačko iskustvo razlikuju se po vozilu. Najpristupačnija vozila na platformi dostupna su od 18 godina sa 1+ godinom vozačkog iskustva — filtrirajte po svojoj starosti i iskustvu da vidite koja vozila su vam otvorena."
     },
     "3": {
       "q": "Šta je uključeno u cijenu?",
-      "a": "Osiguranje od odgovornosti prema trećim licima i CDW zaštita uključeni su u osnovnu cijenu svih vozila, zajedno sa PDV-om i obaveznim sigurnosnim kompletom. Neograničena kilometraža dostupna je na većini automobila, provjerite karticu vozila prije rezervacije."
+      "a": "Svaka rezervacija uključuje besplatno Minimalno osiguranje (treća strana) sa tipičnim depozitom od 100 €, plus besplatnog drugog vozača i PDV. Nadogradnje osiguranja su plaćeni dodaci: Basic od 8 €/dan, Full od 10 €/dan i Full Plus bez depozita od 18 €/dan. Neograničena kilometraža uključena je na većini automobila (376 od oko 380)."
     },
     "4": {
-      "q": "Kako funkcioniše preuzimanje na aerodromu Tivat Airport?",
-      "a": "Vaš agent čeka vas u holu dolazaka aerodroma Tivat Airport s tablom na kojoj piše vaše ime. Auto je parkiran odmah ispred. Od terminala do zidina Starog grada Budvaa traje oko 15 minuta putem uz zaliv. Alternativno, možemo organizovati preuzimanje na parkingu Tabacina, na ulazu u Stari grad."
+      "q": "Kako funkcioniše preuzimanje na aerodromu Podgorica?",
+      "a": "Vaš agent čeka vas u holu dolazaka aerodroma Podgorica s tablom na kojoj piše vaše ime. Auto je parkiran odmah ispred. Vožnja na jug do Ulcinja preko Sozinskog tunela i Bara traje oko 70 minuta."
     },
     "5": {
-      "q": "Koja je politika otkazivanja?",
-      "a": "Besplatno otkazivanje moguće je do 7 dana prije datuma početka najma. Luksuzni automobili i kabrioleti zahtijevaju 30 dana najave. Naknada za obradu plaćanja od 6 % primjenjuje se na sva otkazivanja bez obzira na vrijeme."
+      "q": "Da li je potreban depozit?",
+      "a": "Većina automobila zadržava depozit od 100 € pri preuzimanju. 47 automobila na platformi uopšte ne zahtijeva depozit, a još 124 nudi opciju bez depozita kao plaćenu uslugu. Izbor Full Plus osiguranja (od 18 €/dan) takođe ukida depozit. Tačan iznos (ako postoji) jasno je prikazan prije rezervacije."
     },
     "6": {
-      "q": "Da li je potreban depozit?",
-      "a": "Većina vozila zahtijeva depozit od 100 do 350 € na fizičkoj kreditnoj kartici vozača. Neki ekonomični automobili dostupni su bez depozita, jasno su označeni u rezultatima pretrage. Blokada se oslobađa kada se vozilo vrati bez oštećenja."
+      "q": "Koja je politika otkazivanja?",
+      "a": "Besplatno otkazivanje dostupno je na odabranim automobilima (oko 176 od približno 380, jasno označeni u rezultatima pretrage). Na tim automobilima se cijeli avans vraća ako otkažete više od 24 sata prije preuzimanja; otkazivanja u roku od 24 sata prije preuzimanja nisu povratna."
     },
     "7": {
       "q": "Šta se dešava ako prekoračim limit kilometraže?",
-      "a": "Vozila s ograničenjem kilometraže naplaćuju po kilometru iznad dogovorene granice. Tačna tarifa navedena je u detaljima vozila prije potvrde rezervacije."
+      "a": "Neograničena kilometraža uključena je na ogromnoj većini automobila (376 od ~380). Za nekoliko automobila s ograničenjem kilometraže naplaćuje se dodatna naknada po kilometru — prikazana u oglasu prije rezervacije."
     },
     "8": {
       "q": "Ima li skrivenih naknada?",
@@ -345,11 +345,11 @@
     },
     "9": {
       "q": "Koliko plaćam unaprijed?",
-      "a": "Avans od 15-20 % ukupne cijene najma potreban je za potvrdu rezervacije. Preostali iznos plaća se direktno agentu za iznajmljivanje pri preuzimanju automobila."
+      "a": "Avans se uplaćuje pri potvrdi rezervacije; preostali iznos se plaća partneru pri preuzimanju. Tačna podjela prikazana je na stranici za plaćanje svakog automobila prije nego što se obavežete."
     },
     "10": {
       "q": "Mogu li iznajmiti bez kreditne kartice?",
-      "a": "Mali broj vozila u floti dostupan je bez kreditne kartice. Te opcije su jasno označene u rezultatima pretrage kada filtrirate prema lokaciji preuzimanja."
+      "a": "Da — svaki automobil na platformi može se rezervisati bez kreditne kartice. Plaćanje gotovinom, debitnom karticom ili kriptovalutama se prihvata kod partnera. Depozit (tipično 100 €) se zadržava bilo kojim načinom plaćanja koji koristite; automobili bez depozita su takođe jasno označeni u pretrazi."
     }
   },
   "destCards": {
@@ -437,11 +437,11 @@
     "h3": "Šta nudimo",
     "p3": "Nudimo preuzimanje širom zaliva: aerodrom Tivat Airport (8 km od bedema Budvaa), direktno ispred parkinga kod Riječnih vrata, kao i u više od 28 gradova od Herceg Novog do Ulcinja. Ekonomična hečbek vozila s lakoćom prolaze prilaznim putevima starom gradu. SUV modeli bez napora savladavaju Kosmačske serpentine. Svako vozilo ima fleksibilne opcije osiguranja, a prekogranična dokumentacija za Hrvatsku, Bosnu, Albaniju, Srbiju i Kosovo organizuje se u trenutku rezervacije.",
     "promiseTitle": "Naše obećanje",
-    "promise1": "Opcije osiguranja sa opcijom nulte franšize",
+    "promise1": "Besplatno Minimalno (treća strana) osiguranje uz svaku rezervaciju, sa plaćenim nadogradnjama od 8 €/dan",
     "promise2": "Imenovani predstavnik na dolascima u Tivtu, sa natpisom u ruci, vozilo parkirano ispred",
     "promise3": "Transparentne cijene, bez aerodromskih nameta, bez iznenađenja u politici goriva",
     "promise4": "Zelena karta organizovana za pet susjednih zemalja",
-    "promise5": "Besplatno otkazivanje za većinu rezervacija",
+    "promise5": "Besplatno otkazivanje na odabranim automobilima (oko 176 od ~380), avans se vraća ako se otkaže više od 24 sata prije preuzimanja",
     "promise6": "Pomoć na putu 24/7 tokom cijelog putovanja",
     "h4": "Lokalno znanje",
     "p4": "Pitajte nas kojih se jutara pristaju krstaši i popunjavaju parkinge u starom gradu do krajnjih granica, možemo Vam savjetovati da stignete prije 07:30 ili da umjesto toga skrenete u Dobrotu. Pitajte za pješačku stazu duž grebena Vrmca i možemo Vas uputiti ka početku staze kod Prčanja. Od reda vožnje trajekta Kamenari Lepetane do najmirnijeg sata na graničnom prelazu Debeli Brijeg, oslanjamo se na lokalno znanje partnera i vozača koji svakodnevno rade po zalivu.",

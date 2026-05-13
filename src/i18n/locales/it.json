@@ -172,13 +172,13 @@
     "metaTitle": "Pagina non trovata | Car Rental Ulcinj"
   },
   "home": {
-    "seoDesc": "Noleggio auto a lungo termine a Budva con tariffe mensili, assicurazione e CDW già inclusi.",
-    "title": "Noleggio Auto a Budva. Tariffe Mensili, Assicurazione Inclusa."
+    "seoDesc": "Noleggio auto a Ulcinj da 20 €/giorno con copertura Minima gratuita e upgrade a pagamento da 8 €/giorno. Consegna all'aeroporto di Podgorica (TGD), ritiro alla Velika Plaža e documenti per il confine albanese alla prenotazione.",
+    "title": "Noleggio Auto a Ulcinj. Da 20 €/giorno, assicurazione flessibile."
   },
   "about": {
     "title": "Chi Siamo",
     "subtitle": "Radicati nella Baia di Budva, forti di 15 anni di esperienza sulle strade costiere.",
-    "seoDesc": "Noleggi a Budva pensati per il lungo termine: tariffe settimanali e mensili, assicurazione inclusa, ritiro presso l'Aeroporto di Tivat Airport e supporto.",
+    "seoDesc": "Noleggi a Ulcinj pensati per il lungo soggiorno: tariffe settimanali e mensili, copertura Minima gratuita con upgrade a pagamento da 8 €/giorno, ritiro all'aeroporto di Podgorica e supporto per i viaggiatori basati sulla costa sud.",
     "heading1": "Car Rental Ulcinj",
     "p1": "Dal 2007, Car Rental Ulcinj aiuta i visitatori a esplorare le Bocche di Budva in piena libertà. Quella che è iniziata come una piccola flotta al servizio della zona portuale si è espansa in una delle operazioni di noleggio più affidabili della baia, mettendo in contatto i viaggiatori con veicoli adatti ai vicoli costieri stretti, ai tornanti di montagna e ai viaggi transfrontalieri.",
     "heading2": "Perché Abbiamo Iniziato",
@@ -275,29 +275,29 @@
       "desc": "Il tuo veicolo ti aspetta fuori dagli arrivi di Tivat Airport, a soli 8 km dalle mura medievali. Sulla strada della baia verso Budva in pochi minuti dall’atterraggio."
     },
     "fullInsurance": {
-      "title": "Copertura Completa",
-      "desc": "Ogni noleggio include CDW e responsabilità civile verso terzi. Passa alla franchigia zero se i tornanti del Lovcen o i vicoli stretti del centro storico ti preoccupano."
+      "title": "Opzioni di Assicurazione",
+      "desc": "Copertura Minima (responsabilità civile) gratuita su ogni prenotazione — Basic da 8 €/giorno, Full da 10 €/giorno, Full Plus senza deposito da 18 €/giorno."
     },
     "support": {
-      "title": "Assistenza 24 Ore su 24",
-      "desc": "Gomma a terra vicino a Risan? Chiave persa a Rafailovići? Il nostro team locale risponde giorno e notte, conosce ogni strada della baia."
+      "title": "Supporto Prenotazioni 24/7",
+      "desc": "Assistenza alla prenotazione a qualsiasi ora. L'assistenza stradale è fornita dal noleggiatore."
     },
     "noHiddenFees": {
-      "title": "Prezzi Trasparenti",
-      "desc": "Il prezzo sulla conferma è il prezzo allo sportello. Nessuna sorpresa sul carburante, nessun supplemento aeroportuale, nessun extra aggiunto al ritiro."
+      "title": "Nessuna Carta di Credito Necessaria",
+      "desc": "Tutte le auto sulla piattaforma sono prenotabili senza carta di credito — pagamento in contanti, carta di debito o cripto."
     },
     "freeCancellation": {
-      "title": "Cancellazione Flessibile",
-      "desc": "I piani cambiano, traghetti riprogrammati, il meteo chiude le strade di montagna. Cancella la maggior parte delle prenotazioni gratuitamente fino a una settimana prima del ritiro."
+      "title": "Cancellazione Gratuita",
+      "desc": "Su auto selezionate (circa il 46% della flotta): rimborso dell'acconto se cancelli più di 24 ore prima del ritiro."
     },
     "crossBorder": {
-      "title": "Pronto per Oltre Confine",
-      "desc": "Croazia via Debeli Brijeg, Bosnia attraverso Trebinje, Albania da Ulcinj, documentazione Carta Verde preparata al momento della prenotazione."
+      "title": "Oltre Confine",
+      "desc": "Permesso di confine a pagamento in tre livelli — paesi vicini, con Albania e Kosovo, o tutta l'UE + Svizzera."
     }
   },
   "testimonials": {
     "0": {
-      "text": "Siamo atterrati a Tivat Airport e abbiamo guidato direttamente a Rafailovići per il tramonto. La strada della baia era stupenda, acqua da un lato, scogliere dall’altro. La mattina dopo abbiamo affrontato la serpentina del Lovcen. L’auto ha gestito ogni tornante perfettamente. Tutto impeccabile dall’inizio alla fine."
+      "text": "Renault Clio prenotata in due clic per l'aeroporto di Podgorica. Il fornitore ci ha accolti agli arrivi, in strada in pochi minuti, e siamo arrivati alla Velika Plaža prima del tramonto. Tre giorni di kitesurf a Copacabana, un pranzo a Shkodër, nessuna carta di credito necessaria allo sportello e i documenti per il confine erano pronti nel cruscotto."
     },
     "1": {
       "text": "Terza volta che noleggio a Budva e il processo di prenotazione diventa sempre più semplice. Questa volta ho guidato verso sud fino a Budva e su fino a Cetinje in un solo giorno. Avere un’auto rende destinazioni come il Mausoleo di Njegos e il Lago di Skadar davvero accessibili invece che teoriche."
@@ -309,19 +309,19 @@
   "faqItems": {
     "0": {
       "q": "Cosa devo portare per il ritiro?",
-      "a": "Una patente di guida valida, il passaporto o documento d’identità e una carta di credito fisica intestata al conducente principale. Le patenti senza caratteri latini richiedono anche una Patente Internazionale di Guida."
+      "a": "Una patente di guida valida e il passaporto o documento d'identità. Nessuna carta di credito è richiesta su nessuna auto della piattaforma — contanti, carta di debito e cripto sono accettati dal noleggiatore. Le patenti senza caratteri latini richiedono anche una Patente Internazionale di Guida."
     },
     "1": {
-      "q": "Posso attraversare il confine con la Croazia o altri paesi?",
-      "a": "Certamente. La Croazia dista circa due ore tramite il checkpoint di Debeli Brijeg, includiamo la Carta Verde alla prenotazione. Bosnia, Albania, Serbia e Kosovo sono disponibili con preavviso."
+      "q": "Posso guidare in Croazia, Albania o Italia?",
+      "a": "Sì — il viaggio oltre confine è venduto come permesso a pagamento in tre livelli: (1) Croazia, Bosnia ed Erzegovina e Serbia (Carta Verde non necessaria); (2) gli stessi più Albania e Kosovo (Carta Verde fornita); (3) Albania, Kosovo, Croazia, Bosnia, Serbia, Macedonia, tutti i paesi UE e la Svizzera (Carta Verde fornita). Il livello giusto per il tuo viaggio è mostrato al checkout."
     },
     "2": {
       "q": "Quanti anni devo avere?",
-      "a": "Il minimo è 21 anni con almeno due anni di esperienza di guida. I conducenti sotto i 25 pagano un supplemento giovane conducente, l’importo esatto dipende dalla categoria del veicolo."
+      "a": "Età ed esperienza di guida richieste variano per veicolo. Le auto più accessibili sulla piattaforma sono disponibili a partire da 18 anni con 1+ anno di esperienza di guida — filtra per la tua età ed esperienza per vedere le auto disponibili per te."
     },
     "3": {
       "q": "Cosa include il prezzo del noleggio?",
-      "a": "Ogni prenotazione include assicurazione CDW, responsabilità civile verso terzi, IVA e kit di sicurezza stradale. La maggior parte dei veicoli offre chilometraggio illimitato, verifica l’annuncio individuale per i dettagli."
+      "a": "Ogni prenotazione include la copertura Minima gratuita (responsabilità civile) con un deposito tipico di 100 €, più un secondo conducente gratuito e l'IVA. Gli upgrade assicurativi sono extra a pagamento: Basic da 8 €/giorno, Full da 10 €/giorno e Full Plus senza deposito da 18 €/giorno. Il chilometraggio illimitato è incluso sulla maggior parte delle auto (376 su circa 380)."
     },
     "4": {
       "q": "Come ritiro l’auto all’aeroporto di Tivat Airport?",
@@ -332,12 +332,12 @@
       "a": "Sì, ritira e riconsegna in luoghi diversi in oltre 28 punti in Montenegro. Un supplemento per il solo andata potrebbe essere applicato in base alla distanza tra i punti."
     },
     "6": {
-      "q": "Cosa succede se devo cancellare?",
-      "a": "La maggior parte dei veicoli offre cancellazione gratuita fino a sette giorni prima del ritiro. Le classi premium e cabriolet richiedono trenta giorni. Una piccola commissione di elaborazione si applica a tutte le cancellazioni."
+      "q": "Qual è la politica di cancellazione?",
+      "a": "La cancellazione gratuita è disponibile su auto selezionate (circa 176 su circa 380, chiaramente segnate nei risultati di ricerca). Su queste auto, l'acconto completo viene rimborsato se cancelli più di 24 ore prima del ritiro; le cancellazioni entro 24 ore dal ritiro non sono rimborsabili."
     },
     "7": {
       "q": "È richiesto un deposito cauzionale?",
-      "a": "La maggior parte delle auto richiede tra €100 e €350 bloccati su una carta di credito. Alcuni veicoli economici sono senza deposito, chiaramente indicati nei risultati di ricerca."
+      "a": "La maggior parte delle auto trattiene un deposito di 100 € al ritiro. 47 auto sulla piattaforma non richiedono alcun deposito, e altre 124 offrono un'opzione senza deposito come servizio a pagamento. La scelta del livello assicurativo Full Plus (da 18 €/giorno) elimina anch'essa il deposito. L'importo esatto (se previsto) è chiaramente indicato prima della prenotazione."
     },
     "8": {
       "q": "C’è un limite di chilometraggio?",
@@ -353,7 +353,7 @@
     },
     "11": {
       "q": "Posso noleggiare senza carta di credito?",
-      "a": "Un numero limitato di veicoli è disponibile senza carta di credito. Cerca il filtro senza deposito nella ricerca per punto di ritiro."
+      "a": "Sì — tutte le auto sulla piattaforma possono essere prenotate senza carta di credito. Pagamento in contanti, carta di debito o cripto è accettato dal noleggiatore. Il deposito (tipicamente 100 €) viene trattenuto tramite il metodo di pagamento scelto; le auto senza deposito sono anch'esse chiaramente indicate nella ricerca."
     }
   },
   "destCards": {
@@ -445,7 +445,7 @@
     "promise2": "Un rappresentante con nome agli arrivi di Tivat Airport, cartello in mano, veicolo parcheggiato fuori",
     "promise3": "Prezzi trasparenti, nessun supplemento aeroportuale, nessuna sorpresa sulla politica carburante",
     "promise4": "Documentazione Carta Verde organizzata per cinque paesi confinanti",
-    "promise5": "Cancellazione gratuita fino a sette giorni prima della data concordata di ritiro del veicolo",
+    "promise5": "Cancellazione gratuita su auto selezionate (circa 176 su ~380), acconto integrale rimborsato in caso di cancellazione più di 24 ore prima del ritiro",
     "promise6": "Assistenza stradale 24 ore su 24, da Budva a Zabljak e ovunque nel mezzo",
     "h4": "Percorriamo Queste Strade Ogni Giorno",
     "p4": "Chiedici quali mattine le navi da crociera attraccano e riempiono i parcheggi del centro storico fino a scoppiare. Ti consiglieremo di arrivare prima delle 07:30 o di deviare verso Bečići. Chiedici dell’escursione sulla cresta del Vrmac e ti indicheremo esattamente dove lasciare l’auto all’inizio del sentiero vicino a Prcanj. Dall’orario del traghetto Kamenari-Lepetane all’ora più tranquilla al checkpoint di Debeli Brijeg, i nostri consigli vengono dalla guida quotidiana, non da una guida ristampata.",

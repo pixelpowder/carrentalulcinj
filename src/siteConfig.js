@@ -241,33 +241,33 @@ const siteConfig = {
   ],
 
   features: [
-    { icon: "map-pin", title: "Ulcinj Town Pickup", description: "Meet us at Mala Plaža in Ulcinj town, at your Velika Plaža hotel, or at the Stari Grad car park. Podgorica Airport pickup available, 70 km north via the new highway." },
-    { icon: "shield-check", title: "Insurance Options", description: "Insurance tiers from basic third-party up to no-deposit zero-excess. Sensible on the winding road down to Valdanos and the narrow Stari Grad lanes." },
-    { icon: "clock", title: "24/7 Southern-Coast Support", description: "A late flight into Podgorica, a puncture on the Ada Bojana sand track, a Valdanos bay sunset you can't leave, we answer the phone any hour." },
-    { icon: "ban", title: "Transparent Prices", description: "No summer premium on the confirmation page. The rate you book is the rate you pay, taxes, fees and unlimited mileage already inside." },
-    { icon: "refresh-cw", title: "Flexible Cancellation", description: "Plans change, flights shift, the weather turns. Cancel most vehicles free up to seven days before pickup." },
-    { icon: "globe", title: "Albania-Ready Cross-Border", description: "The Sukobin-Muriqan crossing to Albania is 20 minutes from Ulcinj. Green Card and Albanian border insurance sorted at booking." },
+    { icon: "map-pin", title: "Airport Pickup", description: "Pick up at Podgorica Airport (TGD) arrivals, 70 km north of Ulcinj via the Sozina tunnel — the supplier meets you with your name on a sign." },
+    { icon: "shield-check", title: "Insurance Options", description: "Free Minimum (third-party) cover on every booking — Basic from €8/day, Full from €10/day, no-deposit Full Plus from €18/day." },
+    { icon: "clock", title: "24/7 Booking Support", description: "Booking help around the clock; roadside assistance is provided by the rental supplier." },
+    { icon: "ban", title: "No Credit Card Needed", description: "Every car on the platform is bookable without a credit card — pay by cash, debit card or crypto." },
+    { icon: "refresh-cw", title: "Free Cancellation", description: "On selected cars (around 46% of the fleet): refund of advance payment if you cancel more than 24 hours before pickup." },
+    { icon: "globe", title: "Cross-Border", description: "Paid cross-border permit at three tiers — neighbours, including Albania & Kosovo, or all-EU + Switzerland." },
   ],
 
   testimonials: [
     { name: "Astrit & Blerta", location: "Pristina, Kosovo", text: "Drove down from Pristina for a week at Velika Plaža. Picked up a Skoda in Ulcinj town, kids on the long beach all day, dinner on Ada Bojana twice. Car return at the Albanian border dropped on the way home, paperwork sorted in ten minutes.", rating: 5, avatar: "/img/avatar-1.webp" },
-    { name: "Anja & Tomas", location: "Berlin, Germany", text: "Flew Podgorica and took a Jeep down to Ulcinj for nine days. Kitesurfing lessons on Long Beach, day trips to Shkodër and Lake Skadar, an evening at Valdanos olive groves. Honest pricing, flexible drop-off, would book again.", rating: 5, avatar: "/img/avatar-2.webp" },
+    { name: "Anja & Tomas", location: "Berlin, Germany", text: "Flew Podgorica and took a Land Rover down to Ulcinj for nine days. Kitesurfing lessons on Long Beach, day trips to Shkodër and Lake Skadar, an evening at Valdanos olive groves. Honest pricing, flexible drop-off, would book again.", rating: 5, avatar: "/img/avatar-2.webp" },
     { name: "The Greco Family", location: "Bari, Italy", text: "Ferry from Bari to Bar, a Transporter waiting in Ulcinj the next morning. Seven of us, beach week at Velika Plaža, two nights in Shkodër across the Albanian border, then the drive back along the coast. Effortless from start to finish.", rating: 5, avatar: "/img/avatar-3.webp" },
   ],
 
   faq: [
-    { q: "What do I bring to pick up the car?", a: "A valid driving licence, passport or ID, and a credit card in the lead driver's name. Non-Latin-script licences need an International Driving Permit alongside." },
-    
-    { q: "How old do I need to be?", a: "21 years with at least two years of driving experience. Drivers 21-24 pay a young-driver surcharge that varies by car class." },
-    { q: "Is beach parking included at Velika Plaža?", a: "The rental includes the car and the usual taxes, not parking. Most Long Beach access points charge €2-4 per day in season. We'll brief you on which entries are free and which paid at pickup." },
-    { q: "Can I take the car into Albania?", a: "Yes, the Sukobin-Muriqan border crossing to Albania is 20 minutes south. Green Card and Albanian border insurance are arranged at booking. Let us know you're heading to Shkodër or further so we add the paperwork." },
-    { q: "Can I drive on Ada Bojana's sand tracks?", a: "The paved road ends near the Ada Bojana bridge. From there the sand tracks to the fish restaurants and the river mouth are suitable for SUVs and 4x4s only, not economy cars. We'll advise at pickup." },
-    { q: "Summer-season price premium?", a: "No, the price we quote is the price you pay, year-round. July and August availability is tight though, so book early." },
-    { q: "Is a deposit required?", a: "Most vehicles hold €100-€350 on a credit card. Some economy options are deposit-free, look for the 'no deposit' filter in the search results." },
-    { q: "Is there a mileage limit?", a: "Most rentals are unlimited mileage. Budget economy vehicles sometimes cap at 200 km/day, visible before you confirm." },
-    { q: "Do you meet late flights at Podgorica?", a: "Every arriving flight, no surcharge, though Podgorica is a 70 km drive from Ulcinj, so allow an hour on the road after pickup. Most guests overnight in Podgorica and drive south in daylight." },
-    { q: "Can I rent without a credit card?", a: "A few economy models accept debit with a larger deposit. Filter for 'no credit card required' at booking." },
-    { q: "How hot does Ulcinj get in summer?", a: "Ulcinj is the warmest, sunniest spot on Montenegro's coast, July-August regularly tops 35°C. Every car comes with working air conditioning; we test it at handover." },
+    { q: "Can I drop off at a different location?", a: "Yes, one-way rentals are supported across 28+ delivery points in Montenegro. Choose different pickup and dropoff locations during booking; some routes carry a small relocation fee." },
+    { q: "What documents do I need?", a: "A valid driving licence and passport or ID. Most cars accept cash, debit card or crypto for payment — a credit card is not required on any booking on the platform. International Driving Permit may be needed for non-EU licences depending on the supplier." },
+    { q: "Can I drive to Croatia, Albania or Italy?", a: "Yes — cross-border travel is sold as a paid permit at three tiers: (1) Croatia, Bosnia & Herzegovina and Serbia (no Green Card needed); (2) the same plus Albania and Kosovo (Green Card provided); (3) Albania, Kosovo, Croatia, Bosnia, Serbia, Macedonia, all EU countries and Switzerland (Green Card provided). The right tier for your trip is shown at checkout." },
+    { q: "Is there a minimum age?", a: "Age and required driving experience vary by vehicle — the lowest cars on the platform start from 18+ years old with 1+ years driving experience. Filter by your age and experience to see the cars available to you." },
+    { q: "What's included in the price?", a: "Every booking includes the free Minimum (third-party liability) cover with a typical €100 deposit, plus a free second driver and VAT. Insurance upgrades are paid extras: Basic from €8/day, Full from €10/day, and a no-deposit Full Plus from €18/day. Unlimited mileage is included on most cars (376 of around 380)." },
+    { q: "How does pickup work at the airport?", a: "The supplier meets you at the arrivals hall with your name on a sign and walks you to the car. No shuttle is involved at most pickup points." },
+    { q: "Can I cancel my booking?", a: "Free cancellation is available on selected cars (around 176 of ~380, marked in search). On those cars, the full advance payment is refunded if you cancel more than 24 hours before pickup; cancellations within 24 hours are non-refundable." },
+    { q: "Is a deposit required?", a: "Most cars hold a €100 deposit at pickup. 47 cars on the platform require no deposit, and a further 124 offer a no-deposit option as a paid service. Choosing the Full Plus insurance tier (from €18/day) also waives the deposit." },
+    { q: "What happens if I exceed the mileage limit?", a: "Unlimited mileage is included on the vast majority of cars (376 of ~380). For the few cars with a mileage limit, an additional charge per extra kilometre applies — shown on the listing before you book." },
+    { q: "Are there hidden costs?", a: "The price you see at checkout includes the rental, your chosen insurance tier and any extras you add. Optional paid add-ons (insurance upgrades, child seats from €14, theft protection from €14, personal accident insurance from €14, cross-border permit, winter pack, etc.) are all selected by you before payment — nothing is added later." },
+    { q: "How much is the down payment?", a: "An advance payment is taken when you confirm the booking; the remaining balance is paid to the supplier at pickup. The exact split is shown on each car's checkout page before you commit." },
+    { q: "Can I rent without a credit card?", a: "Yes — every car on the platform can be booked without a credit card. Cash, debit card and crypto are accepted at the supplier." },
   ],
 
   locations: [

@@ -172,13 +172,13 @@
     "metaTitle": "Seite nicht gefunden | Car Rental Ulcinj"
   },
   "home": {
-    "seoDesc": "Langfristmiete in Budva mit Monatstarif, Versicherung und CDW inklusive.",
-    "title": "Autovermietung in Budva. Monatstarife, Versicherung inklusive."
+    "seoDesc": "Autovermietung Ulcinj ab 20 €/Tag mit kostenloser Mindestversicherung und kostenpflichtigen Upgrades ab 8 €/Tag. Übergabe am Flughafen Podgorica (TGD), Abholung an der Velika Plaža und Albanien-Grenzpapiere bei Buchung.",
+    "title": "Autovermietung in Ulcinj. Ab 20 €/Tag, flexible Versicherung."
   },
   "about": {
     "title": "Über uns",
     "subtitle": "Verwurzelt in der Ulcinj-Küste, gestützt auf 15 Jahre Erfahrung auf Küstenstraßen.",
-    "seoDesc": "Mietwagen in Budva für längere Zeiträume: Wochen- und Monatstarife, Versicherung pauschal enthalten, Abholung am Flughafen Tivat Airport, ideale Lösung für.",
+    "seoDesc": "Mietwagen in Ulcinj für längere Aufenthalte: Wochen- und Monatstarife, kostenlose Mindestversicherung mit kostenpflichtigen Upgrades ab 8 €/Tag, Abholung am Flughafen Podgorica und Unterstützung für Reisende an der Südküste.",
     "heading1": "Car Rental Ulcinj",
     "p1": "Seit 2007 hilft Car Rental Ulcinj Besuchern, die Bucht von Budva auf eigene Faust zu erkunden. Was als kleine Flotte im Hafengebiet begann, hat sich zu einem der zuverlässigsten Mietwagenunternehmen der Bucht entwickelt, mit Fahrzeugen für schmale Küstenstraßen, Bergserpentinen und grenzüberschreitende Ausflüge.",
     "heading2": "Warum wir angefangen haben",
@@ -275,29 +275,29 @@
       "desc": "Ihr Fahrzeug wartet vor der Ankunftshalle in Tivat Airport, nur 8 km von den mittelalterlichen Mauern. Auf der Küstenstraße nach Budva innerhalb von Minuten nach der Landung."
     },
     "fullInsurance": {
-      "title": "Umfassender Versicherungsschutz",
-      "desc": "Jede Anmietung beinhaltet Versicherungsoptionen und Haftpflicht. Upgraden Sie zur Selbstbeteiligungsfreistellung, wenn die Kosmač-Serpentinen oder engen Altstadtgassen Sie nervös machen."
+      "title": "Versicherungsoptionen",
+      "desc": "Kostenlose Mindestversicherung (Haftpflicht) bei jeder Buchung — Basic ab 8 €/Tag, Voll ab 10 €/Tag, kautionsfreie Voll Plus ab 18 €/Tag."
     },
     "support": {
-      "title": "Rund-um-die-Uhr-Hilfe",
-      "desc": "Reifenpanne bei Risan? Schlüssel in Rafailovići verloren? Unser lokales Team ist Tag und Nacht erreichbar, sie kennen jede Straße rund um die Bucht."
+      "title": "24/7-Buchungssupport",
+      "desc": "Buchungshilfe rund um die Uhr. Pannenhilfe wird vom Mietwagenanbieter bereitgestellt."
     },
     "noHiddenFees": {
-      "title": "Transparente Preise",
-      "desc": "Der Preis auf Ihrer Bestätigung ist der Preis am Schalter. Keine Kraftstoffüberraschungen, keine Flughafengebühren, keine versteckten Extras bei der Abholung."
+      "title": "Keine Kreditkarte erforderlich",
+      "desc": "Jedes Auto auf der Plattform ist ohne Kreditkarte buchbar — Zahlung per Bargeld, Debitkarte oder Krypto."
     },
     "freeCancellation": {
-      "title": "Flexible Stornierung",
-      "desc": "Pläne ändern sich, Fähren werden umgeplant, Wetter sperrt Bergstraßen. Stornieren Sie die meisten Buchungen kostenlos bis eine Woche vor Ihrem Abholdatum."
+      "title": "Kostenlose Stornierung",
+      "desc": "Bei ausgewählten Autos (rund 46 % der Flotte): Erstattung der Anzahlung, wenn Sie mehr als 24 Stunden vor Abholung stornieren."
     },
     "crossBorder": {
-      "title": "Grenzübergang-bereit",
-      "desc": "Kroatien über Debeli Brijeg, Bosnien über Trebinje, Albanien ab Ulcinj, Grüne-Karte-Papiere werden bei der Buchung vorbereitet."
+      "title": "Grenzübertritt",
+      "desc": "Kostenpflichtige Grenzgenehmigung in drei Stufen — Nachbarländer, mit Albanien & Kosovo, oder gesamte EU + Schweiz."
     }
   },
   "testimonials": {
     "0": {
-      "text": "Wir landeten in Tivat Airport und fuhren direkt nach Rafailovići zum Sonnenuntergang. Die Küstenstraße war atemberaubend, Wasser auf der einen Seite, Klippen auf der anderen. Am nächsten Morgen nahmen wir die Kosmač-Serpentine. Das Auto meisterte jede Kurve perfekt. Nahtlos von Anfang bis Ende."
+      "text": "Renault Clio in zwei Klicks für Podgorica Airport gebucht. Der Anbieter empfing uns am Ankunftsausgang, in Minuten auf der Straße, und vor Sonnenuntergang waren wir an der Velika Plaža. Drei Tage Kitesurfen am Copacabana, ein Mittagessen in Shkodër, keine Kreditkarte am Schalter nötig, und die Grenzpapiere lagen im Handschuhfach bereit."
     },
     "1": {
       "text": "Zum dritten Mal einen Mietwagen in Budva, und der Buchungsprozess wird immer einfacher. Diesmal fuhr ich südlich nach Budva und hoch nach Cetinje an einem Tag. Mit einem Auto werden Ziele wie das Njegos-Mausoleum und der Skutarisee tatsächlich erreichbar statt nur theoretisch."
@@ -308,36 +308,36 @@
   },
   "faqItems": {
     "0": {
-      "q": "Was muss ich zur Abholung mitbringen?",
-      "a": "Einen gültigen Führerschein, Ihren Reisepass oder Personalausweis und eine physische Kreditkarte auf den Namen des Hauptfahrers. Führerscheine ohne lateinische Schrift erfordern zusätzlich einen internationalen Führerschein."
+      "q": "Welche Dokumente benötige ich zur Abholung?",
+      "a": "Einen gültigen Führerschein und Reisepass oder Personalausweis. Eine Kreditkarte ist auf der Plattform für kein Auto erforderlich — Bargeld, Debitkarte und Krypto werden beim Anbieter akzeptiert. Führerscheine ohne lateinische Schrift erfordern zusätzlich einen internationalen Führerschein."
     },
     "1": {
-      "q": "Kann ich nach Kroatien oder in andere Länder fahren?",
-      "a": "Selbstverständlich. Kroatien ist etwa zwei Stunden über den Grenzübergang Debeli Brijeg entfernt, die Grüne Karte ist bei der Buchung inklusive. Bosnien, Albanien, Serbien und Kosovo sind mit Voranmeldung ebenfalls möglich."
+      "q": "Kann ich nach Kroatien, Albanien oder andere Länder fahren?",
+      "a": "Ja — Grenzübertritt wird als kostenpflichtige Genehmigung in drei Stufen verkauft: (1) Kroatien, Bosnien & Herzegowina und Serbien (keine Grüne Karte erforderlich); (2) dieselben plus Albanien und Kosovo (Grüne Karte wird gestellt); (3) Albanien, Kosovo, Kroatien, Bosnien, Serbien, Mazedonien, alle EU-Länder und die Schweiz (Grüne Karte wird gestellt). Die richtige Stufe für Ihre Reise wird beim Checkout angezeigt."
     },
     "2": {
       "q": "Wie alt muss ich sein?",
-      "a": "Das Mindestalter beträgt 21 Jahre mit mindestens zwei Jahren Fahrerfahrung. Fahrer unter 25 zahlen einen Jungfahrerzuschlag, der genaue Betrag hängt von der Fahrzeugkategorie ab."
+      "a": "Alter und erforderliche Fahrerfahrung variieren je nach Fahrzeug. Die niedrigsten Fahrzeuge auf der Plattform sind ab 18 Jahren mit 1+ Jahr Fahrerfahrung verfügbar — filtern Sie nach Ihrem Alter und Ihrer Erfahrung, um die für Sie verfügbaren Autos zu sehen."
     },
     "3": {
       "q": "Was ist im Mietpreis enthalten?",
-      "a": "Jede Buchung beinhaltet Versicherungsoptionenversicherung, Haftpflicht, MwSt. und ein Pannenhilfe-Set. Die meisten Fahrzeuge bieten unbegrenzte Kilometer, Details finden Sie in der jeweiligen Anzeige."
+      "a": "Jede Buchung beinhaltet die kostenlose Mindestversicherung (Haftpflicht) mit einer typischen Kaution von 100 €, plus einen kostenlosen zweiten Fahrer und MwSt. Versicherungs-Upgrades sind kostenpflichtige Extras: Basic ab 8 €/Tag, Voll ab 10 €/Tag und kautionsfreie Voll Plus ab 18 €/Tag. Unbegrenzte Kilometer sind bei den meisten Autos enthalten (376 von rund 380)."
     },
     "4": {
-      "q": "Wie hole ich das Auto am Flughafen Tivat Airport ab?",
-      "a": "Ein Vertreter empfängt Sie in der Ankunftshalle von Tivat Airport mit einem Namensschild. Ihr Auto steht im Flughafenparkhaus, nur wenige Schritte entfernt. Die Fahrt zur Altstadt von Budva dauert etwa fünfzehn Minuten."
+      "q": "Wie hole ich das Auto am Flughafen Podgorica ab?",
+      "a": "Ein Vertreter empfängt Sie in der Ankunftshalle des Flughafens Podgorica mit einem Namensschild. Ihr Auto steht im Flughafenparkhaus, nur wenige Schritte entfernt. Die Fahrt nach Süden über den Sozina-Tunnel und Bar dauert rund 70 Minuten."
     },
     "5": {
-      "q": "Was ist, wenn ich stornieren muss?",
-      "a": "Die meisten Fahrzeuge bieten kostenlose Stornierung bis sieben Tage vor der Abholung. Premium- und Cabrio-Klassen erfordern dreißig Tage. Bei allen Stornierungen fällt eine kleine Bearbeitungsgebühr an."
+      "q": "Brauche ich eine Kaution?",
+      "a": "Die meisten Autos halten eine Kaution von 100 € bei Abholung ein. 47 Autos auf der Plattform erfordern überhaupt keine Kaution, weitere 124 bieten eine kautionsfreie Option als kostenpflichtigen Service. Die Voll-Plus-Versicherungsstufe (ab 18 €/Tag) hebt die Kaution ebenfalls auf. Der genaue Betrag (falls vorhanden) wird vor der Buchung deutlich angezeigt."
     },
     "6": {
-      "q": "Brauche ich eine Kaution?",
-      "a": "Die meisten Autos erfordern zwischen 100 € und 350 € als Kreditkartenkaution. Einige Kleinwagen sind kautionsfrei, diese sind in den Suchergebnissen deutlich gekennzeichnet."
+      "q": "Was ist die Stornierungsbedingung?",
+      "a": "Kostenlose Stornierung ist bei ausgewählten Autos verfügbar (rund 176 von etwa 380, in den Suchergebnissen deutlich markiert). Bei diesen Autos wird die volle Anzahlung erstattet, wenn Sie mehr als 24 Stunden vor Abholung stornieren; Stornierungen innerhalb von 24 Stunden vor Abholung sind nicht erstattungsfähig."
     },
     "7": {
       "q": "Gibt es eine Kilometerbegrenzung?",
-      "a": "Viele Fahrzeuge bieten unbegrenzte Kilometer. Bei begrenzter Kilometerzahl wird ein Kilometersatz berechnet, dieser ist vor der Bestätigung immer sichtbar."
+      "a": "Unbegrenzte Kilometer sind auf der überwiegenden Mehrheit der Autos enthalten (376 von ~380). Bei den wenigen Autos mit Kilometerbegrenzung fällt eine zusätzliche Gebühr pro zusätzlichem Kilometer an — wird vor der Buchung in der Anzeige gezeigt."
     },
     "8": {
       "q": "Gibt es versteckte Kosten?",
@@ -345,11 +345,11 @@
     },
     "9": {
       "q": "Wie hoch ist die Anzahlung?",
-      "a": "Eine Vorauszahlung von 15-20 % sichert Ihre Reservierung. Der Restbetrag wird direkt beim Mietwagenanbieter bei der Abholung beglichen."
+      "a": "Eine Anzahlung wird bei Bestätigung der Buchung erhoben; der Restbetrag wird beim Anbieter bei Abholung bezahlt. Die genaue Aufteilung wird auf der Checkout-Seite jedes Autos angezeigt."
     },
     "10": {
       "q": "Kann ich ohne Kreditkarte mieten?",
-      "a": "Einige Fahrzeuge sind ohne Kreditkartenerfordernis verfügbar. Achten Sie auf den Ohne-Kaution-Filter bei der Suche nach Abholort."
+      "a": "Ja — jedes Auto auf der Plattform kann ohne Kreditkarte gebucht werden. Bargeld, Debitkarte und Krypto werden beim Anbieter akzeptiert. Die Kaution (typischerweise 100 €) wird über das von Ihnen gewählte Zahlungsmittel hinterlegt; kautionsfreie Autos sind in der Suche ebenfalls deutlich markiert."
     }
   },
   "destCards": {
@@ -441,7 +441,7 @@
     "promise2": "Ein namentlicher Vertreter bei der Ankunft in Tivat Airport, mit Schild, Fahrzeug vor der Tür",
     "promise3": "Transparente Preise, keine Flughafengebühren, keine Kraftstoffüberraschungen",
     "promise4": "Grüne-Karte-Dokumente für die fünf angrenzenden Länder vorab erledigt",
-    "promise5": "Kostenlose Stornierung bis sieben Tage vor Ihrem Abholdatum",
+    "promise5": "Kostenlose Stornierung bei ausgewählten Autos (rund 176 von ~380): volle Anzahlung erstattet bei Stornierung mehr als 24 Stunden vor Abholung",
     "promise6": "Rund-um-die-Uhr Pannenhilfe, von Budva bis Žabljak und überall dazwischen",
     "h4": "Wir fahren diese Straßen jeden Tag",
     "p4": "Fragen Sie uns, an welchen Morgen die Kreuzfahrtschiffe anlegen und die Altstadtparkplätze zum Bersten füllen. Wir raten Ihnen, vor 07:30 anzukommen oder nach Bečići auszuweichen. Fragen Sie nach der Vrmac-Gipfelwanderung, und wir zeigen Ihnen genau, wo Sie das Auto am Wanderparkplatz bei Prčanj abstellen. Vom Fährplan Kamenari, Lepetane bis zur ruhigsten Stunde am Grenzübergang Debeli Brijeg, unsere Tipps stammen aus dem täglichen Fahren, nicht aus einem nachgedruckten Reiseführer.",

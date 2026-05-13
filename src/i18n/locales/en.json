@@ -130,7 +130,7 @@
   "book": {
     "title": "Find Your Car",
     "seoTitle": "Book a Car in Ulcinj",
-    "seoDesc": "Weekly and monthly rental cars for Ulcinj and the southern coast. Insurance included, Podgorica Airport handover, and one flat price covering Velika Plaža to Ada Bojana.",
+    "seoDesc": "Weekly and monthly rental cars for Ulcinj and the southern coast. Free Minimum cover with paid upgrades from €8/day, Podgorica Airport handover, and one flat price covering Velika Plaža to Ada Bojana.",
     "iframeTitle": "Car rental booking"
   },
   "footer": {
@@ -169,13 +169,13 @@
     "metaTitle": "Page Not Found | Car Rental Ulcinj"
   },
   "home": {
-    "seoDesc": "Ulcinj car rental with monthly rates and insurance included. Podgorica Airport (TGD) handover, Velika Plaža pickup, and Albanian border paperwork at booking.",
-    "title": "Car Rental in Ulcinj. Monthly Rates, Insurance Included."
+    "seoDesc": "Ulcinj car rental from €20/day with free Minimum cover and paid upgrades from €8/day. Podgorica Airport (TGD) handover, Velika Plaža pickup, and Albanian border paperwork at booking.",
+    "title": "Car Rental in Ulcinj. From €20/day, Flexible Insurance."
   },
   "about": {
     "title": "About Us",
     "subtitle": "Car rental in Ulcinj with Podgorica Airport pickup, by locals who know the Bojana road, the kite beaches, and which fish restaurant to book first.",
-    "seoDesc": "Ulcinj rentals built for the long stay: weekly and monthly rates, insurance bundled in, Podgorica Airport collection, and support for travellers basing on the southern coast.",
+    "seoDesc": "Ulcinj rentals built for the long stay: weekly and monthly rates, free Minimum cover with paid upgrades from €8/day, Podgorica Airport collection, and support for travellers basing on the southern coast.",
     "heading1": "Car Rental Ulcinj",
     "p1": "Car Rental Ulcinj connects travellers with reliable rental cars on Montenegro's southern coast. We work with trusted local operators to offer a range of vehicles, from compact city cars for Stari Grad's cobbles to SUVs for the sand tracks out to Ada Bojana.",
     "heading2": "Why a Car Makes Sense in Ulcinj",
@@ -189,11 +189,11 @@
     "p3Link3": "Ulcinj town centre",
     "p3d": ", and locations throughout the coast and interior.",
     "promiseTitle": "Our Promise",
-    "promise1": "Comprehensive cover with zero-excess upgrade available",
+    "promise1": "Free Minimum (third-party) cover on every booking, with paid upgrades from €8/day",
     "promise2": "Podgorica Airport meet-and-greet or Ulcinj door delivery, your car waits where you need it",
     "promise3": "Transparent pricing, the quoted figure is the final figure",
     "promise4": "Cross-border travel to Albania, Kosovo, Bosnia, Serbia, and Croatia with Green Card arranged",
-    "promise5": "Free cancellation on most reservations",
+    "promise5": "Free cancellation on selected cars (around 176 of ~380), refunded if cancelled more than 24 hours before pickup",
     "promise6": "Local rental providers, flexible insurance tiers and low or no-deposit options",
     "localTitle": "Local Knowledge",
     "localText": "Based in Ulcinj, we know every stretch of road along the southern coast, the best routes, the overlooked detours, and the parking tricks that guidebooks never mention. Whether you are heading from",
@@ -209,7 +209,7 @@
   "montenegro": {
     "title": "Montenegro Driving Guide",
     "subtitle": "Coastal roads, mountain switchbacks, and border crossings, from an Ulcinj-based driver who has covered them all from the southern coast up to Durmitor.",
-    "seoDesc": "Montenegro monthly car rental based in Ulcinj: unlimited km for inland trips to Lake Skadar, Durmitor, and Ostrog. Long-stay insurance, four-season tyres."
+    "seoDesc": "Montenegro monthly car rental based in Ulcinj: unlimited mileage on most cars (376 of ~380) for inland trips to Lake Skadar, Durmitor, and Ostrog. Free Minimum cover with paid upgrades from €8/day."
   },
   "border-crossing": {
     "title": "Driving Across Borders from Ulcinj",
@@ -237,29 +237,29 @@
       "desc": "Your vehicle waits outside Podgorica Airport (TGD) arrivals, 70 km north of Ulcinj via the Sozina tunnel and Bar. On the road south within minutes of touching down."
     },
     "fullInsurance": {
-      "title": "Comprehensive Cover",
-      "desc": "Every rental includes CDW and third-party liability. Upgrade to zero excess if Stari Grad's cobbles or the unpaved spur to Ada Bojana make you nervous."
+      "title": "Insurance Options",
+      "desc": "Free Minimum (third-party) cover on every booking — Basic from €8/day, Full from €10/day, no-deposit Full Plus from €18/day."
     },
     "support": {
-      "title": "Round-the-Clock Assistance",
-      "desc": "Flat tyre on the Bojana road? Misplaced a key at Valdanos? Our local team answers day and night, they know every stretch of the southern coast."
+      "title": "24/7 Booking Support",
+      "desc": "Booking help around the clock. Roadside assistance is provided by the rental supplier."
     },
     "noHiddenFees": {
-      "title": "Transparent Pricing",
-      "desc": "The figure on your confirmation is the figure at the desk. No fuel surprises, no airport levies, no extras sneaked in at collection."
+      "title": "No Credit Card Needed",
+      "desc": "Every car on the platform is bookable without a credit card — pay by cash, debit card or crypto."
     },
     "freeCancellation": {
-      "title": "Flexible Cancellation",
-      "desc": "Plans shift, kitesurf conditions change, the Sukobin queue on a Saturday is unpredictable. Cancel most bookings free up to a week before your collection date."
+      "title": "Free Cancellation",
+      "desc": "On selected cars (around 46% of the fleet): refund of advance payment if you cancel more than 24 hours before pickup."
     },
     "crossBorder": {
-      "title": "Cross-Border Ready",
-      "desc": "Croatia via Debeli Brijeg, Bosnia through Trebinje, Albania from Ulcinj, Green Card paperwork prepared at booking time."
+      "title": "Cross-Border",
+      "desc": "Paid cross-border permit at three tiers — neighbours, including Albania & Kosovo, or all-EU + Switzerland."
     }
   },
   "testimonials": {
     "0": {
-      "text": "Flew into Podgorica (TGD) and picked the car up right at arrivals. Seventy kilometres down through the Sozina tunnel and we were on Velika Plaža before sunset, feet in the Adriatic. Three days of kitesurfing at Copacabana, a half-day run to Shkodër for lunch, and the car never missed a beat. Paperwork for the Sukobin border was tucked in the glovebox when we collected it."
+      "text": "Booked a Renault Clio for Podgorica Airport in two clicks. The supplier met us at arrivals, on the road in minutes, and we were on Velika Plaža before sunset. Three days of kitesurfing at Copacabana, a half-day run to Shkodër for lunch, no credit card needed at the supplier and the cross-border paperwork was ready in the glovebox."
     },
     "1": {
       "text": "Second year running we've rented with this crew. This time we based ourselves in the Stari Grad and spent a full week driving the southern coast, Ada Bojana for the fish stilts, Valdanos for the olive-grove cove, Lake Skadar via Virpazar. Having your own wheels out of Ulcinj means you can leave for Bar at six in the morning before the beach traffic builds. No fuss, no hidden fees."
@@ -270,20 +270,20 @@
   },
   "faqItems": {
     "0": {
-      "q": "What do I need to bring for pickup?",
-      "a": "A valid driving licence, your passport or national ID, and a physical credit card in the lead driver's name. Licences without Latin characters also require an International Driving Permit."
+      "q": "What documents do I need for pickup?",
+      "a": "A valid driving licence and passport or national ID. A credit card is not required on any car on the platform — cash, debit card and crypto are accepted at the supplier. Licences without Latin characters also require an International Driving Permit."
     },
     "1": {
       "q": "How are cross-border fees calculated from Ulcinj?",
-      "a": "Suppliers price cross-border travel in three tiers, and Ulcinj is the rare base where the middle tier is the natural pick rather than an upgrade. Tier 1 covers neighbours excluding Albania and Kosovo, suited to a Trebinje run or a Croatia hop via Debeli Brijeg. Tier 2 adds Albania and Kosovo, and from Ulcinj that means the Sukobin-Muriqan crossing 12 km south, Shkodër in 30 minutes, and Tirana reachable in around 2 hours 30. Most guests here choose Tier 2 because the Albanian day trip is part of why they pick Ulcinj over Bar or Budva. Tier 3 bundles the full neighbour set with more distant countries, useful if your itinerary loops through Bulgaria, North Macedonia or further. Tick every country at booking and the Green Card waits in the glovebox at pickup."
+      "a": "Suppliers price cross-border travel as a paid permit in three tiers, and Ulcinj is the rare base where the middle tier is the natural pick rather than an upgrade. Tier 1 covers Croatia, Bosnia & Herzegovina and Serbia (no Green Card needed), suited to a Trebinje run or a Croatia hop via Debeli Brijeg. Tier 2 adds Albania and Kosovo with a Green Card provided, and from Ulcinj that means the Sukobin-Muriqan crossing 12 km south, Shkodër in 30 minutes, and Tirana reachable in around 2 hours 30. Most guests here choose Tier 2 because the Albanian day trip is part of why they pick Ulcinj over Bar or Budva. Tier 3 bundles the full neighbour set with Macedonia, all EU countries and Switzerland (Green Card provided), useful if your itinerary loops further afield. Tick the right tier at booking and the Green Card waits in the glovebox at pickup."
     },
     "2": {
       "q": "What age do I need to be?",
-      "a": "The minimum is 21 years old with at least two years of driving experience. Drivers under 25 pay a young-driver supplement, the exact amount depends on the vehicle category."
+      "a": "Age and required driving experience vary by vehicle. The lowest cars on the platform are available from 18+ years old with 1+ years driving experience — filter by your age and experience to see the cars open to you."
     },
     "3": {
       "q": "What does the rental price cover?",
-      "a": "Every booking includes CDW insurance, third-party liability, VAT, and a roadside safety kit. Most vehicles offer unlimited mileage, check the individual listing for details."
+      "a": "Every booking includes the free Minimum (third-party liability) cover with a typical €100 deposit, plus a free second driver and VAT. Insurance upgrades are paid extras: Basic from €8/day, Full from €10/day, and a no-deposit Full Plus from €18/day. Unlimited mileage is included on most cars (376 of around 380); each listing shows the cover, mileage policy and any extras before you confirm."
     },
     "4": {
       "q": "Which extras can I add to my Ulcinj rental?",
@@ -294,12 +294,12 @@
       "a": "Both make practical sense given the way Ulcinj is actually used. Theft Protection is worth it if you plan long beach days at Ada Bojana, the unpaved Sas fortress turn-off above town, or the lay-bys along the Bojana river road, all places where the car sits unattended for hours away from busy parking. Personal Accident Insurance is sensible cover for the rough access roads behind Velika Plaža, the gravel spurs out to Valdanos, and the Albanian secondary roads beyond the Sukobin crossing where surfaces change without warning. Neither is mandatory, the supplier explains the cap and the day rate at the desk, decide on the spot."
     },
     "6": {
-      "q": "Do I need a deposit?",
-      "a": "Most cars require between €100 and €350 held on a credit card. Some economy vehicles are deposit-free, these are clearly marked in your search results."
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation is available on selected cars (around 176 of approximately 380, marked clearly in the search results). On those cars, the full advance payment is refunded if you cancel more than 24 hours before pickup; cancellations within 24 hours of pickup are non-refundable."
     },
     "7": {
-      "q": "Is there a mileage cap?",
-      "a": "Many vehicles include unlimited mileage. Those with limits charge a per-kilometre rate beyond the allowance, always visible before you confirm."
+      "q": "Is a deposit required?",
+      "a": "Most cars hold a €100 deposit at pickup. 47 cars on the platform require no deposit at all, and a further 124 offer a no-deposit option as a paid service. Choosing the Full Plus insurance tier (from €18/day) also waives the deposit. The exact amount (if any) is shown clearly before you book."
     },
     "8": {
       "q": "Are there any surprise charges?",
@@ -310,16 +310,16 @@
       "a": "A 15-20% advance payment secures your reservation. The balance is settled directly with the rental agent when you arrive to collect the vehicle."
     },
     "10": {
-      "q": "Can I rent without a credit card?",
-      "a": "A handful of vehicles are available without a credit card requirement. Look for the no-deposit filter when searching by pickup location."
-    },
-    "11": {
       "q": "How do I collect the car at Podgorica Airport?",
       "a": "A representative meets you inside the Podgorica Airport arrivals hall with a name board. Your car is in the terminal car park, steps away. The drive south to Ulcinj via the Sozina tunnel and Bar takes around seventy minutes."
     },
+    "11": {
+      "q": "Can I rent without a credit card?",
+      "a": "Yes. Every car on the platform can be booked without a credit card — payment by cash, debit card or crypto is accepted at the supplier. The deposit (typically €100) is held by whichever payment method you use; no-deposit cars are also clearly marked at search."
+    },
     "12": {
-      "q": "What if I need to cancel?",
-      "a": "Most vehicles offer free cancellation up to seven days before pickup. Premium and convertible classes require thirty days. A small processing fee applies to all cancellations."
+      "q": "What types of cars are available?",
+      "a": "The platform lists around 380 cars across six categories: Economy (135), Standard (109), SUV (85), Lux (51), Convertibles (17) and Vans (60). Brands include Citroen, Dacia, Renault, SEAT, Skoda, Suzuki, Toyota, VW, Volvo, Audi, BMW, Land Rover and more. Filter by category, gearbox, drive type or budget when searching to narrow it down."
     }
   },
   "destCards": {
@@ -401,17 +401,17 @@
   },
   "aboutBody": {
     "h1": "Rental Cars Matched to Ulcinj and the Southern Coast",
-    "p1": "Car Rental Ulcinj partners with trusted local operators to put together a fleet suited to the southern Montenegrin coast: compact hatchbacks for the tight lanes inside Stari Grad, SUVs for the rutted track down to Valdanos and the gravel spurs above Velika Plaža, and diesel saloons for longer runs north to Podgorica or across the Sukobin border into Albania. Every car is supplied by established operators in Ulcinj and Bar, serviced regularly, and delivered with full insurance.",
+    "p1": "Car Rental Ulcinj partners with trusted local operators to put together a fleet suited to the southern Montenegrin coast: compact hatchbacks for the tight lanes inside Stari Grad, SUVs for the rutted track down to Valdanos and the gravel spurs above Velika Plaža, and diesel saloons for longer runs north to Podgorica or across the Sukobin border into Albania. Every car is supplied by established operators in Ulcinj and Bar, serviced regularly, and delivered with free Minimum (third-party) cover and paid insurance upgrades from €8/day.",
     "h2": "Why a Car Changes Everything Here",
     "p2": "Scheduled buses follow the Ulcinj–Bar–Podgorica highway and stop. That is the extent of public transport. They will not detour to the fish-stilt restaurants at the mouth of the Bojana, or drop you beside a kite school on Velika Plaža, or navigate the single-track road that drops through the olive groves to Valdanos Bay. Only your own wheels and a willingness to explore unlock the south of Montenegro properly.",
     "h3": "Fleet and Collection Points",
-    "p3": "We offer collection across the southern coast: Podgorica Airport (TGD, 70 km north via the Sozina tunnel), directly outside your Stari Grad apartment, beside Mala Plaža, at the Bar ferry terminal, and at 25+ further handover points. Economy hatchbacks thread through the Old Town approach lanes effortlessly. SUVs handle the loose gravel on the Ada Bojana track without breaking stride. Every vehicle carries full insurance, and cross-border documentation for Albania, Croatia, Bosnia, Serbia, and Kosovo is arranged at the time of booking.",
+    "p3": "We offer collection across the southern coast: Podgorica Airport (TGD, 70 km north via the Sozina tunnel), directly outside your Stari Grad apartment, beside Mala Plaža, at the Bar ferry terminal, and at 25+ further handover points. Economy hatchbacks thread through the Old Town approach lanes effortlessly. SUVs handle the loose gravel on the Ada Bojana track without breaking stride. Every vehicle includes free Minimum (third-party) cover with paid upgrades from €8/day, and the cross-border permit (three tiers covering Croatia/Bosnia/Serbia, plus Albania/Kosovo, or all-EU + Switzerland) is arranged at the time of booking.",
     "promiseTitle": "What We Stand Behind",
-    "promise1": "Full insurance with a zero-excess upgrade on every reservation",
+    "promise1": "Free Minimum (third-party) cover on every booking, with paid upgrades to Basic, Full and no-deposit Full Plus",
     "promise2": "A named representative at Podgorica Airport arrivals, sign in hand, vehicle parked outside",
     "promise3": "Transparent pricing, no airport levies, no fuel-policy surprises",
     "promise4": "Green Card paperwork arranged for five neighbouring countries",
-    "promise5": "Free cancellation up to seven days before your collection date",
+    "promise5": "Free cancellation on selected cars (around 176 of ~380): full advance payment refunded if you cancel more than 24 hours before pickup",
     "promise6": "Round-the-clock roadside support, from Ulcinj to Žabljak and everywhere in between",
     "h4": "Local Road Knowledge",
     "p4": "Ask us which afternoons the Velika Plaža car parks fill with day-trippers from Shkodër, and we can point you toward the quieter Copacabana end of the beach, or suggest a loop inland through the olive groves instead. Ask about the unmarked turn-off for Valdanos Bay and we can draw the map for you. From Sukobin border queue patterns to the best hour to catch the Virpazar boatmen at Lake Skadar, we draw on local knowledge from partners and drivers working across the south. Tell us at booking that an Albanian day is on the cards and we tick Tier 2 cross-border so the Green Card is ready, suggest a SIM-card so your phone stays on Montenegrin data after you cross at Sukobin, and mention which restaurants in Shkodër are worth the 30 minute drive south.",
@@ -841,7 +841,7 @@
       "1": {
         "tag": "Off the tarmac",
         "title": "Ada Bojana Sand Needs Four Wheels",
-        "text": "Tarmac ends at the Ada Bojana bridge. The sand tracks to the fish restaurants and the river mouth chew tyres on two-wheel-drive cars, book a Jeep or Stonic if this is on your list."
+        "text": "Tarmac ends at the Ada Bojana bridge. The sand tracks to the fish restaurants and the river mouth chew tyres on two-wheel-drive cars, book a Land Rover or Stonic if this is on your list."
       },
       "2": {
         "tag": "Albanian border",
@@ -897,7 +897,7 @@
     "withItems": [
       "Podgorica Airport pickup: included",
       "Unlimited destinations: your pace",
-      "Full insurance: included",
+      "Free Minimum cover (paid upgrades from €8/day)",
       "Cross-border to Albania: permitted",
       "Every beach, viewpoint, village"
     ],
