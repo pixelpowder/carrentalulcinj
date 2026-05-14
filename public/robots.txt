@@ -3,4 +3,4 @@ Allow: /
 Disallow: /widget.html
 Disallow: /_next/static/
 
-Sitemap: https://www.kotorcarrental.com/sitemap.xml
+Sitemap: https://www.carrentalulcinj.com/sitemap.xml
