@@ -276,7 +276,7 @@
     },
     "fullInsurance": {
       "title": "Versicherungsoptionen",
-      "desc": "Kostenlose Mindestversicherung (Haftpflicht) bei jeder Buchung — Basic ab 8 €/Tag, Voll ab 10 €/Tag, kautionsfreie Voll Plus ab 18 €/Tag."
+      "desc": "Kostenlose Mindestdeckung (Haftpflicht) bei jeder Buchung, mit Basic, Full und Full Plus ohne Kaution als kostenpflichtige Upgrades."
     },
     "support": {
       "title": "24/7-Buchungssupport",
