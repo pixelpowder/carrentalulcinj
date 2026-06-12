@@ -123,8 +123,8 @@
     "metaTitle": "Page introuvable | Car Rental Ulcinj"
   },
   "home": {
-    "seoDesc": "Location de voiture à Ulcinj dès 20 €/jour avec couverture Minimum gratuite et améliorations payantes dès 8 €/jour. Remise à l'aéroport de Podgorica (TGD), prise en charge à la Velika Plaža et papiers de la frontière albanaise inclus à la réservation.",
-    "title": "Location de voiture à Ulcinj. Dès 20 €/jour, assurance flexible."
+    "seoDesc": "Location de voiture à Ulcinj avec couverture Minimum gratuite et améliorations payantes. Remise à l'aéroport de Podgorica (TGD), prise en charge à la Velika Plaža et papiers de la frontière albanaise inclus à la réservation.",
+    "title": "Location de voiture à Ulcinj., assurance flexible."
   },
   "privacy": {
     "title": "Politique de Confidentialité",
@@ -193,7 +193,7 @@
     },
     "3": {
       "q": "Qu'est-ce qui est inclus dans le prix ?",
-      "a": "Chaque réservation inclut la couverture Minimum (responsabilité civile) gratuite avec une caution typique de 100 € et la TVA. Les améliorations d'assurance sont des extras payants : Basic dès 8 €/jour, Full dès 10 €/jour et Full Plus sans caution dès 18 €/jour. Le kilométrage illimité est inclus sur la plupart des voitures (376 sur environ 380)."
+      "a": "Chaque réservation inclut la couverture Minimum (responsabilité civile) gratuite avec une caution typique de 100 € et la TVA. Les améliorations d'assurance sont des extras payants: Basic, Full et Full Plus sans caution. Le kilométrage illimité est inclus sur la plupart des voitures (376 sur environ 380)."
     },
     "4": {
       "q": "Comment se passe la prise en charge à l'aéroport de Tivat Airport ?",
@@ -209,7 +209,7 @@
     },
     "7": {
       "q": "Un dépôt de garantie est-il requis ?",
-      "a": "La plupart des voitures retiennent une caution de 100 € à la prise en charge. 47 voitures sur la plateforme ne nécessitent aucune caution, et 124 autres offrent une option sans caution comme service payant. Choisir l'assurance Full Plus (dès 18 €/jour) lève également la caution. Le montant exact (le cas échéant) est clairement indiqué avant la réservation."
+      "a": "La plupart des voitures retiennent une caution de 100 € à la prise en charge. 47 voitures sur la plateforme ne nécessitent aucune caution, et 124 autres offrent une option sans caution comme service payant. Choisir l'assurance Full Plus lève également la caution. Le montant exact (le cas échéant) est clairement indiqué avant la réservation."
     },
     "8": {
       "q": "Que se passe-t-il si je dépasse la limite de kilométrage ?",
@@ -349,7 +349,7 @@
   "about": {
     "title": "À Propos",
     "subtitle": "Enracinés dans la côte d'Ulcinj, forts de 15 ans d'expérience sur les routes côtières.",
-    "seoDesc": "Locations à Ulcinj pensées pour le long séjour : tarifs hebdomadaires et mensuels, couverture Minimum gratuite avec améliorations payantes dès 8 €/jour, retrait à l'aéroport de Podgorica et accompagnement pour les voyageurs basés sur la côte sud.",
+    "seoDesc": "Locations à Ulcinj pensées pour le long séjour: tarifs hebdomadaires et mensuels, couverture Minimum gratuite avec améliorations payantes, retrait à l'aéroport de Podgorica et accompagnement pour les voyageurs basés sur la côte sud.",
     "heading1": "Car Rental Ulcinj",
     "p1": "Depuis 2007, Car Rental Ulcinj aide les visiteurs à explorer la baie de Budva à leur rythme. Ce qui a commencé comme une modeste flotte desservant le port s'est développé en l'une des agences de location les plus fiables de la baie, mettant en relation les voyageurs avec des véhicules adaptés aux ruelles côtières étroites, aux lacets de montagne et aux road trips transfrontaliers.",
     "heading2": "Pourquoi nous avons commencé",
@@ -1762,7 +1762,7 @@
   "ctaBrand": {
     "brand": "Location de Voitures Budva",
     "searchCars": "Chercher des Voitures",
-    "tagline": "À partir de 13€/jour · Prise en charge à l'aéroport de Tivat Airport"
+    "tagline": "Prise en charge à l'aéroport de Tivat Airport"
   },
   "contentPage": {
     "youMightAlsoLike": "Vous aimerez peut-être aussi",

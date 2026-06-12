@@ -172,13 +172,13 @@
     "metaTitle": "Pagina non trovata | Car Rental Ulcinj"
   },
   "home": {
-    "seoDesc": "Noleggio auto a Ulcinj da 20 €/giorno con copertura Minima gratuita e upgrade a pagamento da 8 €/giorno. Consegna all'aeroporto di Podgorica (TGD), ritiro alla Velika Plaža e documenti per il confine albanese alla prenotazione.",
-    "title": "Noleggio Auto a Ulcinj. Da 20 €/giorno, assicurazione flessibile."
+    "seoDesc": "Noleggio auto a Ulcinj con copertura Minima gratuita e upgrade a pagamento. Consegna all'aeroporto di Podgorica (TGD), ritiro alla Velika Plaža e documenti per il confine albanese alla prenotazione.",
+    "title": "Noleggio Auto a Ulcinj., assicurazione flessibile."
   },
   "about": {
     "title": "Chi Siamo",
     "subtitle": "Radicati nella Baia di Budva, forti di 15 anni di esperienza sulle strade costiere.",
-    "seoDesc": "Noleggi a Ulcinj pensati per il lungo soggiorno: tariffe settimanali e mensili, copertura Minima gratuita con upgrade a pagamento da 8 €/giorno, ritiro all'aeroporto di Podgorica e supporto per i viaggiatori basati sulla costa sud.",
+    "seoDesc": "Noleggi a Ulcinj pensati per il lungo soggiorno: tariffe settimanali e mensili, copertura Minima gratuita con upgrade a pagamento, ritiro all'aeroporto di Podgorica e supporto per i viaggiatori basati sulla costa sud.",
     "heading1": "Car Rental Ulcinj",
     "p1": "Dal 2007, Car Rental Ulcinj aiuta i visitatori a esplorare le Bocche di Budva in piena libertà. Quella che è iniziata come una piccola flotta al servizio della zona portuale si è espansa in una delle operazioni di noleggio più affidabili della baia, mettendo in contatto i viaggiatori con veicoli adatti ai vicoli costieri stretti, ai tornanti di montagna e ai viaggi transfrontalieri.",
     "heading2": "Perché Abbiamo Iniziato",
@@ -321,7 +321,7 @@
     },
     "3": {
       "q": "Cosa include il prezzo del noleggio?",
-      "a": "Ogni prenotazione include la copertura Minima gratuita (responsabilità civile) con un deposito tipico di 100 € e l'IVA. Gli upgrade assicurativi sono extra a pagamento: Basic da 8 €/giorno, Full da 10 €/giorno e Full Plus senza deposito da 18 €/giorno. Il chilometraggio illimitato è incluso sulla maggior parte delle auto (376 su circa 380)."
+      "a": "Ogni prenotazione include la copertura Minima gratuita (responsabilità civile) con un deposito tipico di 100 € e l'IVA. Gli upgrade assicurativi sono extra a pagamento: Basic, Full e Full Plus senza deposito. Il chilometraggio illimitato è incluso sulla maggior parte delle auto (376 su circa 380)."
     },
     "4": {
       "q": "Come ritiro l’auto all’aeroporto di Tivat Airport?",
@@ -337,7 +337,7 @@
     },
     "7": {
       "q": "È richiesto un deposito cauzionale?",
-      "a": "La maggior parte delle auto trattiene un deposito di 100 € al ritiro. 47 auto sulla piattaforma non richiedono alcun deposito, e altre 124 offrono un'opzione senza deposito come servizio a pagamento. La scelta del livello assicurativo Full Plus (da 18 €/giorno) elimina anch'essa il deposito. L'importo esatto (se previsto) è chiaramente indicato prima della prenotazione."
+      "a": "La maggior parte delle auto trattiene un deposito di 100 € al ritiro. 47 auto sulla piattaforma non richiedono alcun deposito, e altre 124 offrono un'opzione senza deposito come servizio a pagamento. La scelta del livello assicurativo Full Plus elimina anch'essa il deposito. L'importo esatto (se previsto) è chiaramente indicato prima della prenotazione."
     },
     "8": {
       "q": "C’è un limite di chilometraggio?",
@@ -1762,7 +1762,7 @@
   "ctaBrand": {
     "brand": "Autonoleggio Budva",
     "searchCars": "Cerca Auto",
-    "tagline": "Da €13/giorno · Ritiro presso l'aeroporto di Tivat Airport"
+    "tagline": "Ritiro presso l'aeroporto di Tivat Airport"
   },
   "contentPage": {
     "youMightAlsoLike": "Potrebbe interessarti anche",

@@ -172,13 +172,13 @@
     "metaTitle": "Seite nicht gefunden | Car Rental Ulcinj"
   },
   "home": {
-    "seoDesc": "Autovermietung Ulcinj ab 20 €/Tag mit kostenloser Mindestversicherung und kostenpflichtigen Upgrades ab 8 €/Tag. Übergabe am Flughafen Podgorica (TGD), Abholung an der Velika Plaža und Albanien-Grenzpapiere bei Buchung.",
-    "title": "Autovermietung in Ulcinj. Ab 20 €/Tag, flexible Versicherung."
+    "seoDesc": "Autovermietung Ulcinj mit kostenloser Mindestversicherung und kostenpflichtigen Upgrades. Übergabe am Flughafen Podgorica (TGD), Abholung an der Velika Plaža und Albanien-Grenzpapiere bei Buchung.",
+    "title": "Autovermietung in Ulcinj., flexible Versicherung."
   },
   "about": {
     "title": "Über uns",
     "subtitle": "Verwurzelt in der Ulcinj-Küste, gestützt auf 15 Jahre Erfahrung auf Küstenstraßen.",
-    "seoDesc": "Mietwagen in Ulcinj für längere Aufenthalte: Wochen- und Monatstarife, kostenlose Mindestversicherung mit kostenpflichtigen Upgrades ab 8 €/Tag, Abholung am Flughafen Podgorica und Unterstützung für Reisende an der Südküste.",
+    "seoDesc": "Mietwagen in Ulcinj für längere Aufenthalte: Wochen- und Monatstarife, kostenlose Mindestversicherung mit kostenpflichtigen Upgrades, Abholung am Flughafen Podgorica und Unterstützung für Reisende an der Südküste.",
     "heading1": "Car Rental Ulcinj",
     "p1": "Seit 2007 hilft Car Rental Ulcinj Besuchern, die Bucht von Budva auf eigene Faust zu erkunden. Was als kleine Flotte im Hafengebiet begann, hat sich zu einem der zuverlässigsten Mietwagenunternehmen der Bucht entwickelt, mit Fahrzeugen für schmale Küstenstraßen, Bergserpentinen und grenzüberschreitende Ausflüge.",
     "heading2": "Warum wir angefangen haben",
@@ -321,7 +321,7 @@
     },
     "3": {
       "q": "Was ist im Mietpreis enthalten?",
-      "a": "Jede Buchung beinhaltet die kostenlose Mindestversicherung (Haftpflicht) mit einer typischen Kaution von 100 €, plus einen kostenlosen zweiten Fahrer und MwSt. Versicherungs-Upgrades sind kostenpflichtige Extras: Basic ab 8 €/Tag, Voll ab 10 €/Tag und kautionsfreie Voll Plus ab 18 €/Tag. Unbegrenzte Kilometer sind bei den meisten Autos enthalten (376 von rund 380)."
+      "a": "Jede Buchung beinhaltet die kostenlose Mindestversicherung (Haftpflicht) mit einer typischen Kaution von 100 €, plus einen kostenlosen zweiten Fahrer und MwSt. Versicherungs-Upgrades sind kostenpflichtige Extras: Basic, Voll und kautionsfreie Voll Plus. Unbegrenzte Kilometer sind bei den meisten Autos enthalten (376 von rund 380)."
     },
     "4": {
       "q": "Wie hole ich das Auto am Flughafen Podgorica ab?",
@@ -329,7 +329,7 @@
     },
     "5": {
       "q": "Brauche ich eine Kaution?",
-      "a": "Die meisten Autos halten eine Kaution von 100 € bei Abholung ein. 47 Autos auf der Plattform erfordern überhaupt keine Kaution, weitere 124 bieten eine kautionsfreie Option als kostenpflichtigen Service. Die Voll-Plus-Versicherungsstufe (ab 18 €/Tag) hebt die Kaution ebenfalls auf. Der genaue Betrag (falls vorhanden) wird vor der Buchung deutlich angezeigt."
+      "a": "Die meisten Autos halten eine Kaution von 100 € bei Abholung ein. 47 Autos auf der Plattform erfordern überhaupt keine Kaution, weitere 124 bieten eine kautionsfreie Option als kostenpflichtigen Service. Die Voll-Plus-Versicherungsstufe hebt die Kaution ebenfalls auf. Der genaue Betrag (falls vorhanden) wird vor der Buchung deutlich angezeigt."
     },
     "6": {
       "q": "Was ist die Stornierungsbedingung?",
@@ -1790,7 +1790,7 @@
   "ctaBrand": {
     "brand": "Budva Autovermietung",
     "searchCars": "Autos suchen",
-    "tagline": "Ab €13/Tag · Abholung am Flughafen Tivat Airport"
+    "tagline": "Abholung am Flughafen Tivat Airport"
   },
   "contentPage": {
     "youMightAlsoLike": "Das könnte dir auch gefallen",

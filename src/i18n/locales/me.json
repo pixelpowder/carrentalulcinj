@@ -172,13 +172,13 @@
     "metaTitle": "Stranica nije pronađena | Car Rental Ulcinj"
   },
   "home": {
-    "seoDesc": "Najam automobila u Ulcinju od 20 €/dan sa besplatnim Minimalnim osiguranjem i plaćenim nadogradnjama od 8 €/dan. Predaja na Aerodromu Podgorica (TGD), preuzimanje na Velikoj plaži i papiri za albansku granicu pri rezervaciji.",
-    "title": "Najam Automobila u Ulcinju. Od 20 €/dan, fleksibilno osiguranje."
+    "seoDesc": "Najam automobila u Ulcinju sa besplatnim Minimalnim osiguranjem i plaćenim nadogradnjama. Predaja na Aerodromu Podgorica (TGD), preuzimanje na Velikoj plaži i papiri za albansku granicu pri rezervaciji.",
+    "title": "Najam Automobila u Ulcinju., fleksibilno osiguranje."
   },
   "about": {
     "title": "O Nama",
     "subtitle": "Pomažemo putnicima da istraže Crnu Goru od 2007.",
-    "seoDesc": "Najam automobila u Ulcinju za duže boravke: tjedne i mjesečne tarife, besplatno Minimalno osiguranje sa plaćenim nadogradnjama od 8 €/dan, preuzimanje na Aerodromu Podgorica i podrška za putnike koji borave na južnoj obali.",
+    "seoDesc": "Najam automobila u Ulcinju za duže boravke: tjedne i mjesečne tarife, besplatno Minimalno osiguranje sa plaćenim nadogradnjama, preuzimanje na Aerodromu Podgorica i podrška za putnike koji borave na južnoj obali.",
     "heading1": "Car Rental Ulcinj",
     "p1": "Od 2007. godine, Car Rental Ulcinj pomaze posjetiocima da istraze Bokobudvaski zaliv pod sopstvenim uslovima. Ono sto je pocelo kao skromna flota koja je opsluzivala lucko podrucje preraslo je u jednu od najpouzdanijih operacija iznajmljivanja na zalivu, povezujuci putnike sa vozilima prilagodenim uskim obalnim trakama, planinskim serpentinama i prekogranicnim putovanjima.",
     "heading2": "Zasto Smo Poceli",
@@ -192,7 +192,7 @@
     "p3Link3": "Starom gradu Budva",
     "p3d": "i lokacijama duz obale i u unutrasnjosti.",
     "promiseTitle": "Nase Obecanje",
-    "promise1": "Besplatno Minimalno (treca strana) osiguranje uz svaku rezervaciju, sa placenim nadogradnjama od 8 €/dan",
+    "promise1": "Besplatno Minimalno (treca strana) osiguranje uz svaku rezervaciju, sa placenim nadogradnjama",
     "promise2": "Docek na aerodromu Tivat Airport, vas auto ceka na dolascima",
     "promise3": "Transparentne cijene, navedena cifra je konacna cifra",
     "promise4": "Prekogranicna putovanja u Hrvatsku, Bosnu, Albaniju, Srbiju i Kosovo",
@@ -321,7 +321,7 @@
     },
     "3": {
       "q": "Šta je uključeno u cijenu?",
-      "a": "Svaka rezervacija uključuje besplatno Minimalno osiguranje (treća strana) sa tipičnim depozitom od 100 € i PDV. Nadogradnje osiguranja su plaćeni dodaci: Basic od 8 €/dan, Full od 10 €/dan i Full Plus bez depozita od 18 €/dan. Neograničena kilometraža uključena je na većini automobila (376 od oko 380)."
+      "a": "Svaka rezervacija uključuje besplatno Minimalno osiguranje (treća strana) sa tipičnim depozitom od 100 € i PDV. Nadogradnje osiguranja su plaćeni dodaci: Basic, Full i Full Plus bez depozita. Neograničena kilometraža uključena je na većini automobila (376 od oko 380)."
     },
     "4": {
       "q": "Kako funkcioniše preuzimanje na aerodromu Podgorica?",
@@ -329,7 +329,7 @@
     },
     "5": {
       "q": "Da li je potreban depozit?",
-      "a": "Većina automobila zadržava depozit od 100 € pri preuzimanju. 47 automobila na platformi uopšte ne zahtijeva depozit, a još 124 nudi opciju bez depozita kao plaćenu uslugu. Izbor Full Plus osiguranja (od 18 €/dan) takođe ukida depozit. Tačan iznos (ako postoji) jasno je prikazan prije rezervacije."
+      "a": "Većina automobila zadržava depozit od 100 € pri preuzimanju. 47 automobila na platformi uopšte ne zahtijeva depozit, a još 124 nudi opciju bez depozita kao plaćenu uslugu. Izbor Full Plus osiguranja takođe ukida depozit. Tačan iznos (ako postoji) jasno je prikazan prije rezervacije."
     },
     "6": {
       "q": "Koja je politika otkazivanja?",
@@ -437,7 +437,7 @@
     "h3": "Šta nudimo",
     "p3": "Nudimo preuzimanje širom zaliva: aerodrom Tivat Airport (8 km od bedema Budvaa), direktno ispred parkinga kod Riječnih vrata, kao i u više od 28 gradova od Herceg Novog do Ulcinja. Ekonomična hečbek vozila s lakoćom prolaze prilaznim putevima starom gradu. SUV modeli bez napora savladavaju Kosmačske serpentine. Svako vozilo ima fleksibilne opcije osiguranja, a prekogranična dokumentacija za Hrvatsku, Bosnu, Albaniju, Srbiju i Kosovo organizuje se u trenutku rezervacije.",
     "promiseTitle": "Naše obećanje",
-    "promise1": "Besplatno Minimalno (treća strana) osiguranje uz svaku rezervaciju, sa plaćenim nadogradnjama od 8 €/dan",
+    "promise1": "Besplatno Minimalno (treća strana) osiguranje uz svaku rezervaciju, sa plaćenim nadogradnjama",
     "promise2": "Imenovani predstavnik na dolascima u Tivtu, sa natpisom u ruci, vozilo parkirano ispred",
     "promise3": "Transparentne cijene, bez aerodromskih nameta, bez iznenađenja u politici goriva",
     "promise4": "Zelena karta organizovana za pet susjednih zemalja",
@@ -1758,7 +1758,7 @@
   "ctaBrand": {
     "brand": "Iznajmljivanje automobila Budva",
     "searchCars": "Pretraži automobile",
-    "tagline": "Od €13/dan · preuzimanje na Aerodromu Tivat Airport"
+    "tagline": "preuzimanje na Aerodromu Tivat Airport"
   },
   "contentPage": {
     "youMightAlsoLike": "Možda će vam se svidjeti i ovo",

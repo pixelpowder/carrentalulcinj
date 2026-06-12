@@ -130,7 +130,7 @@
   "book": {
     "title": "Find Your Car",
     "seoTitle": "Book a Car in Ulcinj",
-    "seoDesc": "Weekly and monthly rental cars for Ulcinj and the southern coast. Free Minimum cover with paid upgrades from €8/day, Podgorica Airport handover, and one flat price covering Velika Plaža to Ada Bojana.",
+    "seoDesc": "Weekly and monthly rental cars for Ulcinj and the southern coast. Free Minimum cover with paid upgrades, Podgorica Airport handover, and one flat price covering Velika Plaža to Ada Bojana.",
     "iframeTitle": "Car rental booking"
   },
   "footer": {
@@ -169,13 +169,13 @@
     "metaTitle": "Page Not Found | Car Rental Ulcinj"
   },
   "home": {
-    "seoDesc": "Ulcinj car rental from €20/day with free Minimum cover and paid upgrades from €8/day. Podgorica Airport (TGD) handover, Velika Plaža pickup, and Albanian border paperwork at booking.",
-    "title": "Car Rental in Ulcinj. From €20/day, Flexible Insurance."
+    "seoDesc": "Ulcinj car rental with free Minimum cover and paid upgrades. Podgorica Airport (TGD) handover, Velika Plaža pickup, and Albanian border paperwork at booking.",
+    "title": "Car Rental in Ulcinj., Flexible Insurance."
   },
   "about": {
     "title": "About Us",
     "subtitle": "Car rental in Ulcinj with Podgorica Airport pickup, by locals who know the Bojana road, the kite beaches, and which fish restaurant to book first.",
-    "seoDesc": "Ulcinj rentals built for the long stay: weekly and monthly rates, free Minimum cover with paid upgrades from €8/day, Podgorica Airport collection, and support for travellers basing on the southern coast.",
+    "seoDesc": "Ulcinj rentals built for the long stay: weekly and monthly rates, free Minimum cover with paid upgrades, Podgorica Airport collection, and support for travellers basing on the southern coast.",
     "heading1": "Car Rental Ulcinj",
     "p1": "Car Rental Ulcinj connects travellers with reliable rental cars on Montenegro's southern coast. We work with trusted local operators to offer a range of vehicles, from compact city cars for Stari Grad's cobbles to SUVs for the sand tracks out to Ada Bojana.",
     "heading2": "Why a Car Makes Sense in Ulcinj",
@@ -189,7 +189,7 @@
     "p3Link3": "Ulcinj town centre",
     "p3d": ", and locations throughout the coast and interior.",
     "promiseTitle": "Our Promise",
-    "promise1": "Free Minimum (third-party) cover on every booking, with paid upgrades from €8/day",
+    "promise1": "Free Minimum (third-party) cover on every booking, with paid upgrades",
     "promise2": "Podgorica Airport meet-and-greet or Ulcinj door delivery, your car waits where you need it",
     "promise3": "Transparent pricing, the quoted figure is the final figure",
     "promise4": "Cross-border travel to Albania, Kosovo, Bosnia, Serbia, and Croatia with Green Card arranged",
@@ -209,7 +209,7 @@
   "montenegro": {
     "title": "Montenegro Driving Guide",
     "subtitle": "Coastal roads, mountain switchbacks, and border crossings, from an Ulcinj-based driver who has covered them all from the southern coast up to Durmitor.",
-    "seoDesc": "Montenegro monthly car rental based in Ulcinj: unlimited mileage on most cars (376 of ~380) for inland trips to Lake Skadar, Durmitor, and Ostrog. Free Minimum cover with paid upgrades from €8/day."
+    "seoDesc": "Montenegro monthly car rental based in Ulcinj: unlimited mileage on most cars (376 of ~380) for inland trips to Lake Skadar, Durmitor, and Ostrog. Free Minimum cover with paid upgrades."
   },
   "border-crossing": {
     "title": "Driving Across Borders from Ulcinj",
@@ -283,7 +283,7 @@
     },
     "3": {
       "q": "What does the rental price cover?",
-      "a": "Every booking includes the free Minimum (third-party liability) cover with a typical €100 deposit and VAT. Insurance upgrades are paid extras: Basic from €8/day, Full from €10/day, and a no-deposit Full Plus from €18/day. Unlimited mileage is included on most cars (376 of around 380); each listing shows the cover, mileage policy and any extras before you confirm."
+      "a": "Every booking includes the free Minimum (third-party liability) cover with a typical €100 deposit and VAT. Insurance upgrades are paid extras: Basic, Full, and a no-deposit Full Plus. Unlimited mileage is included on most cars (376 of around 380); each listing shows the cover, mileage policy and any extras before you confirm."
     },
     "4": {
       "q": "Which extras can I add to my Ulcinj rental?",
@@ -299,7 +299,7 @@
     },
     "7": {
       "q": "Is a deposit required?",
-      "a": "Most cars hold a €100 deposit at pickup. 47 cars on the platform require no deposit at all, and a further 124 offer a no-deposit option as a paid service. Choosing the Full Plus insurance tier (from €18/day) also waives the deposit. The exact amount (if any) is shown clearly before you book."
+      "a": "Most cars hold a €100 deposit at pickup. 47 cars on the platform require no deposit at all, and a further 124 offer a no-deposit option as a paid service. Choosing the Full Plus insurance tier also waives the deposit. The exact amount (if any) is shown clearly before you book."
     },
     "8": {
       "q": "Are there any surprise charges?",
@@ -401,11 +401,11 @@
   },
   "aboutBody": {
     "h1": "Rental Cars Matched to Ulcinj and the Southern Coast",
-    "p1": "Car Rental Ulcinj partners with trusted local operators to put together a fleet suited to the southern Montenegrin coast: compact hatchbacks for the tight lanes inside Stari Grad, SUVs for the rutted track down to Valdanos and the gravel spurs above Velika Plaža, and diesel saloons for longer runs north to Podgorica or across the Sukobin border into Albania. Every car is supplied by established operators in Ulcinj and Bar, serviced regularly, and delivered with free Minimum (third-party) cover and paid insurance upgrades from €8/day.",
+    "p1": "Car Rental Ulcinj partners with trusted local operators to put together a fleet suited to the southern Montenegrin coast: compact hatchbacks for the tight lanes inside Stari Grad, SUVs for the rutted track down to Valdanos and the gravel spurs above Velika Plaža, and diesel saloons for longer runs north to Podgorica or across the Sukobin border into Albania. Every car is supplied by established operators in Ulcinj and Bar, serviced regularly, and delivered with free Minimum (third-party) cover and paid insurance upgrades.",
     "h2": "Why a Car Changes Everything Here",
     "p2": "Scheduled buses follow the Ulcinj–Bar–Podgorica highway and stop. That is the extent of public transport. They will not detour to the fish-stilt restaurants at the mouth of the Bojana, or drop you beside a kite school on Velika Plaža, or navigate the single-track road that drops through the olive groves to Valdanos Bay. Only your own wheels and a willingness to explore unlock the south of Montenegro properly.",
     "h3": "Fleet and Collection Points",
-    "p3": "We offer collection across the southern coast: Podgorica Airport (TGD, 70 km north via the Sozina tunnel), directly outside your Stari Grad apartment, beside Mala Plaža, at the Bar ferry terminal, and at 25+ further handover points. Economy hatchbacks thread through the Old Town approach lanes effortlessly. SUVs handle the loose gravel on the Ada Bojana track without breaking stride. Every vehicle includes free Minimum (third-party) cover with paid upgrades from €8/day, and the cross-border permit (three tiers covering Croatia/Bosnia/Serbia, plus Albania/Kosovo, or all-EU + Switzerland) is arranged at the time of booking.",
+    "p3": "We offer collection across the southern coast: Podgorica Airport (TGD, 70 km north via the Sozina tunnel), directly outside your Stari Grad apartment, beside Mala Plaža, at the Bar ferry terminal, and at 25+ further handover points. Economy hatchbacks thread through the Old Town approach lanes effortlessly. SUVs handle the loose gravel on the Ada Bojana track without breaking stride. Every vehicle includes free Minimum (third-party) cover with paid upgrades, and the cross-border permit (three tiers covering Croatia/Bosnia/Serbia, plus Albania/Kosovo, or all-EU + Switzerland) is arranged at the time of booking.",
     "promiseTitle": "What We Stand Behind",
     "promise1": "Free Minimum (third-party) cover on every booking, with paid upgrades to Basic, Full and no-deposit Full Plus",
     "promise2": "A named representative at Podgorica Airport arrivals, sign in hand, vehicle parked outside",
@@ -934,7 +934,7 @@
   "ctaBrand": {
     "brand": "Car Rental Ulcinj",
     "searchCars": "Search Cars",
-    "tagline": "From €13/day · Podgorica Airport pickup"
+    "tagline": "Podgorica Airport pickup"
   },
   "contentPage": {
     "youMightAlsoLike": "You might also like",
